@@ -26,4 +26,4 @@ Thumbs.db
 
 # Arquivos pessoais de configuração
 .env
-.env.local 
+.env.local venv/
