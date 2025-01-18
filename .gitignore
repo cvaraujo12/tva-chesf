@@ -1,0 +1,29 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários
+*.tmp
+*.temp
+~*
+
+# Arquivos de compilação LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Arquivos de backup
+*.bak
+*~
+
+# Arquivos pessoais de configuração
+.env
+.env.local 

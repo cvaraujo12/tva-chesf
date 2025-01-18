@@ -1,0 +1,1627 @@
+Vol. 62, p. 996-1020, jul./dez. 2023. DOI: 10.5380/dma.v62i0.83619 e-ISSN 2176-9109
+
+As rotas para conduzir o processo de transição energética de
+baixo carbono no setor elétrico: uma análise comparativa da
+Alemanha e o Japão
+Paths to drive the low-carbon energy transition process in the electrical
+energy sector: A comparative analysis between Germany and Japan
+William Adrian Clavijo VITTO1*, Helder Queiroz PINTO JR.1**
+¹ Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brasil.
+E-mails de contato: * william.clavijo1990@gmail.com, ** helder@ie.ufrj.br
+Artigo recebido em 8 de novembro de 2021, versão final aceita em 19 de janeiro de 2023, publicado em 10 de novembro de 2023.
+
+RESUMO:
+
+O seguinte trabalho analisa as rotas de política pública para conduzir a transição energética de baixo carbono
+a partir de uma perspectiva comparada dos casos da Alemanha e Japão. Para isso, foi realizada uma pesquisa
+qualitativa a partir do estudo comparativo de ambos os países com base na literatura sobre policy mix. Dessa
+forma, foi realizado um mapeamento dos pacotes de política pública adotados em cada país para conduzir a
+descarbonização da matriz elétrica, permitindo identificar os tipos de instrumentos considerados, o escopo
+dos esforços governamentais implementados e as opções tecnológicas contempladas para substituir as fontes
+fósseis. Entre os principais resultados, encontrou-se que as políticas de incentivo ao aumento da capacidade
+de geração de eletricidade a partir de fontes renováveis estão transitando de esquemas de precificação com
+impacto na tarifa dos consumidores para o estabelecimento de esquemas de precificação que respondam a
+sinais de mercado, em decorrência da redução dos custos de instalação e geração de eletricidade a partir
+das fontes renováveis variáveis. O estudo identificou diferenças nas opções tecnológicas consideradas para
+impulsionar a descarbonização, tendo como elemento notável, a desativação da geração de energia nuclear
+na Alemanha e a reativação dessa fonte no Japão. Em ambos os casos, identificou-se que as políticas públicas
+também caminham para a adaptação dos sistemas elétricos à dinâmica das fontes renováveis variáveis.
+Finalmente, o escopo das políticas governamentais dos dois países almeja o impulso do desenvolvimento
+econômico por meio da construção de nova capacidade produtiva e tecnológica.
+Palavras-chave: transição energética de baixo carbono; policy mix; políticas públicas; Alemanha; Japão.
+
+ABSTRACT:
+
+The following paper analyzes the public policy paths to drive the low-carbon energy transition from a
+comparative perspective between the German and Japanese cases. For this purpose, qualitative research
+
+Desenvolv. e Meio Ambiente usa uma Licença Creative Commons - Atribuição 4.0 Internacional
+
+996
+
+was carried out based on the comparative study between both countries and of literature about Policy Mix.
+Therefore, a mapping of the public policy packages adopted in each country to drive the decarbonization
+of the electric matrix was performed, allowing to identify the type of instruments considered, the scope of
+the governmental efforts implemented, and the technological options contemplated to replace fossil sources.
+Among the main results, it was found that the incentive policies to increase the capacity to generate electricity
+from renewable sources are moving from pricing schemes with an impact on the consumers' tariffs to the
+establishment of pricing schemes that respond to market signals, due to the reduction of the installation
+and electricity generation costs from variable renewable sources. The study identified differences in the
+technological options considered to drive decarbonization, such as phasing out nuclear power generation in
+Germany and its reactivation in Japan. In both cases, it was identified that public policies are also moving
+towards an adaptation of the electricity systems to the dynamics of variable renewable sources. Finally, the
+scope of the governmental policies in both countries aims at boosting economic development through the
+construction of new productive and technological capacity.
+Keywords: low-carbon energy transition; Policy Mix; public policies; Germany; Japan.
+
+1. Introdução
+Com a assinatura do acordo de Paris, em 2015,
+a comunidade internacional marcou um divisor de
+águas na decisão de combater a emergência climática, por meio da implementação de esforços para
+evitar o aumento na temperatura da Terra e sua
+manutenção em 2 °C quando comparado com níveis
+pré-industriais (IRENA, 2019). Para atingir esse
+objetivo, a redução das emissões de gases de efeito
+estufa, decorrente da utilização de fontes fósseis
+de energia, aparece como a questão central nessa
+empreitada, uma vez que são a primeira causa das
+emissões (OCDE, 2021). Contudo a substituição das
+fontes fósseis não é uma questão trivial, considerando que respondem por mais de 80% no consumo de
+energia primária no mundo (BP, 2020)1,2.
+Nas últimas décadas, preocupações com o
+impacto das energias fósseis nas emissões têm
+influenciado uma mudança de orientação nas políticas públicas e nos planos de negócio de diversas
+
+empresas para incentivar o desenvolvimento e a
+difusão de fontes de energia mais limpas. Como
+resultado, em decorrência do desenvolvimento e a
+introdução comercial das novas fontes renováveis,
+principalmente solar fotovoltaica e energia eólica,
+surgiu a opção da eletrificação dos sistemas de
+energia com base nessas novas tecnologias, para
+avançar na descarbonização das matrizes energéticas nacionais. Desta forma, a geração de eletricidade, responsável por 48% das emissões totais das
+indústrias de energia, em nível global, converteu-se
+no setor que tem experimentado a maior quantidade
+avanços, e, no centro dos esforços para conduzir a
+transição energética de baixo carbono (IEA, 2020a).
+Contudo, apesar dos avanços com a difusão
+das novas fontes renováveis em vários países, os
+resultados ainda são insuficientes para propiciar a
+redução das emissões de CO2 nos níveis propostos
+pela comunidade científica para evitar a ocorrência
+de efeitos irreversíveis sobre o planeta (OCDE,
+2020). Diferentemente das transições anteriores, a
+
+De acordo com dados da IEA (2020a), as emissões globais de CO2 tem crescido de forma sustentada durante mais de um século, passando de
+menos de 5 giga toneladas em 1900 até o pico de 33.5 giga toneladas em 2018.
+
+1
+
+2
+
+No mix energético mundial, o petróleo tem uma participação de 33%, seguido do carvão (27%) e gás natural (24%) (BP, 2020).
+
+997
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+atual implica um processo de mudança estrutural
+sem precedente na história (Goldthau et al., 2020).
+A transição energética em curso significa a
+desestabilização do regime sociotécnico dominante, configurado a partir dos regimes tecnológicos
+advindos com o paradigma dos combustíveis fósseis, sua substituição por um regime sociotécnico
+novo, composto pela combinação de opções tecnológicas já existentes, e, que ainda devem sofrer
+aprimoramentos – inovações incrementais –, por
+tecnologias que apenas se encontram em estágios
+iniciais de desenvolvimento, ou por soluções que
+estão por serem criadas (Kivimaa & Kern, 2016;
+IEA, 2020b). Assim, também, a determinação de
+transitar na substituição das fontes fósseis por uma
+ampla e nova constelação de opções tecnológicas,
+incluindo tecnologias não associadas diretamente ao
+setor de energia – inteligência artificial, por exemplo
+–, devem contemplar a administração dos impactos
+econômicos, sociais e políticos desse processo de
+mudança para garantir sua viabilidade (IRENA,
+2019; WEC, 2019).
+O reconhecimento da complexidade subjacente ao processo de transição energética de baixo
+carbono tem incentivado a adoção de um papel mais
+ativo por parte do Estado, em aqueles países onde
+as preocupações com a emergência climática já
+conseguiram se posicionar num grau de prioridade
+maior dentro da agenda governamental (Rogge &
+Reichardt, 2016; Rogge & Johnstone, 2017; IEA,
+2019). Como resultado, esses países têm formulado
+planos governamentais, caracterizados pela adoção
+simultânea de um amplo número de ferramentas
+de política pública, em muitos casos abrangendo
+diferentes esferas mais além do setor energético,
+tais como ciência, tecnologia e inovação (CT&I),
+desenvolvimento industrial, meio ambiente, entre
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+outros. A partir desses pacotes de política pública
+– policy mixes, cada país tem delineado uma rota
+particular para conduzir essa transição de longo prazo. Considerando a complexidade, e a novidade que
+ainda significa esse processo, resulta fundamental
+entender a abordagem em matéria de políticas públicas que está sendo realizada pelos países líderes
+nesse esforço.
+O objetivo deste trabalho é analisar as políticas
+públicas desenhadas para impulsionar a transição
+energética de baixo carbono no setor elétrico a partir de uma perspectiva comparada, de abordagem
+qualitativa, dos casos da Alemanha e Japão. Cabe
+notar que, nesses dois países, a geração termoelétrica fóssil – a carvão (Alemanha) e gás natural
+(Japão) – domina a estrutura da matriz elétrica; e,
+em ambos, a geração de energia nuclear sempre
+constituiu um elemento fundamental para assegurar
+o suprimento de eletricidade e o desenvolvimento
+tecnológico e industrial.
+Assim, o trabalho ficou dividido em cinco
+seções além desta introdução. A primeira seção faz
+uma revisão da literatura sobre policy mix, a fim
+de examinar o papel, cada vez mais ativo, que tem
+a desempenhar o Estado no processo de transição
+energética; bem como a abrangência de instrumentos de políticas públicas que estão sendo adotados
+para viabilizar esse processo de mudança. A segunda
+seção faz uma descrição da metodologia e dos critérios utilizados para a análise comparativa dos países
+contemplados. A terceira seção faz uma revisão dos
+pacotes e instrumentos de política pública que estão
+sendo adotados pelos países contemplados no estudo. Em seguida, a seção quatro busca comparar os
+casos de Alemanha e Japão com base nos critérios
+de análise definidos na seção três. Por último, são
+apontadas as reflexões finais deste trabalho.
+998
+
+2. O papel das políticas públicas na
+transformação energética: uma breve
+revisão da literatura sobre policy mix
+O processo de descarbonização da matriz
+energética no mundo é uma questão complexa e
+associada ao escopo das transformações estruturais
+que deverão ocorrer em nível técnico, econômico,
+social e político. Colocar fim ao regime sociotécnico
+atual, dominado pelas fontes de energia fósseis,
+destravar o processo de difusão das novas fontes
+renováveis nos sistemas de energia e, simultaneamente, administrar os efeitos disruptivos dessa
+mudança, justificam uma ação ativa do Estado para
+garantir resultados eficazes em longo prazo. E a
+administração dos riscos intrínsecos a esse processo
+constitui um objetivo que é transversal entre diversas organizações do Estado com competência na
+execução de políticas públicas em campos variados
+como a política energética, mas igualmente na sua
+articulação com demais políticas públicas relacionadas com a macroeconomia, o meio ambiente, o
+desenvolvimento industrial, a CT&I, entre outros.
+Uma abordagem que resulta adequada para
+entender o tipo e o escopo da intervenção estatal
+para atender desafios, como o do processo de descarbonização dos sistemas de geração de energia
+elétrica, encontra-se na literatura sobre policy mix.
+Tal abordagem tem sido frequentemente utilizada
+para analisar respostas públicas a fenômenos complexos, principalmente no campo da economia
+do meio ambiente, da economia da inovação e as
+ciências políticas (Braathen, 2007; Kern & Howlet,
+
+2009; Lehmann, 2012; Kivimaa & Kern, 2016;
+Rogge et al., 2017).
+A noção de policy mix reflete uma situação em
+que uma ou mais organizações do Estado, às vezes,
+com racionalidades diferenciadas, e com estruturas
+de governança diversas, optam pela implementação
+de um conjunto coerente de instrumentos de política
+pública com a finalidade de atingir determinados
+objetivos de forma mais eficiente e eficaz do que
+só usar um único instrumento (Kivimaa & Kern,
+2016; Li & Taeihagh, 2020). A combinação de
+instrumentos de política pública, em muitos casos
+rotulada como pacotes de política pública, é utilizada com o intuito de melhorar a efetividade das
+políticas executadas individualmente, ou que, individualmente, não conseguiriam atingir o objetivo
+desejado, ao mesmo tempo que visando minimizar
+efeitos indesejados (Givoni et al., 2013).
+A partir dessa literatura, tem sido possível
+analisar diversos aspectos do processo das políticas públicas nas experiências de implementação
+de pacotes orientados a transições sustentáveis.
+Alguns estudos têm utilizado essa abordagem para
+entender a racionalidade e o percurso lógico por
+detrás da construção dos pacotes de política pública
+que são executados (Li & Taeihagh, 2020)3. Essa
+racionalidade é associada à percepção da existência de um problema que requer a intervenção
+do Estado, e que dá lugar ao ciclo de elaboração
+ou revisão das políticas públicas – colocação na
+agenda governamental, formulação de instrumentos
+de política, legitimação e adoção, implementação,
+avaliação, adaptação, sucessão e terminação (Rogge
+& Reichardt, 2016). Uma característica central dos
+estudos sobre transições com base na adoção do
+
+Essa racionalidade persegue a consecução de objetivos últimos, seja numa forma abstrata, ou, objetivos específicos em campos determinados
+das políticas públicas (Kern & Howlett, 2009; Rogge & Reichardt, 2016; Li & Taeihagh, 2020).
+
+3
+
+999
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+conceito de policy mix é a análise sobre como os
+instrumentos de política emergem e interagem (Del
+Rio, 2009; Philibert, 2011).
+Dessa forma, tem sido possível aprofundar os
+estudos por meio de avaliações sobre a influência e
+a qualidade dos resultados dos pacotes de política
+na busca pelo alcance dos objetivos propostos, com
+base na adoção de distintas dimensões de análise –
+efetividade, eficiência, vantagens, ou desvantagens,
+consistência, coerência, entre outros (Carbone,
+2008; Fisher & Preonas, 2010; Rogge & Reichardt,
+2016). Ainda no âmbito da interação, estudos mais
+aprofundados têm adotado o conceito de policy
+mix para analisar questões como a integração das
+políticas e sua coordenação por meio de múltiplas
+organizações do Estado, em distintos níveis de governo, e, portanto, considerando distintos recortes
+geográficos. Em decorrência do anterior, alguns
+estudos passaram a considerar a análise dos atores
+envolvidos como parte dos esforços por entender
+o processo de construção dos pacotes de política e
+seus resultados (Rogge et al., 2017).
+Considerando a diversidade de escopo nos estudos voltados à análise de políticas para transições
+sustentáveis com base na adoção dessa literatura
+sobre policy mix, para os objetivos desta pesquisa, resulta particularmente útil, do ponto de vista
+
+normativo, entender como se dá a o processo de
+construção dos pacotes de política pública, o qual
+está sintetizado na Figura 1.
+A partir dos objetivos gerais, são formuladas
+estratégias que constituem orientações de longo prazo compostas por fins interdependentes (objetivos) e
+meios para atingir esses fins (políticas públicas) (Li
+& Taeihagh, 2020). Os objetivos, o primeiro componente das estratégias, estão consubstanciados por
+metas de longo prazo com níveis de ambição quantificados, e podem se basear em visões do futuro.
+O segundo componente de cada estratégia é
+a definição de planos de ação – que, neste trabalho, serão rotulados como orientações –, os quais
+estabelecem a rota geral proposta pelos governos
+para a realização dos objetivos. Eles podem incluir
+convenções, diretrizes, planos de ação estratégica
+e roteiros (Rogge & Reichardt, 2016). Os planos
+contêm pacotes de instrumentos de política pública formulados para alcançar os objetivos de cada
+estratégia. Finalmente, os instrumentos de política
+pública constituem ferramentas concretas desenhadas para alcançar determinadas metas, e, que em
+conjunto com os demais instrumentos, contribuem
+no atingimento do objetivo que motivou a formulação do plano de ação. Essas ferramentas também
+são definidas como medidas, programas ou políticas
+(Rogge et al., 2017; Li & Taeihagh, 2020).
+
+FIGURA 1 – O processo de desenho do policy mix.
+FONTE: elaboração própria a partir de Li &Taeihagh (2020) e Rogge & Reichardt (2016).
+
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+1000
+
+O processo de construção dos pacotes de política ocorre atendendo a diversas dimensões que
+resultam de utilidade para os objetivos da nossa
+pesquisa. A primeira delas tem a ver com as diferentes áreas de atuação do Estado que podem ser
+consideradas no pacote de políticas. No caso das
+políticas voltadas a transições sustentáveis, elas podem incluir políticas em setores tais como: energia,
+clima e meio ambiente, CT&I, desenvolvimento
+industrial, política exterior, entre outros.
+A segunda dimensão tem a ver com os níveis
+de governança na formulação e execução das
+políticas, podendo ser em escala internacional, nacional, estadual ou local. Igualmente, os níveis de
+governança podem ser compreendidos pelas organizações envolvidas, podendo involucrar ministérios,
+departamentos, secretarias, nos âmbitos federal, de
+estados e municípios, e outras instâncias subordinadas a esses órgãos (Rogge & Reichardt, 2016).
+A terceira dimensão é relacionada com o
+recorte geográfico, o qual constitui o espaço que
+abrangem os pacotes de política. Por último, está
+a dimensão temporal, entendendo, tal como foi
+mencionado anteriormente, que os pacotes de política evoluem ao longo do tempo em decorrência
+de diversas variáveis, entre elas, a trajetória prévia
+das organizações do Estado na execução de políticas (path dependence), mudanças nas condições
+das instituições, de tipo socioeconômico, ou pela
+dinâmica do processo político, no qual interagem
+diversos atores defendendo seus interesses (Howlett
+& Rayner, 2007; Kern et al., 2019). Dessa forma, a
+literatura sobre policy mix oferece diversos insumos
+para nortear a elaboração do marco metodológico
+guia para a análise comparativa das experiências
+dos países contemplados.
+
+1001
+
+3. Aspectos metodológicos
+Para atingir os objetivos do trabalho, foi realizada uma pesquisa exploratória de abordagem
+qualitativa com base no estudo comparativo das
+experiências da Alemanha e do Japão (Bulgacov,
+1998; Dezin & Lincoln, 2006). Para a análise comparativa, foram estabelecidos vários critérios de
+análise de dados e de informação, visando a identificação de semelhanças e diferenças nas orientações
+e no escopo das políticas públicas implementadas
+pelos países selecionados para conduzir a transição energética de baixo carbono no setor elétrico.
+Também, a análise comparativa busca identificar
+as escolhas em termos de instrumentos de política
+pública. Igualmente, a análise busca entender as
+opções tecnológicas contempladas para substituir
+as fontes fósseis.
+Os critérios de análise foram divididos em
+quatro grupos. O primeiro deles busca examinar o
+escopo dos esforços governamentais para conduzir
+a transição. Para isso, foi identificada a participação
+das fontes renováveis e da energia nuclear na matriz
+elétrica dos países analisados. Em seguida, foram
+identificadas as metas de aumento da participação
+dessas fontes na matriz elétrica até 2030. Com
+base nessa informação, foram estabelecidas duas
+categorias para qualificar o escopo dos planos governamentais para impulsionar a descarbonização:
+- Gradual: aumento do volume de energia
+elétrica gerada a partir de fontes de baixo carbono,
+até 2030>30% e < 50%, quando comparada com
+níveis de 2018.
+- Acelerada: aumento do volume de energia
+elétrica gerada a partir de fontes de baixo carbono
+em 2030 > 50% quando comparado com níveis de
+2018.
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+O segundo critério de análise, complementar
+com o anterior, busca identificar o escopo dos planos
+governamentais mais além da descarbonização da
+matriz elétrica. Para isso, além das duas categorias
+expostas anteriormente, foram incluídas outras
+duas relacionadas com o interesse dos Estados por
+impulsionar o desenvolvimento econômico. As
+quatro categorias de objetivos são apontadas na
+forma seguinte:
+- TGBC: transição gradual para uma matriz
+elétrica de baixo carbono.
+- TABC: transição acelerada para uma matriz
+elétrica de baixo carbono.
+- DCP: desenvolvimento de capacidade
+produtiva em setores específicos da cadeia de
+fornecimento de equipamentos e serviços para o
+setor elétrico. Para definir capacidade produtiva foi
+utilizada aquela desenvolvida por Moreira (2004),
+entendida como Capacidade produtiva, entendida
+como a quantidade máxima de peça/produtos e/ou
+serviços que podem ser produzidas pelo parque empresarial nacional de forma competitiva em termos
+de eficiência econômica, prazo e qualidade.
+- DCT: desenvolvimento de capacidade tecnológica em setores específicos da cadeia de fornecimento de equipamentos e serviços para o setor
+elétrico. Para a definição de capacidade tecnológica
+é utilizada aquela desenvolvida por Mori et al.,
+(2013), entendida como a capacidade das empresas
+para absorver, usar, adaptar, gerar, desenvolver,
+transferir e difundir tecnologias. Essa capacidade
+é possibilitada pelo diverso leque de recursos, as
+habilidades (organizacionais, operativas e relacionais) e os mecanismos de aprendizado empregados
+por elas. De acordo com os autores, as capacitações constituem construções de segunda ordem, a
+partir de um conjunto de elementos que ancora e
+espelha as capacidades de absorção, de operação e
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+de inovação (adaptação e geração) tecnológica de
+uma empresa.
+Dessa forma, por meio do mapeamento das
+políticas públicas para conduzir a transição, pode-se identificar várias combinações de objetivos nos
+planos governamentais:
+i. TGBC
+ii. TABC
+iii. TGBC + DCP
+iv. TABC + DCP
+v. TGBC + DCP + DCT
+vi. TABC + DCP + DCT
+O terceiro grupo de critérios de análise comparativa entre os países tem a ver com os pacotes
+de política pública que os países estão adotando
+para incentivar a difusão das energias renováveis,
+assegurar sua integração segura, flexível e economicamente eficiente no sistema elétrico, e promover
+o desenvolvimento industrial e tecnológico nesses
+setores. Nesse sentido, foram consideradas como
+ponto de referência as taxonomias estabelecidas por
+Daszkiewicz (2020) e Edler & Fagerberg (2017) em
+matéria de política energética, política industrial e
+política de CT&I (ver Tabela 1).
+Por último, o quarto critério de análise comparativa tem a ver com as opções tecnológicas
+que já têm sido adotadas, e aquelas que os planos
+governamentais vislumbram como prospetos para
+acelerar a descarbonização da matriz elétrica. Nesse
+sentido, foram tomadas como referência as tecnologias apontadas pela IEA (2019) nos setores de
+geração de eletricidade, prédios, e para a integração
+de sistemas (Tabela 2).
+Dessa forma, foram estabelecidas as orientações metodológicas para realizar a análise comparativa dos casos da Alemanha e Japão.
+1002
+
+TABELA 1 – Ferramentas de política pública para a condução de transições sustentáveis.
+
+Categoria de política pública
+
+Tipo de ferramenta
+
+Definição de metas e planejamento estratégico
+
+Estratégias energéticas
+Planos de ação
+Objetivos
+
+Políticas voltadas para custos de investimento
+inicial
+
+Subsídios
+Descontos
+Empréstimos em condições preferenciais
+Benefícios/incentivos fiscais
+Financiamento direto à PD&I em empresas
+
+Políticas voltadas para a geração de energia
+
+Tarifas Feed-in
+Tarifas Feed-in-premium
+Leilões
+Licitações
+Certificados
+Políticas de autogeração, autoconsumo e venda de eletricidade à rede
+
+Regulatório
+
+Regras de conexão e despacho
+Obrigações e mandatos
+Standards
+Etiquetas
+Ambiente regulatório que não proíbe ou permite PPAs corporativos
+
+Incentivos ao desenvolvimento industrial e da
+CT&I
+
+Políticas de Treinamento e Competências
+Políticas de promoção do empreendedorismo
+Serviços técnicos e assessoria
+Políticas de promoção de clusters
+Políticas para apoiar a colaboração
+Políticas da Rede de Inovação
+Utilização do poder de compra do Estado
+Aquisição pré-comercial
+Prêmios à inovação
+Prospecção tecnológica
+
+FONTE: elaboração própria a partir de Daszkiewicz (2020) e Edler & Fagerberg (2017).
+TABELA 2 – Opções tecnológicas para conduzir a descarbonização nos setores elétrico e residencial.
+
+Setor
+
+Tecnologias consideradas
+
+Geração de eletricidade
+
+Solar fotovoltaica;eólica onshore; eólica offshore; hidroelétrica; bioenergia; energia solar
+concentrada; energia oceânica; energia nuclear;energia a álcool; e Captura e Armazenamento de
+Carbono (CCUS) em eletricidade.
+
+Prédios
+
+Envelopes de construção; aquecimento; bombas de calor; resfriamento; iluminação; aparelhos e
+equipamentos; centros de dados e redes.
+
+Integração de sistemas
+
+Armazenamento de energia; Smart Grids; hidrogênio; e resposta à demanda.
+
+FONTE: elaboração própria a partir de dados da IEA, 2019.
+
+1003
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+4. Os casos de estudo: analisando as rotas
+para impulsionar a transição energética
+no setor elétrico: os casos da Alemanha e
+Japão
+4.1. Alemanha
+A Alemanha é um dos países com a mais longa
+trajetória de implementação de políticas orientadas
+a atender a emergência climática. A construção do
+pacote de políticas públicas visando o atendimento
+desse fenômeno começou a ter lugar, pelo menos,
+desde a década de 1980, inserindo-se na agenda
+governamental junto com outras questões sensíveis
+da política energética e climática do país, tais como
+a vulnerabilidade pelas importações de petróleo e
+as críticas pelos perigos associados com o desenvolvimento de energia nuclear (Kuittinen & Velten,
+2018). Dessa forma, a inclusão progressiva de políticas públicas ao mix permitiu trazer importantes
+resultados na difusão das novas fontes renováveis
+
+na matriz elétrica nacional, atingindo36% de toda
+eletricidade gerada no país em 2018 (IEA, 2020c).
+Em 2018, a matriz de geração elétrica do país
+alcançou um volume de geração de 664 TWh. Desse
+total, o carvão foi responsável por 37.5%, seguido
+pela energia eólica (17.3%), gás natural (13.2%),
+nuclear (11.8%), bioenergia e resíduos (waste)
+(9.1%), solar 7.4%, hidro (2.8%), petróleo (0.8%)
+e geotérmica (0.03%) (IEA, 2020c) (ver Figura 2).
+Em nível federal, a gestão das políticas de transição está concentrada em várias pastas ministeriais,
+tendo, entre as principais, o Ministério Federal de
+Assuntos Econômicos e Energia (BMWi), o Ministério Federal de Ambiente, Conservação Natural e
+Segurança Nuclear (BMU), o Ministério de Transporte e Infraestrutura Digital (BMVI), o Ministério
+Federal de Alimentação e Agricultura (BMEL), o
+Ministério de Educação e Pesquisa (BMNF) e o
+Ministério Federal de Finanças (BMF) (Kuittinen
+& Velten, 2018).
+
+FIGURA 2 – Matriz de geração elétrica alemã em 2018.
+FONTE: elaboração própria a partir de dados da IEA, 2020c.
+
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+1004
+
+O policy mix no setor elétrico na Alemanha
+está organizando sob o guarda-chuva do Energiewende (em alemão, transição energética), o
+plano nacional de longo prazo para impulsionar a
+transição energética de baixo carbono (Figura 3). A
+iniciativa está emoldurada em vários documentos
+de política pública, tais como a Renewable Energy
+Act de 2000, o Energy Concept de 2010, as distintas
+edições do Energy Research Programm, executadas
+desde 1977, o Climate Action Plan 2050 de 2016, e
+
+outros documentos que contemplam instrumentos
+de política pública mais específicos.
+Como mostra a Figura 3, o mapeamento dos
+instrumentos que compõem o policy mix alemão
+foi organizado com base no atingimento de três
+estratégias complementares:
+(1) a descarbonização do sistema elétrico a
+partir da difusão das fontes renováveis, excluindo
+nuclear;
+
+FIGURA 3 – Policy mix para conduzir a transição energética de baixo carbono no setor elétrico alemão.
+FONTE: elaborado pelos autores.
+
+1005
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+(2) a adaptação do sistema elétrico à nova
+dinâmica imposta pelas novas fontes renováveis; e
+(3) a garantia da competitividade industrial e
+do crescimento econômico.
+Assim, os planos governamentais esperam
+que o setor elétrico possa contribuir na redução
+das emissões de CO2 em 55% até 2030, quando
+comparado com níveis de 1990. Com base nessas
+estratégias, o país espera aumentar a participação
+das novas fontes renováveis no consumo bruto de
+eletricidade para 65% até 2030, e para 80% até 2050
+(IEA, 2020c).
+No âmbito da estratégia 1, o mix de política
+contempla instrumentos para dar fim a regimes sociotécnicos não desejados na matriz elétrica e instrumentos de promoção das novas fontes renováveis.
+O primeiro grupo de instrumentos é composto por
+regulações e mandatos para o desligamento programado das instalações de geração de eletricidade a
+partir de energia nuclear e carvão em 2022 e 2038
+respectivamente (BMU, 2021; Wettengel, 2020).
+Para a promoção da expansão da capacidade
+de geração de eletricidade a partir das novas fontes
+renováveis, o mix alemão vem estabelecendo regulações e mandatos há mais de três décadas, e que
+encontraram sua maior expressão na Renewable
+Energy Act de 2000. No âmbito dessa lei, o Estado
+inicialmente determinou a garantia de conexão das
+fontes renováveis à rede de transmissão, e com
+prioridade no despacho. Também, estabeleceu as
+tarifas Feed-in para incentivar os investimentos
+na expansão da capacidade de geração elétrica a
+partir das novas fontes renováveis (eólica e solar,
+principalmente). Em 2014, a lei foi emendada
+introduzindo tarifas Feed-in-premium para novas
+instalações de geração com um umbral de preços
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+mínimo. Em 2017, foi introduzido leilão em substituição do esquema das Feed-in visando gerar maior
+concorrência e adequar as tarifas de eletricidade à
+realidade do mercado (Alemanha, 2017).
+Para adaptar o desenho do mercado de eletricidade à dinâmica das novas fontes renováveis,
+estratégia 2, o policy mix, vem contemplando um
+conjunto de reformas do arcabouço regulatório e
+instrumentos de política pública para expor tanto
+a produtores quanto consumidores num entorno de
+maior competitividade e flexibilidade na oferta, na
+demanda e no armazenamento de eletricidade. As
+políticas governamentais buscam lidar com os seguintes aspectos-chave relacionados com a geração
+de eletricidade:
+i) a intermitência das novas fontes renováveis
+ii) a utilização de gás natural às termoelétricas;
+iii) o armazenamento hidroelétrico com usinas
+reversíveis; e,
+iv) no futuro, por meio da expansão da capacidade de geração flexível de biogás e da capacidade
+de armazenamento de baterias (IEA, 2020c).
+Com esse intuito, entre as medidas, o mix de
+políticas contempla instrumentos para promover a
+concorrência no mercado de eletricidade na medida das possibilidades, incentivos para promover a
+integração dos sistemas de energia, a incorporação
+de medidas e fontes de backup para administrar a
+intermitência das novas fontes renováveis, entre
+outras ações (BMWi, 2017; Chen et al., 2019; IEA,
+2020c).
+Em 2016, foi emendada a Renewable Energy
+Act e foi promulgada a Acton the Further Development of the Energy Market, estipulando que a
+capacidade de geração de eletricidade mantida seja
+1006
+
+aquela demandada pelos consumidores. Igualmente,
+foram estabelecidas novas regras para a remuneração pelo redespacho de energia, a redução de custos
+pela expansão da rede de transmissão e distribuição,
+e a liberdade para os atores de mercado decidirem
+quais opções de flexibilidade usar (storage, gaspeakers, demand-side management) (BMWi, 2017).
+Visando promover a integração e a flexibilidade no sistema elétrico, a Alemanha tem adotado
+incentivos por meio de empréstimos a juros baixos
+e subvenções para o aumento da capacidade de
+estocagem por meio do sector-coupling dos setores
+elétrico e aquecimento (IEA, 2020c). Os planos
+governamentais também buscam o aprimoramento
+e a expansão das redes de transmissão e distribuição
+no país e com os outros mercados europeus4.
+Dessa forma, as ações buscam superar as
+limitações que impedem a transmissão entre o
+Norte e o Sul da Alemanha, onerando as tarifas
+dos consumidores. Assim, busca-se, por um lado,
+evitar a necessidade de adotar medidas SWAP ou
+redespacho no Sul para compensar a eletricidade
+adquirida que não pode chegar a essa parte do país.
+Por outro lado, busca-se igualmente compensar
+a redução da geração elétrica no Norte, onde os
+operadores ordenam aos geradores o desligamento
+para evitar congestão (IEA, 2020c).
+Para isso, em 2016, também foram adotadas
+tarifas para os consumidores, por meio do qual os
+custos de investimento podem ser reconhecidos
+imediatamente nos encargos de rede (e os custos
+são ajustados anualmente para garantir que os
+consumidores se beneficiem regularmente de custos
+
+de capital mais baixos) (BMWi, 2017). Em 2017,
+o Estado introduziu medidas para a harmonização
+das tarifas de forma gradual até 2023, começando
+em 2019 (BMWi, 2021).
+Por meio de medidas de promoção do demand-side management, e de forma complementar ao
+marco para o desenvolvimento das smart grids, em
+2016, o parlamento aprovou a lei sobre a digitalização do Energiewende, estipulando a instalação de
+smar-metters por fases (IEA, 2020c; BMWi, 2015).
+Em 2016, também foi estabelecida a obrigatoriedade de uma capacidade de reserva, a qual está
+separada do mercado de eletricidade e não afeta a
+competição nem os preços, para ser utilizada em
+caso da ocorrência de eventos extraordinários ou
+imprevistos. Adicionalmente, em 2017, o governo
+federal estabeleceu o volume de capacidade de reserva em 2 GW. Para a seleção de fornecedores de
+capacidade de reserva, as centrais elétricas podem
+fazer lances em leilões organizados pelos operadores dos sistemas de transmissão (BMWi, 2021).
+Finalmente, a estratégia número 3 foi incorporada no policy mix da ênfase nos documentos de
+política pública que discutem o Energiewende sobre
+as oportunidades de impulsionar o desenvolvimento
+industrial e tecnológico da Alemanha e do resto da
+Europa.
+Em nível federal, grande parte dos instrumentos de política de CT&I que estão sendo executados
+na atualidade são financiados por meio da sétima
+edição do Energy Research Programm, iniciada em
+20185. O mencionado programa define os princípios, prioridades e objetivos ambiciosos no desen-
+
+Visando superar essas limitações, o governo federal estabeleceu como meta, a construção de 7.700 quilômetros em redes de transmissão,
+incluindo quatro redes de alta voltagem entre o norte e o sul, e linhas diretas (em inglês, HVDC) (IEA, 2020c).
+
+4
+
+De acordo com dados da Agência Internacional de Energia, em 2019 os investimentos públicos em P&D no setor de energia foram da faixa
+dos USD 1.586 bilhões (IEA, 2021a)
+
+5
+
+1007
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+volvimento de tecnologias de energia inovadoras
+para atingir a transição energética. Esses objetivos
+são perseguidos por meio da execução de projetos
+específicos, ou do financiamento de instituições
+de pesquisa no país e no exterior – principalmente
+no âmbito da União Europeia. O programa possui
+fundos do montante de 6.4 bilhões de euros para
+serem desembolsados entre 2018 e 2022. Os fundos são distribuídos entre o BMWi, o BMEL e o
+BMBF, e a execução dos projetos são coordenadas
+com universidades e institutos de ciência e tecnologia – the Helmholtz Association – e empresas
+(BMWi, 2020)6.
+Entre as opções tecnológicas priorizadas no
+setor elétrico, contempla-se o financiamento de
+projetos voltados à busca de inovações incrementais em energia solar e eólica, e a continuação de
+desenvolvimentos em plantas de geração térmica
+a biogás. No âmbito de tecnologias para facilitar a
+integração das novas fontes renováveis, o programa
+estabeleceu como prioridade tecnologias voltadas
+ao desenvolvimento de redes, armazenamento de
+energia, sector coupling e hidrogênio. Áreas de
+pesquisa transversais aos sistemas de energia, ou
+mais além do setor energético, também são consideradas, incluindo temas como digitalização, gestão
+de recursos e CCUS (IEA, 2020c; BMWi, 2020).
+Entre os instrumentos identificados, encontrou-se o financiamento de pesquisa básica,
+pesquisa aplicada e projetos de demonstração de
+soluções tecnológicas e regulatórias das opções
+priorizadas nos planos governamentais (Alemanha,
+2017). Igualmente, identificou-se o financiamento
+direto de empresas para a execução de projetos de
+
+PD&I com fundos governamentais. O 7th Research
+Programme, faz uma ênfase no apoio a pequenas
+e meias empresas, Startups e o empreendedorismo
+em distintos programas e projetos. De fato, a partir
+de 2018, passou a ter uma plataforma de expertos
+nessa temática (Kuittinen & Velten, 2018).
+Igualmente, contempla ações para a transferência de tecnologias e sua rápida adoção para fins
+comerciais por meio de instrumentos orientados à
+promoção da colaboração entre instituições de C&I
+e empresas. Outras medidas identificadas foram a
+implementação de políticas orientadas a promover
+a interação entre atores. Nesse quesito, a execução
+de projetos ocorre com grande engajamento da
+comunidade acadêmica, organizações da indústria
+e empresas. Com parte de algumas das plataformas
+criadas, também foram adotadas ações orientadas
+a fazer prospecção tecnológica e definição de
+prioridades para o investimento (Energy Research
+Platform e Energy Research Networks) (Kuittinen
+& Velten, 2018).
+
+4.2. Japão
+No Japão, as orientações da política energética, na atualidade,convivem com as preocupações
+com a segurança no abastecimento, os esforços
+para administrar o impacto do acidente nuclear
+de Fukushima e os crescentes compromissos do
+governo para avançar numa agenda de transição
+energética de baixo carbono. Sob a premissa do
+Safety Always, as diretrizes da política energética japonesa buscam assegurar um fornecimento
+estável de energia (segurança energética) a preços
+
+6
+A Alemanha faz parte da iniciativa Mission Inonovation, uma plataforma de países com o objetivo de dobrar os investimentos públicos em
+P&D para viabilizar a transição de baixo carbono num prazo de cinco anos, em alinhamento com o setor privado (Kuittinen & Velten, 2018).
+
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+1008
+
+baixos (eficiência econômica), enquanto são feitos
+o máximo de esforços por alcançar sustentabilidade
+ambiental (METI, 2018).
+A matriz elétrica japonesa é composta em
+80% por fontes fósseis importadas. Em 2019, a
+geração total de eletricidade atingiu 992.5TWh.
+A participação por fontes na geração foi dividida
+da forma seguinte: carvão (31.9%%), gás natural
+(34.2%), solar (9.4%), hidroelétrica (8.1%), energia
+nuclear (6.4%), petróleo (4.8%), biomassa (2.2%),
+bioenergia (2%), eólica (0.7%), geotérmica (0.3%)
+(IEA,2021b) (Figura 4).
+Em nível nacional, a condução das políticas
+de transição está concentrada, principalmente, no
+Ministério de Economia, Comércio e Indústria (METI), no Ministério de Ambiente, e no Ministério de
+Educação, Cultura, Esporte e Ciência e Tecnologia
+(IEA, 2016).
+As metas de descarbonização, e os principais
+instrumentos de política pública para atingir esse
+objetivo, foram estabelecidos nos planos estratégicos de energia de 2014 e 2018, na estratégia de
+longo prazo para atingir as metas do acordo de
+
+Paris de 2019, e a Green Growth Strategy de 2020.
+Em 2014, o governo japonês estabeleceu metas de
+redução de emissões de gases de efeito estufa que
+manteve nos demais documentos. Nesse quesito,
+o país espera atingir uma meta global de redução
+de emissões de 18% em 2030, quando comparado
+com 2013, das quais, na atualidade, o setor elétrico
+contribui com 40% (IRENA, 2021).
+A partir da revisão dos planos governamentais, pode-se dizer que opolicy mix para conduzir
+a transição energética foi organizado, pelo menos,
+sob quatro estratégias:
+(1) promover a expansão da geração de eletricidade a partir de fontes renováveis, incluindo
+nesta cesta a opção nuclear, posto o baixo nível de
+emissões;
+(2) promover a redução das emissões na geração de energia a partir de fontes fósseis;
+(3) transitar para a um sistema elétrico mais
+resiliente;
+
+FIGURA 4 – Matriz de geração elétrica japonesa em 2019.
+FONTE: elaboração própria a partir de dados da IEA, 2021b.
+1009
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+FIGURA 5 – Policy mix para conduzir a transição energética de baixo carbono no setor elétrico japonês.
+FONTE: elaboração dos autores.
+
+(4) impulsionar a CT&I para apoiar a transformação energética e o desenvolvimento econômico
+nacional (Figura 5).
+Com relação a estratégia 1, os planos governamentais apontam que, para 2030, a energia
+nuclear e as novas fontes renováveis tenham uma
+participação no mix elétrico de entre 20 e 22%, e
+
+22 e 24%, respectivamente. No âmbito da energia
+nuclear, o governo espera atingir essas metas a partir
+da reativação de pelo menos 30 das 33 usinas que
+ainda são operáveis, desligadas logo depois do acidente de Fukushima, para operarem com um fator
+de capacidade de 80% (IEA, 2021b)7.
+
+Para atingir esse objetivo, as usinas nucleares ainda devem completar a revisão das condições de segurança realizada pela Nuclear Regulation
+Authority (NRA) (IEA, 2021b).
+
+7
+
+8
+O esquema Feed-in seria para remunerar a geração de energia solar fotovoltaica, projetos hidrelétricos com capacidade menor a 30 MW, energia
+eólica, geotérmica, biomassa, e, outras fontes reconhecidas como renováveis pelas autoridades japonesas (IRENA, 2021).
+
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+1010
+
+Entre as medidas de promoção da expansão
+da capacidade de geração a partir de novas fontes
+renováveis, em 2012, foram introduzidas as tarifas
+Feed-in (METI, 2018; IRENA, 2021)8. Em 2017,
+foi introduzido o mecanismo de leilão para projetos
+de geração por um volume igual ou superior a 250
+KW. A partir de 2020, foi introduzido o esquema
+das tarifas Feed-premium para projetos de longa
+escala de energia solar, biomassa e eólica offshore,
+visando a criação de concorrência na formação de
+preços da energia e a busca de preços mais baixos
+para os consumidores (IRENA, 2021).
+No âmbito da estratégia 2, os planos governamentais contemplam medidas para reduzir as
+emissões mesmo que prospetando a continuidade de
+uma alta participação das fontes de energia fosseis
+na matriz elétrica nacional9. Com esse intuito, o mix
+de políticas inclui programas de redução voluntaria
+de emissões e incentivos para adopção de tecnologias CCUS (Japão, 2019; IEA, 2021b).
+A estratégia 3 contempla um amplo leque de
+instrumentos de políticas orientados à busca da
+transformação para um sistema elétrico mais resiliente a desastres ambientais, adaptado à dinâmica
+das novas fontes renováveis e à redução dos preços
+da energia. Diferentemente do caso alemão, o sistema elétrico japonês não está interconectado com
+outros países. A rede de transmissão está dividida
+em duas regiões, cada uma operando com diferentes
+frequências. A rede de distribuição elétrica está frag-
+
+mentada em dez regiões, herança da organização do
+setor através do monopólio que era exercido pelas
+EPCOs, o que dificulta o balanceamento do sistema
+e a possibilidade de acomodar grandes volumes de
+eletricidade a partir das novas fontes renováveis.
+Em adição ao anterior, grande parte do potencial de
+aumento na capacidade de geração de eletricidade
+a partir de fontes renováveis variáveis é distante
+dos principais centros de consumo (IEA, 2021b).
+Visando mudar essas características no sistema, desde a década de 1990, o governo japonês
+tem adotado reformas no arcabouço regulatório para
+facilitar a entrada de novos agentes nas atividades de
+geração, transmissão e distribuição (IEA, 2016)10.
+Em 2016, o mercado de comercialização de energia
+foi totalmente liberalizado. Todos os consumidores
+de energia, incluindo pequenos negócios e residências, foram habilitados para escolher seu fornecedor de energia (Jensterle & Venjakob, 2019). Em
+2019, novas regulações estabeleceram a separação
+das EPCOs na cadeia da indústria de eletricidade.
+De acordo com as novas normas, os segmentos de
+transmissão e distribuição devem ser separados da
+geração (IEA, 2021b).
+Em 2016, a Japanese Electric Power Exchange
+(JPEX), uma bolsa privada de energia, foi designada
+como o mercado de atacado no país, com o objetivo
+de gerar igualdade de condições de acesso entre as
+EPCOs e novos entrantes, e, em geral, maior concorrência entre os agentes. Adicionalmente, em 2019,
+
+Devido à limitada base de recursos além das dificuldades geográficas para expandir a geração de energia a partir das novas renováveis, o METI
+a contempla a manutenção de fontes fósseis na matriz elétrica. De acordo com projeções do ministério, espera-se que 50% da energia elétrica
+até 2030 continue a ser gerada a carvão e gás natural (Japão, 2019).
+
+9
+
+10
+As primeiras reformas começaram em 1995, facilitando o ingresso no segmento de geração para os agentes interessados, a traves do lançamento
+de uma estrutura de negócios no varejo, o relaxamento da regulação tarifaria e a flexibilização normas de segurança. Em 2000, os consumidores
+de energia de alta voltagem (acima de 2.000 KW), foram habilitados para escolher seus fornecedores de energia livremente. Nesse ano, as
+reformas habilitaram a terceiros atores para ter acesso às linhas de distribuição, divididas em dez regionais ao longo do país, e que, naquele
+então, eram controladas pelas EPCOs (IEA, 2016).
+
+1011
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+o governo estabeleceu a criação de um mercado de
+carga na base11. O esquema persegue a combinação
+de usinas termoelétricas a carvão, hidroelétricas a
+fio de água, energia nuclear e geotérmicas que se
+destacam na produção e geração de eletricidade de
+forma estável e de menor custo. Na decisão, foram
+estabelecidas as rodadas de licitação para participar
+nesse mercado, com duração de 12 meses. Assim,
+o governo japonês busca dar acesso às empresas
+distribuidoras a preços de eletricidade mais baixos
+(Genscape, 2019).
+Como estratégia de curto prazo para atender à
+restrição de capacidade de conexão das redes, o governo japonês adotou a versão japonesa de Connect
+& Manage. A abordagem consiste na integração da
+máxima quantidade possível de energias renováveis
+na rede existente, ao mesmo tempo que buscando
+minimizar o aumento dos preços da eletricidade e
+reduzindo a necessidade de atualizações da rede12.
+Em segundo lugar, a abordagem substitui a orientação de oferecer “conexão firme” às empresas
+geradoras renováveis, pelo oferecimento de se conectar e vender a quantidade de energia que a rede
+renha capacidade de aceitar (Jensterle & Venjakob,
+2019)13.
+
+Para administrar a intermitência das novas
+fontes renováveis, o plano estratégico de 2018 estabeleceu o uso flexível de geradores térmicos. O
+plano também propõe a adoção gradual de tecnologias como cogeração, usinas virtuais (VPPs), V2H
+/ V2G e sistemas estacionários de armazenamento
+de energia (ESS). De forma complementar, desde
+2015, o METI lançou um programa de subsídio
+para apoiar o processo de instalação de dispositivos
+de estocagem de energia em instalações de energia
+solar (Watanabe, 2015)14.
+Em 2018, o METI estabeleceu instrumentos
+de financiamento de projetos de expansão e aprimoramento das redes de transmissão e distribuição,
+assim como também a introdução do mecanismo de
+leilão e de submissão de propostas entre empresas
+geradoras que estejam geograficamente próximas e
+para o acesso a linhas de transmissão e distribuição
+específicas (Watanabe, 2015; Yamazaki & Ikki,
+2018)15. Em 2020, o governo japonês estabeleceu
+o pagamento de uma sobretaxa distribuída em nível
+nacional para financiar o desenvolvimento de redes
+de interconexão regional (METI, 2020).
+Visando gerar maior flexibilidade do ponto de
+vista do demand management, desde 2016, o governo nacional tem promovido a adoção de medidores
+
+11
+O gerenciamento das fontes de eletricidade no Japão é organizado da forma seguinte. Hidroeletricidade e energia nucelar fornecem eletricidade
+na base, enquanto o carvão e o GNL são as principais fontes de energia para o suprimento de carga de médio porte. A energia hidrelétrica, petróleo
+e armazenamento bombeado responde ao pico de demanda e contribui para o fornecimento consistente e estável de eletricidade (Genscape, 2019).
+
+Para isso, em primeiro lugar, usa um método de aplicação de capacidade de emergência da rede existente pelo princípio n-1, liberando as
+capacidades de transmissão disponíveis tecnicamente (Jensterle & Venjakob, 2019).
+12
+
+No Japão, as empresas distribuidoras são guiadas pelo princípio “first-come, first-served”, o qual, estabelece prioridade de conexão as empresas
+geradoras já conectadas à rede e garantindo a elas capacidade de transmissão correspondente à sua máxima capacidade de geração (Jensterle
+& Venjakob 2019).
+
+13
+
+14
+A estocagem com baterias, tem sido incorporada no programa de subsídios para instalações net zero energy house (ZEH) y nos projetos pilotos
+de net zero energybuildings (ZEB), os quais, são destinados a incentivar a incorporação de tecnologias de armazenamento e poupança de energia
+a partir de um subsídio fixo de 700.000 ienes para cada residência elegível (Yamazaki & Ikki, 2018).
+
+Essas medidas foram introduzidas no âmbito do Planon Development of Cross-Regional Grids de 2020. Através desse plano espera-se que
+a capacidade de interconexão entre as duas regiões de frequência possa aumentar de 1,2 GW para 2,1 GW até março de 2021 e para 3 GW até
+março de 2028. Projetos de interconexão também estão em andamento dentro das regiões de frequência (IEA, 2021b).
+
+15
+
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+1012
+
+inteligentes, iniciando com os maiores consumidores industriais e passando para consumidores
+residenciais. Para 2025, espera-se que cerca de 80
+milhões de unidades sejam instaladas (Jensterle &
+Venjakob, 2019).
+Finalmente, a estratégia 4 contempla instrumentos de política pública com a orientação de
+promover o desenvolvimento tecnológico e industrial do país partir do aproveitamento do contexto
+de transformação das indústrias de energia16,17. Os
+esforços estão enquadrados na The Green Growth
+Strategy, a qual tem por objetivo impulsionar um
+novo ciclo de crescimento económico e sustentabilidade ambiental por meio do apoio ao setor
+privado na transição para uma sociedade neutral em
+matéria de emissões de carbono. A estratégia inclui
+cinco instrumentos de política transversais (support
+measures) e planos de ação em 14 setores a serem
+atualizados de forma continua (METI, 2021).
+Entre as opções tecnológicas contempladas na
+estratégia, encontram-se:
+(i) incentivos à inovação incremental em energia solar e eólica;
+(ii) redes de energia, por meio da introdução
+de baterias para a estocagem de eletricidade, a
+integração dos sistemas elétricos e soluções para o
+balanceamento da oferta e demanda;
+(iii); hidrogênio;
+(iv) combustível de amônia;
+(v) tecnologias de CCUS;
+(vi) energia nuclear de nova geração (METI,
+2021).
+
+Entre os instrumentos de política, o plano
+governamental contempla o financiamento das atividades de pesquisa, desenvolvimento e demostração
+de opções tecnológica prospetadas18. Para isso, o
+governo japonês contempla fundos de 2 trilhões
+de ienes até o final da década, e espera incentivar
+investimentos privados da ordem dos 15 trilhões de
+ienes no mesmo período (METI, 2021).
+O plano se propõe à adoção de incentivos
+fiscais para estimular investimentos privados de
+1.7 trilhão na próxima década. Adicionalmente,
+contempla orientações sobre políticas de financiamento e o estabelecimento de fundos de longo
+prazo com juros subsidiados para atrair investimentos sustentáveis. Igualmente, propõe reformas
+no arcabouço regulatório em vários setores como
+hidrogénio, eólica offshore e mobilidade. Entre as
+reformas, a estratégia propõe mudanças na regulação de compras públicas, visando incentivar a
+demanda por determinados produtos e serviços, e
+viabilizar sua introdução comercial. Finalmente,
+contempla-se o aprofundamento da cooperação
+internacional, no desenvolvimento de projetos de
+inovação, estandardização e desenvolvimento de
+normas (METI, 2021).
+
+5. A análise comparativa
+Após o mapeamento dos principais instrumentos de política executados, e a exame das orientações das políticas governamentais para conduzir a
+transição energética de baixo carbono, é possível
+fazer a análise comparativa das rotas definidas por
+
+O Japão possui experiência da execução de políticas de CT&I no setor de energia. Entre elas, destaca-se o Sunshine Project, o Moonlight
+Project, e o The New Sunshine Project, (Japão, 2019).
+
+16
+
+17
+
+Desde 2015, o Japão também faz parte da iniciativa Mission Inonovation (IEA, 2016).
+
+Em 2019, os investimentos públicos atingiram o montante USD 2.88 bilhões, um valor baixo quando comparado com o início da década, em
+decorrência dos impactos do acidente de Fukushima e a redução do financiamento a pesquisa em energia nuclear (IEA, 2021a).
+18
+
+1013
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+ambos os países com base nos critérios de análise
+estabelecidos na seção 2 (Tabelas 3 e 4).
+Analisando a evolução da participação dos
+combustíveis fósseis na matriz elétrica em 2009
+e 2019, como aparece na Tabela 3, identificou-se
+que, no caso alemão, experimentaram uma redução
+de 5%, enquanto, no caso japonês, registrou um
+aumento de 10%. A pouca velocidade na redução
+da participação dos combustíveis fósseis na matriz
+elétrica alemã pode-se explicar na decisão do país
+de desativar todas suas usinas nucleares até 2022,
+levando a compensar parte do desligamento dessa
+capacidade de geração a partir da utilização de
+fontes fósseis, inclusive retrasando o descomissionamento das usinas termoelétricas a carvão, prevista
+até 2038 (IEA, 2020c). No caso do Japão, foi em
+decorrência da necessidade de compensar a redução
+da capacidade de geração de eletricidade após o
+acidente nuclear de Fukushima e o desligamento da
+totalidade do parque nuclear nacional (IEA, 2021b).
+A alta participação dos combustíveis fósseis
+também permite identificar o escopo do desafio da
+descarbonização da matriz elétrica. No caso alemão,
+os planos governamentais estimam aumentar a ge-
+
+ração de eletricidade a partir de fontes renováveis,
+excluindo nuclear, de 36% em 2018, para 65% da
+matriz elétrica até 2030, com o qual se qualificaria
+dentro da categoria de “transição acelerada”, entendendo que o aumento da capacidade de geração a
+partir dessas fontes deverá ser quase duplicada até
+o final da década. Entretanto, no caso do Japão, as
+metas dos planos governamentais podem-se qualificar com “transição gradual”, uma vez que até
+2030 elas não contemplam que a matriz elétrica seja
+dominada por fontes de baixo carbono.
+No relacionado com o escopo das políticas
+governamentais, os documentos oficiais mostram
+que ambos os países perseguem aproveitar o processo de transição energética de baixo carbono
+para impulsionar o desenvolvimento econômico
+nacional por meio da construção de novas capacidades produtivas e tecnológicas. Nesse sentido, as
+políticas governamentais nos dois países buscam
+criar condições para que seu parque empresarial
+tenha maestria no desenvolvimento de tecnologias
+e produtos relacionados com o novo regime sociotécnico advindo com o processo de transformação
+energética (Tabela 4).
+
+TABELA 3 – Participação das fontes fósseis nas matrizes elétricas da Alemanha e Japão e metas de descarbonização.
+
+Critérios de análise
+
+Alemanha
+
+Japão
+
+2009
+
+2019
+
+2009
+
+2019
+
+Proporção de combustíveis fósseis na matriz elétrica
+
+56,5%
+
+51,5%
+(2018)
+
+63%
+
+73.1%
+
+Participação da eletricidade gerada a partir de fontes renováveis
+
+18,5%
+
+36%
+(2018)
+
+10%
+
+20,5%
+(2019)
+
+Participação da eletricidade produzida com base em energia nuclear
+
+25%
+
+12%
+(2018)
+
+27%
+
+6.4%
+(2019)
+
+Metas de geração de eletricidade a partir de fontes renováveis até 2030
+
+65%
+
+22-24%
+
+Metas de geração de eletricidade a partir de energia nuclear até 2030
+
+0%
+
+20-22%
+
+Escopo dos planos governamentais do ponto de vista das metas de descarbonização
+
+Acelerada
+
+Gradual
+
+FONTE: elaborado pelos autores.
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+1014
+
+TABELA 4 – Orientações das políticas governamentais para conduzir a transição energética de baixo carbono na Alemanha e no Japão.
+
+Critérios de análise
+
+Alemanha
+
+Japão
+
+Escopo dos planos governamentais
+do ponto de vista dos objetivos de
+transformação econômica
+
+Transição Acelerada + Desenvolvimento Transição Gradual + Desenvolvimento
+de Capacidade Produtiva + Desenvolvi- de Capacidade Produtiva + Desenvolvimento de Capacidade Tecnológica
+mento de Capacidade Tecnológica
+
+Principais opções tecnológicas
+adotadas
+
+Eólica onshore, eólica offshore, solar fo- Solar fotovoltaica, eólica onshore, geotovoltaica, bioenergia, hidro.
+térmica, nuclear, hidro.
+
+Principais instrumentos de política
+pública para promover a introdução
+de energias renováveis
+
+Tarifas Feed-in, garantia de conexão à Tarifas Feed-in, tarifas Feed-premium,
+rede, tarifas Feed-premium, leilões.
+leilões.
+
+Principais instrumentos de política
+adotados para adaptar o sistema
+elétrico à dinâmica das fontes renováveis variáveis
+
+Regulações e mandatos (concorrência de
+mercado, capacidade de reserva), leilões,
+encargos, empréstimos (sector coupling),
+reduções fiscais, medidas demand-side
+response.
+
+Principais opções tecnológicas adotadas para adaptar o sistema elétrico
+à dinâmica das fontes renováveis
+
+Tecnologias de cogeração, medidores in- Medidores inteligentes, IoT, IA baterias,
+teligentes, baterias, IoT, IA, gás natural, tecnologias de cogeração, gás natural.
+carvão, biogás.
+
+Regulações e mandatos (concorrência
+de mercado, mercado de carga na base,
+capacidade de balanceamento), encargos,
+leilões, incentivos fiscais, subsídios, medidas demand-side response.
+
+Opções tecnológica prospetadas para Energia solar e eólica, hidrogênio, bateserem introduzidas comercialmente rias, energia oceânica, energia nuclear,
+tecnologias de carbono, tecnologias digitais e da informação.
+
+Energia solar e eólica, hidrogênio, amônia, CCUS, baterias, nova geração de
+energia nuclear, tecnologias digitais e da
+informação.
+
+Principais instrumentos de promoção do desenvolvimento industrial e
+de CT&I
+
+Financiamento público à pesquisa básica, pesquisa aplicada, desenvolvimento e demonstração, políticas de apoio à
+colaboração, políticas de promoção de
+redes de interação, políticas de promoção do empreendedorismo, incentivos ao
+investimento privado, compras públicas,
+incentivos fiscais.
+
+Financiamento público a pesquisa básica, pesquisa aplicada, desenvolvimento
+e demonstração, políticas para promover
+a colaboração, políticas de promoção de
+redes de interação, políticas de promoção
+do empreendedorismo, prospecção tecnológica, empréstimos.
+
+FONTE: elaborado pelos autores.
+
+No relativo à promoção da geração de eletricidade a partir das novas fontes renováveis, pode-se
+observar que, apesar da diferença no tempo em que
+foram implantadas, ambos países adotaram orientações e instrumentos de política similares. Numa
+primeira etapa, os dois países adotaram instrumentos de política orientados a fazer economicamente
+viável a introdução dessas fontes – tarifas Feed-in e
+a obrigatoriedade de conexão dessas fontes na rede.
+Posteriormente, em ambos os casos, as orientações das políticas governamentais continuaram
+1015
+
+buscando o aumento da capacidade instalada de
+geração a partir de fontes renováveis variáveis,
+contudo introduzindo instrumentos voltados ao
+atingimento de maior eficiência de custos a serem
+transmitidos aos consumidores finais. Para isso,
+ambos casos transitaram para a introdução de outros
+instrumentos, tais como as tarifas Feed-premium
+e mecanismos de leilão. Isso foi incentivado pela
+necessidade de reduzir os elevados custos das tarifas
+de eletricidade – os dois possuem tarifas de eletricidade entre mais altas nos países da OCED –, e pelo
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+impacto de inovações tecnológicas incrementais na
+redução dos custos produção de equipamentos e
+de geração a partir de fontes renováveis durante a
+última década (IEA, 2021b; IRENA, 2019).
+Sobre as opções tecnológicas adotadas pelos
+países, existem diferenças importantes. A Alemanha
+optou por promoção das fontes variáveis e desativar todas as usinas nucleares até 2021, enquanto
+o Japão decidiu continuar a manter essa última
+fonte dentro do mix de opções de baixo carbono
+para conduzir a transição energética. Os casos dos
+países também apresentam diferenças no ritmo da
+difusão das opções tecnológicas adotadas. Apesar
+de serem as mesmas, a difusão da energia eólica
+avançou de forma mais acelerada do que a energia
+solar, que também apresentou crescimento, mas não
+na mesma velocidade. No caso japonês, a opção
+tecnológica que apresentou notável crescimento foi
+a energia solar. No caso da energia eólica, o país
+não apresentou resultados substanciais19.
+
+5. Conclusões
+Ao longo deste trabalho, buscou-se identificar o processo de revisão das políticas energéticas
+nacionais, decorrentes da busca de resultados que
+logrem uma transformação da matriz energética a
+partir da redução de combustíveis fósseis. Nesse
+sentido, o papel do Estado neste processo de revisão
+é crucial. A partir do arcabouço conceitual de policy
+mix, fica evidenciada a necessidade de articular e
+coordenar, de forma diferente do passado, uma série
+de novos instrumentos de política pública. Assim,
+
+foi possível destacar que, em termos genéricos, o
+desenho do policy mix nasce a partir do interesse em
+atingir objetivos gerais com base em instrumentos
+de política pública concretos que vão se incorporando no mix para coexistir com outros previamente
+adotados. A busca pela consecução de objetivos
+gerais é o resultado da interação, do alinhamento e
+agregação de interesses entre os atores políticos no
+arranjo político institucional do Estado, e sua colocação como prioridade na agenda governamental.
+Esse arcabouço conceitual tem sido de grande
+valia para os estudos de transições de regimes sociotécnicos e exame dos pacotes de políticas públicas.
+No caso em tela neste trabalho, e, em particular, no
+âmbito das revisões das políticas governamentais da
+Alemanha e Japão para adaptar os sistemas elétricos
+à dinâmica das fontes renováveis variáveis, foram
+encontradas semelhanças e diferenças. No caso
+alemão, está diretamente relacionado com a necessidade de integrar as fontes renováveis variáveis ao
+sistema, enquanto, no caso japonês, a integração das
+fontes renováveis está inserida dentro de uma visão
+mais abrangente de segurança, que busca reduzir
+as vulnerabilidades do país diante dos riscos de
+desastres ambientais.
+Entre os elementos em comum, as políticas
+governamentais em ambos os países compartilham
+a orientação de transitar para a liberalização dos
+sistemas de energia, e a busca de que os mecanismos de determinação de preços respondam a
+sinais de mercado. Entre as soluções para garantir
+a segurança no abastecimento e a transição para
+sistemas mais flexíveis, os países também apresentam semelhanças nas alternativas adotadas. Ambos
+
+Existem várias razões que explicam a velocidade na difusão da energia solar no Japão e a eólica na Alemanha, que não foram aprofundados no
+trabalho. Eles guardam relação com questões como as condições geográficas e as políticas públicas para promover a construção de capacidades
+produtivas e tecnológicas desde a segunda metade do século XX. Para mais detalhes, ver Wieczorek (2019).
+19
+
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+1016
+
+coincidem na necessidade de aprimorar e expandir
+as redes de transmissão e distribuição de eletricidade, assim como o aprimoramento da integração
+entre regiões para permitir melhores condições de
+balanceamento. Para lidar com a intermitência das
+fontes variáveis, os países estão promovendo a instalação de sistemas de cogeração e armazenamento
+de energia.
+No âmbito das opções tecnológicas consideradas, os países também apresentam semelhanças.
+Ambos contemplam a adoção de gás natural como
+fonte de backup para lidar com a intermitência das
+fontes renováveis. Igualmente, os planos governamentais estabeleceram a adoção de tecnologias de
+cogeração e armazenamento por meio de baterias
+para lidar com a intermitência, assim como a introdução de tecnologias digitais para melhorar a
+capacidade de gerenciamento do sistema elétrico e
+como parte das medidas demand-side management.
+Em termos de políticas de promoção do desenvolvimento industrial e de CT&I, os planos governamentais mostram uma orientação de incremento
+dos esforços em matéria de política pública para
+complementar as políticas de promoção das fontes
+de baixo carbono e de adaptação dos sistemas de
+energia à nova dinâmica dessas fontes de energia.
+Eles também apontam a colocar as empresas locais
+na fronteira tecnológica e, como países, continuar a
+manter sua posição de economias exportadoras de
+produtos e serviços de alta tecnologia.
+Em ambos os casos, pode-se observar que
+os incentivos para o desenvolvimento tecnológico
+vão mais além dos instrumentos de política pública
+diretamente voltados à promoção de atividades de
+P&D e demonstração. Nos dois mix de políticas,
+pode-se observar que as outras estratégias também
+se encaixariam como incentivos para a demanda de
+1017
+
+tecnologias especificas e para a geração de inovações incrementais visando a redução dos custos de
+geração, o aprimoramento das redes de transmissão
+e distribuição, e a eficiência das opções tecnológicas
+para lidar com a intermitência das fontes variáveis.
+Entre os instrumentos adotados, o mapeamento mostrou um destaque para o financiamento
+público às atividades de pesquisa básica, pesquisa
+aplicada, desenvolvimento e demonstração (Tabela
+2). Em ambos os casos, os planos governamentais
+mostram um interesse pela aceleração dos tempos condizentes à introdução comercial de novos
+produtos e serviços. De forma complementar, os
+documentos oficiais mostram um amplo leque de
+instrumentos de política pública, muitos deles voltados a temas específicos. Entre os instrumentos
+mais destacados, encontraram-se aqueles voltados
+a promover a colaboração entre atores, a criação
+de redes de interação, e instrumentos voltados à
+promoção do empreendedorismo na comunidade
+cientifica.
+Contudo, entre as diferenças, o caso do mix de
+políticas japonês mostra um escopo de intervenção
+estatal maior do que caso alemão. Além do financiamento para a expansão de capacidade produtiva
+e a adoção de opções tecnológicas, instrumentos
+que estão presentes em ambos os países, o Green
+Growth Strategy japonês contempla instrumentos
+bem mais agressivos em termos da intervenção do
+Estado, tais como o explícito no uso do poder de
+compra do Estado.
+Finalmente, com relação às opções tecnológicas, ambos os países coincidem na necessidade
+de continuar incentivando a geração de inovações
+incrementais nas fontes renováveis variáveis. Outro
+ponto em comum é a continuação dos incentivos
+para o desenvolvimento de tecnologias de hidro-
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+gênio. Os países também mostram semelhanças
+com relação à busca de soluções tecnológicas em
+matéria de redes de transmissão, sistemas de estocagem de energia a baterias, sistemas de cogeração
+e tecnológicas digitais para melhorar a capacidade
+de operação do sistema e ações do tipo demand-side management. Igualmente, ambos os países
+apontaram a intenção de desenvolver capacidade
+tecnológica em matéria de CCUS.
+
+Referências
+Alemanha. Renewable Energy Sources Act, de julho de
+2017. Berlim, 2017. Disponível em: <https://www.bmwk.
+de/Redaktion/EN/Downloads/renewable-energy-sources-act-2017.pdf?__blob=publicationFile&v=1>. Acesso em:
+dez. 2020.
+BMU – Federal Ministry of Environment, Nature Conservation and Nuclear Safety. Nuclear Safety / Constitution
+and Laws, 2021. Disponível em: <https://www.bmuv.de/
+fileadmin/Daten_BMU/Download_PDF/Nukleare_Sicherheit/12_punkte_atomausstieg_en_bf.pdf >. Acesso
+em: mar 2021.
+BMWi – Federal Ministry of Economic Affairs and Energy.
+An electricity market for Germany’s energy transition, 2015.
+Disponível em: <https://www.bmwk.de/Redaktion/EN/
+Publikationen/whitepaper-electricity-market.pdf?__blob=publicationFile&v=1>. Acesso em: dez. 2020.
+BMWi – Federal Ministry of Economic Affairs and Energy.
+Electricity 2030: Long-term trends – tasks for the coming
+years, 2017. Disponível em: < https://www.german-energy-solutions.de/GES/Redaktion/EN/Publications/bmwi/
+electricity-2030-long-term-trends.pdf?__blob=publicationFile&v=1>. Acesso em: mai. 2021.
+BMWi – Federal Ministry of Economic Affairs and Energy.
+2020 Federal Report on Energy Research, 2020 Disponível
+em: <https://www.bmwk.de/Redaktion/EN/Publikationen/
+Energie/federal-government-report-on-energy-research-2020.html>. Acesso em: dez. 2020
+
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+BMWi – Ministério Federal de Assuntos Econômicos e
+Energia. Regulation of grid charges. 2021. Disponívelem:
+<https://www.bmwk.de/Redaktion/EN/Artikel/Energy/
+competition-energy-sector-4.html>. Acesso em: fev 2021.
+BP – British Petroleum. Statistical Review of World Energy
+2020. Disponível em: < https://www.bp.com/content/dam/
+bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2020-full-report.pdf>.
+Acesso em: fev. 2021.
+Braathen, N. Instrument mixes for environmental policy:
+how many stones should be used to kill a bird? International
+Review of Environmental and Resource Economics, 1(2),
+85-235, 2007. doi: 10.1561/101.00000005
+Bulgacov, S. Estudos comparativo e de caso de organizações
+de estratégias. Organizações & Sociedade, 5(11), 53-76,
+1998. Disponível em: <https://periodicos.ufba.br/index.
+php/revistaoes/article/view/10375>. Acesso em: ago. 2019.
+Carbone, M. Mission impossible: the european union and policy coherence for development. Journal of European Integration, 30, 323-342, 2008. doi: 10.1080/07036330802144992
+Chen, C.; Xue, B.; Cai, G.; Heiko, T.; Stückrad, S. Comparing the energy transitions in Germany and China: synergies
+and recommendations. Energy Reports, 5, 1249-1260, 2019.
+doi: 10.1016/j.egyr.2019.08.087
+Daszkiewicz, K. Policy and regulation of energy transition.
+In: Hafner, M.; Tagliapietra, S. (Eds.). The geopolitics of
+the global energy transition. Lecture Notes in Energy, 2020,
+p. 203-226. doi: 10.1007/978-3-030-39066-2
+Del Rio, P. Interactions between climate and energy policies:
+the case of Spain. Climate Policy, 9, 119-138, 2009. doi:
+10.3763/cpol.2007.0424
+Dezin, N.; Lincoln, Y. O planejamento da pesquisa qualitativa: teorias e abordagens. Porto Alegre: Artmed, 2. ed., 2006.
+Disponível em: https://bds.unb.br/handle/123456789/863
+Edler J.; Fagerberg, J. Innovation policy: what, why,
+and how. Oxford Review of Economic Policy, 33(1), 2-23,
+2017. doi: 10.1093/oxrep/grx001
+Fisher, C.; Preonas, L. Combining policies for renewable
+energy: is the whole less than the sum of its parts? International Review of Environmental and Resource Economics,
+1018
+
+4, 51-92, 2010. doi: 10.2139/ssrn.1569634
+
+view>. Acesso em: mar. 2021.
+
+Genscape. Who benefits from the Japan baseload market?
+Disponível em: <https://www.genscape.com/blog/who-benefits-japan-baseload-market>. Acesso em: mar. 2021.
+
+IEA – International Energy Agency. Japan energy policy review. 2021b. Disponível em: <https://www.iea.org/reports/
+japan-2021>. Acesso em: mar. 2021.
+
+Givoni, M.; Macmillen, J.; Banister, D.; Feitelson,
+E. From policy measures to policy packages. Transport
+Reviews, 33(1), 1-20, 2013. doi: 10.1080/01441647.2012
+.744779.
+
+IRENA – The International Renewable Energy Agency. A
+new world: the geopolitics of the energy transformation.
+2019. Disponível em: <https://www.irena.org/publications/2019/Jan/A-New-World-The-Geopolitics-of-the-Energy-Transformation>. Acesso em: mar. 2021.
+
+Goldthau, A.; Eicke, L.; Weko, S. The global energy transition and the global south. In: Hafner, M.; Tagliapietra, S.
+(Eds.). The geopolitics of the global energy transition. Lecture Notes in Energy, 2020, p. 319-340. doi: 10.1007/9783-030-39066-2
+Howlett, M.; Rayner, J. Design principles for policy mixes:
+cohesion and coherence in ‘new governance arrangements’.
+Policy and Society, 26(4), 1-18, 2007. doi: 10.1016/S14494035(07)70118-2
+IEA – International Energy Agency. Japan energy policies
+review, 2016. Disponível em: <https://www.iea.org/reports/
+energy-policies-of-iea-countries-japan-2016-review>.
+Acesso em: mar. 2021.
+IEA – International Energy Agency. Technology Innovation
+to Accelerate Energy Transition, 2019.Dezembro de 2019.
+Disponível em: <https://www.iea.org/reports/technology-innovation-to-accelerate-energy-transitions>. Acesso em:
+mar. 2021.
+IEA – International Energy Agency. Global energy review
+2019. 2020a. Disponível em: <https://www.iea.org/reports/
+global-energy-review-2019>. Acesso me: mar. 2021.
+IEA – International Energy Agency. Energy technology
+perspectives 2020. 2020b. Disponível em: <https://www.
+iea.org/reports/energy-technology-perspectives-2020>.
+Acesso em: mar. 2021.
+IEA – International Energy Agency. Germany energy policy review 2020: country report. 2020c. Disponível em:
+<https://www.iea.org/reports/germany-2020>. Acesso em:
+mar. 2021.
+IEA – International Energy Agency. Energy technology
+RD&D budgets: overview. 2021a. Disponível em: <https://
+www.iea.org/reports/energy-technology-rdd-budgets-over1019
+
+IRENA – The International Renewable Energy Agency.
+Renewable energy auctions in Japan: context, design and
+results. 2021. Disponível em: <https://www.irena.org/publications/2021/Jan/Renewable-energy-auctions-in-Japan>.
+Acesso em: mar. 2021.
+Japão. The long-term strategy under the Paris agreement.
+2019. Disponível em: < https://unfccc.int/sites/default/files/
+resource/Japan_LTS2021.pdf>. Acesso em: mar. 2021.
+Jensterle, M.; Venjakob, M. Smart power grids and integration of renewables in Japan. Berlin: Adelphi, 2019.
+Disponível em: <https://epub.wupperinst.org/frontdoor/
+deliver/index/docId/7425/file/7425_Smart_Power_Grids.
+pdf>. Acesso em: mar. 2021.
+Kern, F.; Howlett, M. Implementing transition management
+as policy reforms: a case study of the Dutch energy sector.
+Policy Sci, 42(4), 391-408, 2009. doi: 10.1007/s11077009-9099-x
+Kern, F.; Rogge, C.; Howlett, M. Policy mixes for sustainability transitions: new approaches and insights through
+bridging innovation and policy studies. Research Policy,
+48(10), 2019. doi: 10.1016/j.respol.2019.103832
+Kivimaa, P.; Kern, F. Creative destruction or mere niche
+support? Innovation policy mixes for sustainability transitions. Research Policy, 45, 205-217, 2016. doi: 10.1016/j.
+respol.2015.09.008
+Kuittinen, H.; Velte, D. Case study report: Energiewende.
+European commission. Mission-oriented R&I policies:
+in-depth case studies, 2018. Disponível em: <https://
+op.europa.eu/en/publication-detail/-/publication/5e774d98-2351-11e8-ac73-01aa75ed71a1/language-en>. Acesso
+em: jan. 2021.
+
+VITTO, W. A. C.; PINTO JR., H. C. As rotas para conduzir o processo de transição energética de baixo carbono no setor elétrico...
+
+Lehmann, P. Justifying a policy mix for pollution control: a
+review of economic literature. The Journal of Economic Surveys, 26, 71-97, 2012. doi: 10.1111/j.1467-6419.2010.00628
+Li, L.; Taeihagh, A. An in-depth analysis of the evolution
+of the policy mix for the sustainable energy transition in
+China from 1981 to 2020. Applied Energy, 263, 114611,
+2020. doi: 10.1016/j.apenergy.2020.114611
+METI – Ministry of Economy, Trade and Industry. Strategic
+Energy Plan. 2018. Disponível em: <https://www.enecho.
+meti.go.jp/en/category/others/basic_plan/>. Acesso em:
+fev. 2021.
+METI – Ministry of Economy, Trade and Industry. Cabinet
+decision on the bill for the act of partial revision of the electricity business act and other acts for establishing resilient
+and sustainable electricity supply systems. 2020. Disponível
+em: <https://www.meti.go.jp/english/press/2022/0301_004.
+html>. Acesso em: fev. 2021.
+METI – Ministry of Economy, Trade and Industry. Overview
+of Japan’s green growth strategy through achieving carbon
+neutrality in 2050. 2021. Disponível em: <https://www.
+mofa.go.jp/files/100153688.pdf>. Acesso em: fev. 2021.
+Moreira, D. A. Administração da produção e operações.
+São Paulo: Thomson Pioneira, 1 ed., 2004.
+Mori, C.; Batalha, M.; Alfranca, O. Capacidade tecnológica:
+proposição de índice e aplicação a empresas do complexo
+agroindustrial do trigo. Production, 24, 2014. doi: 10.1590/
+S0103-65132013005000086
+OECD – The Organisation for Economic Co-operation and
+Development. Environmentat a glance indicators. 2021.
+Disponível em: <https://www.oecd.org/environment/environment-at-a-glance/>. Acesso em: mar. 2021.
+
+Desenvolv. Meio Ambiente, v. 62, p. 996-1020, jul./dez. 2023.
+
+Philibert, C. Interactions of policies for renewable energy
+and climate. International Energy Agency, Working Paper,
+2011. Disponível em: <https://www.iea.org/reports/interactions-of-policies-for-renewable-energy-and-climate>.
+Acesso em: mar. 2021.
+Rogge, K.; Reicharrdt, K. Policy mixes for sustainability
+transitions: an extended concept and framework for analysis. Research Policy, 45, 1620-1635, 2016. doi: 10.1016/j.
+respol.2016.04.004
+Rogge, K.; Johnstone, P. Exploring the role of phase-out
+policies for low-carbon energy transitions: the case of the
+german energiewende. Energy Research & Social Science,
+33, 128-137, 2017. doi: 10.1016/j.erss.2017.10.004
+Rogge, K.; Pfluger, B.; Geels, F. Transformative policy mixes in socio-technical scenarios: the case of the low-carbon
+transition of the German electricity system (2010-2050).
+Fraunhofer ISI, Karlsruhe, Working Paper Sustainability
+and Innovation, No. S11, 2017. Disponível em: <http://hdl.
+handle.net/10419/167650>. Acesso em: jan. 2021.
+Watanabe, C. Japan to Support Energy Saving, Storage-Battery Installations. Bloomberg. Janeiro de 2015.
+Disponível em: <https://www.bloomberg.com/news/articles/2015-01-09/japan-to-support-energy-saving-storage-battery-installations>. Acesso em: jan. 2021.
+WEC – World Energy Council. Designing for Disruptions:
+a new era for energy. London, United Kingdom, 2019.
+Disponível em: <https://www.worldenergy.org/publications/
+entry/designing-for-disruptions-a-new-era-for-energy>.
+Acesso em: jan. 2021.
+
+1020
+
+
