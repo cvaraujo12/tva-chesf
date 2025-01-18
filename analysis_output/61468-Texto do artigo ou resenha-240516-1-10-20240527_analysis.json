@@ -1,0 +1,27 @@
+{
+  "num_sentences": 410,
+  "num_tokens": 12352,
+  "key_entities": {
+    "Marx (PER)": 32,
+    "Salvador (LOC)": 19,
+    "Brasil (LOC)": 18,
+    "Entrevista  \nGerminal (LOC)": 12,
+    "Forças Armadas (ORG)": 11,
+    "Germinal (LOC)": 7,
+    "UCEB (LOC)": 7,
+    "João Goulart (PER)": 4,
+    "Lula da Silva (PER)": 4,
+    "Estado (LOC)": 4,
+    "Goulart (PER)": 3,
+    "Trata (MISC)": 3,
+    "Exército (ORG)": 3,
+    "Dilma Rousseff (PER)": 3,
+    "Lula (PER)": 3,
+    "Comissão (ORG)": 3,
+    "ENTREVISTA (MISC)": 2,
+    "Caio Navarro de Toledo (PER)": 2,
+    "Caio Toledo (PER)": 2,
+    "FFCL (MISC)": 2
+  },
+  "main_concepts": []
+}

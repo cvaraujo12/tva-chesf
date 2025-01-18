@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><inkscape-extension><name>Volume5_Effects</name><id>custom.effects.vol5</id><effect><object-type>all</object-type><effects-menu><submenu name="Custom Effects"/></effects-menu></effect><script><command location="inx" interpreter="python">effects_vol5.py</command></script></inkscape-extension>

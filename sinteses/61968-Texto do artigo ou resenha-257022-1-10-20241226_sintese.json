@@ -1,0 +1,46 @@
+{
+  "documento": "61968-Texto do artigo ou resenha-257022-1-10-20241226",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "p.518- (per)",
+    "rodney (per)",
+    "marx (per)",
+    "issn (org)",
+    "são paulo (loc)",
+    "salvador (loc)",
+    "rio de janeiro (loc)",
+    "moura (loc)",
+    "eric williams (per)",
+    "europa (loc)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 513,
+    "num_tokens": 15801,
+    "key_entities": {
+      "Brasil (LOC)": 63,
+      "África (LOC)": 24,
+      "Salvador (LOC)": 23,
+      "p.518- (PER)": 23,
+      "ISSN (ORG)": 23,
+      "Artigos  \nGerminal (MISC)": 21,
+      "Marx (PER)": 21,
+      "São Paulo (LOC)": 21,
+      "Moura (LOC)": 19,
+      "Europa (LOC)": 19,
+      "América (LOC)": 15,
+      "E.U.A. (LOC)": 11,
+      "Rodney (PER)": 9,
+      "Estado (LOC)": 8,
+      "Rio de Janeiro (LOC)": 8,
+      "Clóvis Moura (PER)": 8,
+      "James (PER)": 7,
+      "Grespan (PER)": 7,
+      "Munanga (LOC)": 6,
+      "Eric Williams (PER)": 6
+    },
+    "main_concepts": []
+  }
+}

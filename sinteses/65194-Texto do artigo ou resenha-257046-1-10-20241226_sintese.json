@@ -1,0 +1,44 @@
+{
+  "documento": "65194-Texto do artigo ou resenha-257046-1-10-20241226",
+  "temas_em_comum": [],
+  "temas_unicos": [
+    "marx (per)",
+    "issn (org)",
+    "são paulo (loc)",
+    "editorial  \n \ngerminal (loc)",
+    "germinal (loc)",
+    "salvador (loc)",
+    "ualid rabah (per)",
+    "karl marx (per)",
+    "tecnológica (misc)",
+    "frigotto (per)"
+  ],
+  "score_relevancia": 0.0,
+  "analise_original": {
+    "num_sentences": 214,
+    "num_tokens": 5690,
+    "key_entities": {
+      "Marx (PER)": 15,
+      "Salvador (LOC)": 10,
+      "v.16 (LOC)": 10,
+      "ISSN (ORG)": 10,
+      "Editorial  \n \nGerminal (LOC)": 8,
+      "Brasil (LOC)": 6,
+      "Lewontin (PER)": 6,
+      "Germinal (LOC)": 5,
+      "São Paulo (LOC)": 5,
+      "Frigotto (PER)": 3,
+      "BNCC (ORG)": 3,
+      "Levins (LOC)": 3,
+      "Artigos (MISC)": 3,
+      "Currículo Lattes (PER)": 3,
+      "Científica (MISC)": 2,
+      "Tecnológica (MISC)": 2,
+      "Institutos Federais (MISC)": 2,
+      "Dossiê (MISC)": 2,
+      "Ualid Rabah (PER)": 2,
+      "Karl Marx (PER)": 2
+    },
+    "main_concepts": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "59247-Texto do artigo ou resenha-257021-1-10-20241226",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "m azzeo (misc)",
+    "portugal (loc)",
+    "issn (org)",
+    "roberto schwarz (per)",
+    "são paulo (loc)",
+    "frança (loc)",
+    "salvador (loc)",
+    "vargas (per)",
+    "getúlio vargas (per)",
+    "união democrática nacional (org)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 513,
+    "num_tokens": 14815,
+    "key_entities": {
+      "Brasil (LOC)": 58,
+      "Salvador (LOC)": 21,
+      "ISSN (ORG)": 21,
+      "Artigos  \nGerminal (MISC)": 20,
+      "Estado (LOC)": 18,
+      "Estado Novo (ORG)": 17,
+      "Getúlio Vargas (PER)": 11,
+      "São Paulo (LOC)": 11,
+      "Manifesto dos Mineiros (MISC)": 10,
+      "Europa (LOC)": 10,
+      "Mazzeo (PER)": 9,
+      "Portugal (LOC)": 8,
+      "França (LOC)": 8,
+      "Vargas (PER)": 6,
+      "Schwarz (PER)": 6,
+      "Rio de Janeiro (LOC)": 5,
+      "União Democrática Nacional (ORG)": 4,
+      "Roberto Schwarz (PER)": 4,
+      "M azzeo (MISC)": 4,
+      "François Guizot (PER)": 4
+    },
+    "main_concepts": []
+  }
+}

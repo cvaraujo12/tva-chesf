@@ -1,0 +1,44 @@
+{
+  "documento": "60235-Texto do artigo ou resenha-256995-1-10-20241224",
+  "temas_em_comum": [],
+  "temas_unicos": [
+    "georg (per)",
+    "marx (per)",
+    "marx (misc)",
+    "issn (org)",
+    "engels (per)",
+    "são paulo (loc)",
+    "ontologia do ser social (org)",
+    "salvador (loc)",
+    "karl marx (per)",
+    "consciência de classe (misc)"
+  ],
+  "score_relevancia": 0.0,
+  "analise_original": {
+    "num_sentences": 568,
+    "num_tokens": 15740,
+    "key_entities": {
+      "Lukács (PER)": 92,
+      "Marx (PER)": 87,
+      "Capital (LOC)": 27,
+      "Salvador (LOC)": 21,
+      "ISSN (ORG)": 21,
+      "São Paulo (LOC)": 20,
+      "Dossiê (LOC)": 17,
+      "Karl (PER)": 13,
+      "LUKÁCS (ORG)": 11,
+      "O Capital (MISC)": 11,
+      "MARX (MISC)": 9,
+      "Ontologia do Ser Social (ORG)": 8,
+      "Karl Marx (PER)": 7,
+      "Georg (MISC)": 7,
+      "Boitempo (LOC)": 7,
+      "Engels (PER)": 5,
+      "Netto (PER)": 4,
+      "Friedrich (PER)": 4,
+      "Georg (PER)": 4,
+      "Consciência de Classe (MISC)": 4
+    },
+    "main_concepts": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "59230-Texto do artigo ou resenha-240529-1-10-20240528",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "ii pnd (misc)",
+    "bianchi (loc)",
+    "spohr (misc)",
+    "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete (misc)",
+    "salvador (loc)",
+    "martina (org)",
+    "severo gomes (per)",
+    "comércio (loc)",
+    "rio de janeiro (loc)",
+    "lemos (loc)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 568,
+    "num_tokens": 12945,
+    "key_entities": {
+      "Salvador (LOC)": 17,
+      "Brasil (LOC)": 17,
+      "Ernesto Geisel (PER)": 15,
+      "Severo Gomes (PER)": 15,
+      "Estado (LOC)": 15,
+      "II PND (MISC)": 10,
+      "Rio de Janeiro (LOC)": 10,
+      "SPOHR (MISC)": 7,
+      "LEMOS (LOC)": 6,
+      "Bianchi (LOC)": 6,
+      "Comércio (LOC)": 5,
+      "BIANCHI (LOC)": 5,
+      "Indústria (ORG)": 4,
+      "CPDOC (ORG)": 4,
+      "Venturini (PER)": 4,
+      "Mino Carta (PER)": 4,
+      "Curitiba (LOC)": 4,
+      "Consequência (LOC)": 4,
+      "Martina (ORG)": 4,
+      "https://www18.fgv.br/CPDOC/acervo/dicionarios/verbete (MISC)": 4
+    },
+    "main_concepts": []
+  }
+}

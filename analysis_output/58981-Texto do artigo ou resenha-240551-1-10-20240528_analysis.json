@@ -1,0 +1,27 @@
+{
+  "num_sentences": 484,
+  "num_tokens": 14246,
+  "key_entities": {
+    "Estado (LOC)": 48,
+    "São Paulo (LOC)": 26,
+    "Salvador (LOC)": 21,
+    "v.16 (LOC)": 21,
+    "Brasil (LOC)": 14,
+    "Marx (PER)": 13,
+    "Debate  \nGerminal (MISC)": 13,
+    "Netto (PER)": 11,
+    "Caramuru Teles (PER)": 8,
+    "Marini (PER)": 8,
+    "Pachukanis (PER)": 7,
+    "Direito (ORG)": 6,
+    "Vianna (PER)": 6,
+    "Boitempo (LOC)": 6,
+    "MARX (PER)": 5,
+    "Ianni (MISC)": 4,
+    "Cortez (LOC)": 4,
+    "Karl (PER)": 4,
+    "Popular (MISC)": 4,
+    "Vital Moreira (PER)": 3
+  },
+  "main_concepts": []
+}

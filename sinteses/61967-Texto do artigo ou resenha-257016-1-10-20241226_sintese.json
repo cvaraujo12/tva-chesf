@@ -1,0 +1,46 @@
+{
+  "documento": "61967-Texto do artigo ou resenha-257016-1-10-20241226",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "mark fisher (per)",
+    "issn (org)",
+    "cesarino (loc)",
+    "harvey (org)",
+    "são paulo (loc)",
+    "salvador (loc)",
+    "piolli (per)",
+    "gonsalves (loc)",
+    "freitas (loc)",
+    "fisher (per)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 534,
+    "num_tokens": 11561,
+    "key_entities": {
+      "Fisher (PER)": 63,
+      "Salvador (LOC)": 18,
+      "Artigos  \nGerminal (MISC)": 17,
+      "ISSN (ORG)": 17,
+      "Galvão (LOC)": 17,
+      "Mark Fisher (PER)": 13,
+      "Freitas (LOC)": 13,
+      "São Paulo (LOC)": 13,
+      "Harvey (ORG)": 12,
+      "Saviani (LOC)": 10,
+      "Cesarino (LOC)": 10,
+      "FISHER (MISC)": 10,
+      "Estado (LOC)": 8,
+      "Marques (LOC)": 7,
+      "Gonsalves (LOC)": 7,
+      "Pedagogia Histórico (LOC)": 6,
+      "Brasil (LOC)": 5,
+      "Galvão (MISC)": 5,
+      "Piolli (PER)": 5,
+      "Saviani (MISC)": 5
+    },
+    "main_concepts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "num_sentences": 642,
+  "num_tokens": 14629,
+  "key_entities": {
+    "Petrobras (ORG)": 60,
+    "DIVIN (ORG)": 49,
+    "DIVIN (MISC)": 40,
+    "Salvador (LOC)": 24,
+    "Estado (LOC)": 16,
+    "Rio de Janeiro (LOC)": 14,
+    "Arquivo Nacional (LOC)": 14,
+    "Debate \nGerminal (MISC)": 11,
+    "Brasil (LOC)": 11,
+    "São Paulo (LOC)": 10,
+    "SIPE (ORG)": 8,
+    "PETROBRAS (ORG)": 7,
+    "Divisão de Informações (MISC)": 7,
+    "Figura (MISC)": 7,
+    "DEOPS (ORG)": 7,
+    "Debate \nGerminal (LOC)": 6,
+    "BR_RJANRIO.HF.O.SEG.0002 (MISC)": 6,
+    "Divisão (ORG)": 6,
+    "SEREGs (MISC)": 6,
+    "Estado brasileiro (LOC)": 5
+  },
+  "main_concepts": []
+}

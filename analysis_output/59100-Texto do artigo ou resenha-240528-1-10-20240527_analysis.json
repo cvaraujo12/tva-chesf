@@ -1,0 +1,27 @@
+{
+  "num_sentences": 531,
+  "num_tokens": 14025,
+  "key_entities": {
+    "Estado (LOC)": 28,
+    "Fico (PER)": 22,
+    "Salvador (LOC)": 20,
+    "Dreifuss (PER)": 17,
+    "FICO (ORG)": 15,
+    "Goulart (PER)": 14,
+    "Brasil (LOC)": 13,
+    "IPES (ORG)": 13,
+    "IBAD (ORG)": 12,
+    "Debate  \nGerminal (MISC)": 9,
+    "Aliança (MISC)": 9,
+    "Forças Armadas (ORG)": 7,
+    "Rio de Janeiro (LOC)": 7,
+    "Bolsonaro (LOC)": 6,
+    "Debate  \nGerminal (LOC)": 5,
+    "Carlos Fico (PER)": 5,
+    "Estados Unidos (LOC)": 5,
+    "Jango (PER)": 5,
+    "IPES (LOC)": 5,
+    "IPES (MISC)": 5
+  },
+  "main_concepts": []
+}

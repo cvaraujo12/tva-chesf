@@ -1,0 +1,27 @@
+{
+  "num_sentences": 621,
+  "num_tokens": 15206,
+  "key_entities": {
+    "BRASIL (LOC)": 44,
+    "Brasil (LOC)": 32,
+    "CUNHA (ORG)": 25,
+    "Estado (LOC)": 24,
+    "Salvador (LOC)": 22,
+    "ISSN (ORG)": 22,
+    "Dossiê (LOC)": 21,
+    "Germinal (LOC)": 12,
+    "Educação (LOC)": 11,
+    "São Paulo (LOC)": 9,
+    "SENAI (ORG)": 8,
+    "“Aprendizes (MISC)": 7,
+    "Artífices (MISC)": 7,
+    "KUENZER (LOC)": 7,
+    "Luiz Antônio (PER)": 6,
+    "UFSC (LOC)": 6,
+    "ROMANELLI (MISC)": 5,
+    "Sistema “S (ORG)": 5,
+    "Cunha (LOC)": 5,
+    "Reforma Capanema (MISC)": 5
+  },
+  "main_concepts": []
+}

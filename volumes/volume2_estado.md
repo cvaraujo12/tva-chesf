@@ -48,25 +48,64 @@ Este volume dialoga diretamente com o Volume 1, aprofundando a análise das medi
 
 ### 1.1 Do Desenvolvimentismo ao Neoliberalismo
 
-A trajetória do Estado brasileiro é marcada por transformações significativas em suas formas de intervenção e mediação do desenvolvimento territorial.
+A trajetória do Estado brasileiro é marcada por transformações significativas em suas formas de intervenção e mediação do desenvolvimento territorial. Como evidenciado nas análises documentais e nos estudos de caso do setor elétrico, estas transformações envolvem múltiplas dimensões que se articulam de forma complexa.
 
-#### 1.1.1 Estado desenvolvimentista
-- Formação histórica do Estado desenvolvimentista
-- Papel na industrialização e modernização
-- Planejamento centralizado
-- Grandes projetos de desenvolvimento
+#### 1.1.1 Estado desenvolvimentista (1930-1980)
 
-#### 1.1.2 Crise e transição
-- Esgotamento do modelo desenvolvimentista
-- Crise fiscal e administrativa
-- Pressões internacionais
-- Reconfiguração institucional
+A formação do Estado desenvolvimentista brasileiro foi caracterizada por:
 
-#### 1.1.3 Estado neoliberal
-- Reforma do Estado
-- Novos modelos de gestão
-- Parcerias público-privadas
+1. **Dimensão Institucional**
+- Criação de empresas estatais estratégicas
+- Formação de quadros técnicos especializados
+- Desenvolvimento de expertise nacional
+- Planejamento centralizado e integrado
+- Articulação com missões técnicas internacionais
+
+2. **Dimensão Territorial**
+- Implementação de grandes projetos de infraestrutura
+- Políticas de integração nacional
+- Desenvolvimento regional planejado
+- Controle estratégico de recursos naturais
+- Produção de novas territorialidades
+
+3. **Dimensão Econômica**
+- Industrialização por substituição de importações
+- Financiamento público do desenvolvimento
+- Proteção de setores estratégicos
+- Articulação com capital internacional
+- Formação de grupos monopolistas nacionais
+
+Como evidenciado nos documentos analisados, o papel do Estado desenvolvimentista foi fundamental na:
+- Mediação entre capital nacional e internacional
+- Formação de uma burguesia industrial nacional
+- Implementação de projetos estruturantes
+- Gestão territorial estratégica
+- Articulação entre desenvolvimento e segurança nacional
+
+#### 1.1.2 Crise e transição (1980-1990)
+
+O período de crise e transição foi marcado por:
+
+1. **Dimensão Estrutural**
+- Esgotamento do modelo de substituição de importações
+- Crise fiscal e administrativa do Estado
+- Pressões dos organismos internacionais
+- Mudanças no padrão de acumulação global
+- Novos requisitos de competitividade
+
+2. **Dimensão Institucional**
+- Reforma administrativa do Estado
+- Novos marcos regulatórios
+- Privatizações setoriais
 - Descentralização administrativa
+- Reconfiguração das políticas públicas
+
+3. **Dimensão Territorial**
+- Fragmentação do planejamento territorial
+- Emergência de novos atores regionais
+- Conflitos socioambientais crescentes
+- Reorganização espacial da produção
+- Novas formas de gestão territorial
 
 ### 1.2 Formas de Intervenção Estatal
 

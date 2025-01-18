@@ -1,0 +1,44 @@
+{
+  "documento": "58977-Texto do artigo ou resenha-240527-1-10-20240527",
+  "temas_em_comum": [],
+  "temas_unicos": [
+    "issn (org)",
+    "orlandi (org)",
+    "debate  \ngerminal (misc)",
+    "courtine (misc)",
+    "salvador (loc)",
+    "indursky (loc)",
+    "país (loc)",
+    "sd 2 (misc)",
+    "forças armadas (org)",
+    "pêcheux (loc)"
+  ],
+  "score_relevancia": 0.0,
+  "analise_original": {
+    "num_sentences": 576,
+    "num_tokens": 15457,
+    "key_entities": {
+      "Brasil (LOC)": 31,
+      "Salvador (LOC)": 23,
+      "ISSN (ORG)": 23,
+      "Ditadura Empresarial (ORG)": 14,
+      "Forças Armadas (ORG)": 14,
+      "Debate  \nGerminal (MISC)": 13,
+      "Pêcheux (LOC)": 12,
+      "SD 3 (MISC)": 11,
+      "FD militarista (ORG)": 10,
+      "Campinas (LOC)": 10,
+      "INDURSKY (LOC)": 8,
+      "País (LOC)": 8,
+      "Análise de Discurso (MISC)": 7,
+      "COURTINE (ORG)": 7,
+      "Debate  \nGerminal (LOC)": 6,
+      "CORTES (LOC)": 6,
+      "ORLANDI (ORG)": 6,
+      "Courtine (MISC)": 6,
+      "SD 2 (MISC)": 6,
+      "PÊCHEUX (MISC)": 5
+    },
+    "main_concepts": []
+  }
+}

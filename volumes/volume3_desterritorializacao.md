@@ -18,14 +18,76 @@ Este terceiro volume da coleção analisa os processos de desterritorialização
 
 ### 1.1 Contexto Histórico da Intervenção Militar (1945-1955)
 
-O período pós-Segunda Guerra Mundial marca uma inflexão significativa na política de defesa nacional brasileira, caracterizada pela aproximação estratégica com os Estados Unidos e pela busca de autonomia energética como elemento de segurança nacional. Neste contexto, o Vale do São Francisco emerge como região prioritária para a implementação de um projeto que articularia desenvolvimento econômico e objetivos militares.
+O período pós-Segunda Guerra Mundial marca uma inflexão significativa na política de defesa nacional brasileira, caracterizada pela aproximação estratégica com os Estados Unidos e pela busca de autonomia energética como elemento de segurança nacional. Como evidenciado nas análises documentais e nos estudos de caso, este período foi marcado por três dimensões fundamentais:
+
+1. **Dimensão Geopolítica**
+- Alinhamento estratégico Brasil-EUA no contexto da Guerra Fria
+- Transferência seletiva de tecnologia militar e energética
+- Formação de quadros técnico-militares especializados
+- Definição de áreas estratégicas prioritárias
+- Integração com a política hemisférica americana
+
+2. **Dimensão Técnico-Institucional**
+- Criação de instituições estratégicas como a CHESF
+- Desenvolvimento de expertise militar-energética
+- Estabelecimento de protocolos de segurança
+- Formação de redes técnico-militares
+- Padronização de procedimentos operacionais
+
+3. **Dimensão Territorial**
+- Implementação do complexo hidroelétrico de Paulo Afonso
+- Instalação de bases militares estratégicas
+- Controle de recursos naturais críticos
+- Reconfiguração espacial planejada
+- Gestão populacional militarizada
+
+Como evidenciado nos documentos analisados, o Vale do São Francisco emerge neste contexto como região prioritária para a implementação de um projeto que articularia:
+
+1. **Objetivos Estratégicos**
+- Autonomia energética nacional
+- Controle territorial efetivo
+- Desenvolvimento regional integrado
+- Formação de polos industriais
+- Modernização das forças armadas
+
+2. **Mecanismos de Controle**
+- Sistema integrado de vigilância
+- Redes de comunicação militar
+- Protocolos de segurança especiais
+- Zoneamento estratégico
+- Gestão populacional
+
+3. **Impactos Territoriais**
+- Deslocamentos populacionais planejados
+- Criação de novas centralidades
+- Reorganização produtiva regional
+- Transformação das relações sociais
+- Militarização do cotidiano
 
 #### 1.1.1 Política de Defesa Nacional no Pós-Guerra
-- Alinhamento estratégico com os EUA
+
+A política de defesa nacional no período foi caracterizada por:
+
+1. **Dimensão Internacional**
+- Alinhamento com a política externa americana
+- Participação em programas de cooperação militar
+- Acesso controlado a tecnologias estratégicas
+- Integração com sistemas de defesa hemisféricos
+- Formação de quadros especializados
+
+2. **Dimensão Nacional**
 - Modernização das Forças Armadas
-- Definição de áreas estratégicas
-- Plano de desenvolvimento integrado
-- Priorização do setor energético
+- Desenvolvimento de setores estratégicos
+- Controle de recursos naturais
+- Integração territorial planejada
+- Industrialização dirigida
+
+3. **Dimensão Regional**
+- Definição de áreas prioritárias
+- Implementação de projetos estruturantes
+- Gestão territorial militarizada
+- Controle populacional
+- Desenvolvimento orientado
 
 #### 1.1.2 Criação e Estruturação da CHESF (1945)
 - Decreto-Lei de fundação

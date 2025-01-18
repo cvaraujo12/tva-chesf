@@ -1,0 +1,46 @@
+{
+  "documento": "59390-Texto do artigo ou resenha-240549-1-10-20240528",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "joão goulart (per)",
+    "gleba (loc)",
+    "presidente da república (misc)",
+    "goulart (per)",
+    "são paulo (loc)",
+    "debate  \ngerminal (misc)",
+    "salvador (loc)",
+    "nordeste (loc)",
+    "rio de janeiro (loc)",
+    "a lavoura (misc)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 649,
+    "num_tokens": 16899,
+    "key_entities": {
+      "Brasil (LOC)": 30,
+      "Rio de Janeiro (LOC)": 25,
+      "Salvador (LOC)": 24,
+      "Gleba (LOC)": 19,
+      "Estado (LOC)": 17,
+      "Ministério da Agricultura (ORG)": 14,
+      "São Paulo (LOC)": 13,
+      "Debate  \nGerminal (MISC)": 11,
+      "Ipes (LOC)": 10,
+      "Deus (PER)": 9,
+      "O Globo (ORG)": 9,
+      "presidente da República (MISC)": 7,
+      "João Goulart (PER)": 7,
+      "Goulart (PER)": 7,
+      "Confederação (MISC)": 7,
+      "A Lavoura (MISC)": 7,
+      "Debate  \nGerminal (LOC)": 6,
+      "Constituição (ORG)": 6,
+      "Nordeste (LOC)": 6,
+      "DREIFUSS (ORG)": 6
+    },
+    "main_concepts": []
+  }
+}

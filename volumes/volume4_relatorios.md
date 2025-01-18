@@ -113,7 +113,55 @@ Este quarto volume da coleção analisa a influência do capitalismo e do Estado
 
 ## Capítulo 1: Diagnósticos Preliminares (1941-1942)
 
-Este capítulo analisa os primeiros relatórios técnicos que avaliaram o potencial do Vale do São Francisco, contextualizando-os no período da Segunda Guerra Mundial e nas relações Brasil-Estados Unidos.
+Este capítulo analisa os primeiros relatórios técnicos que avaliaram o potencial do Vale do São Francisco, contextualizando-os no período da Segunda Guerra Mundial e nas relações Brasil-Estados Unidos. A análise documental revela três dimensões fundamentais que estruturaram estes diagnósticos:
+
+### 1.1 Dimensão Técnico-Científica
+
+#### 1.1.1 Metodologias de Avaliação
+- Levantamentos hidrológicos sistemáticos
+- Estudos geológicos e topográficos detalhados
+- Análises de viabilidade técnico-econômica
+- Projeções de demanda energética
+- Avaliações ambientais preliminares
+
+#### 1.1.2 Parâmetros Técnicos Estabelecidos
+- Capacidade instalada potencial
+- Sistemas de transmissão necessários
+- Infraestrutura de suporte requerida
+- Especificações de equipamentos
+- Normas técnicas aplicáveis
+
+### 1.2 Dimensão Político-Institucional
+
+#### 1.2.1 Articulações Governamentais
+- Acordos de cooperação bilateral
+- Protocolos técnicos estabelecidos
+- Estruturas de coordenação criadas
+- Mecanismos de financiamento definidos
+- Marcos regulatórios propostos
+
+#### 1.2.2 Redes de Poder Constituídas
+- Grupos técnicos formados
+- Alianças estratégicas estabelecidas
+- Centros decisórios identificados
+- Canais de comunicação instituídos
+- Hierarquias operacionais definidas
+
+### 1.3 Dimensão Territorial
+
+#### 1.3.1 Concepções Espaciais
+- Zoneamento estratégico proposto
+- Áreas prioritárias definidas
+- Corredores logísticos planejados
+- Polos de desenvolvimento identificados
+- Regiões de influência delimitadas
+
+#### 1.3.2 Impactos Previstos
+- Transformações socioespaciais projetadas
+- Deslocamentos populacionais estimados
+- Alterações ambientais previstas
+- Mudanças econômicas esperadas
+- Reconfigurações territoriais antecipadas
 
 ### 1.1 Relatório Taub (1941)
 

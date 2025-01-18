@@ -1,0 +1,46 @@
+{
+  "documento": "61468-Texto do artigo ou resenha-240516-1-10-20240527",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "joão goulart (per)",
+    "marx (per)",
+    "exército (org)",
+    "goulart (per)",
+    "germinal (loc)",
+    "salvador (loc)",
+    "lula (per)",
+    "caio navarro de toledo (per)",
+    "trata (misc)",
+    "forças armadas (org)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 410,
+    "num_tokens": 12352,
+    "key_entities": {
+      "Marx (PER)": 32,
+      "Salvador (LOC)": 19,
+      "Brasil (LOC)": 18,
+      "Entrevista  \nGerminal (LOC)": 12,
+      "Forças Armadas (ORG)": 11,
+      "Germinal (LOC)": 7,
+      "UCEB (LOC)": 7,
+      "João Goulart (PER)": 4,
+      "Lula da Silva (PER)": 4,
+      "Estado (LOC)": 4,
+      "Goulart (PER)": 3,
+      "Trata (MISC)": 3,
+      "Exército (ORG)": 3,
+      "Dilma Rousseff (PER)": 3,
+      "Lula (PER)": 3,
+      "Comissão (ORG)": 3,
+      "ENTREVISTA (MISC)": 2,
+      "Caio Navarro de Toledo (PER)": 2,
+      "Caio Toledo (PER)": 2,
+      "FFCL (MISC)": 2
+    },
+    "main_concepts": []
+  }
+}

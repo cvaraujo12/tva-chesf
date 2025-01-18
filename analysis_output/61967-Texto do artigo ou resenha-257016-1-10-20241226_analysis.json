@@ -1,0 +1,27 @@
+{
+  "num_sentences": 534,
+  "num_tokens": 11561,
+  "key_entities": {
+    "Fisher (PER)": 63,
+    "Salvador (LOC)": 18,
+    "Artigos  \nGerminal (MISC)": 17,
+    "ISSN (ORG)": 17,
+    "Galvão (LOC)": 17,
+    "Mark Fisher (PER)": 13,
+    "Freitas (LOC)": 13,
+    "São Paulo (LOC)": 13,
+    "Harvey (ORG)": 12,
+    "Saviani (LOC)": 10,
+    "Cesarino (LOC)": 10,
+    "FISHER (MISC)": 10,
+    "Estado (LOC)": 8,
+    "Marques (LOC)": 7,
+    "Gonsalves (LOC)": 7,
+    "Pedagogia Histórico (LOC)": 6,
+    "Brasil (LOC)": 5,
+    "Galvão (MISC)": 5,
+    "Piolli (PER)": 5,
+    "Saviani (MISC)": 5
+  },
+  "main_concepts": []
+}

@@ -1,0 +1,44 @@
+{
+  "documento": "56028-Texto do artigo ou resenha-256999-1-10-20241225",
+  "temas_em_comum": [],
+  "temas_unicos": [
+    "marx (misc)",
+    "issn (org)",
+    "são paulo (loc)",
+    "salvador (loc)",
+    "pinto (misc)",
+    "chatgpt (misc)",
+    "rio de janeiro (loc)",
+    "dossiê (loc)",
+    "lei de moore (misc)",
+    "sérgio amadeu (per)"
+  ],
+  "score_relevancia": 0.0,
+  "analise_original": {
+    "num_sentences": 569,
+    "num_tokens": 13882,
+    "key_entities": {
+      "PINTO (MISC)": 23,
+      "Salvador (LOC)": 22,
+      "ISSN (ORG)": 19,
+      "ChatGPT (MISC)": 19,
+      "Dossiê (LOC)": 12,
+      "OpenAI (ORG)": 7,
+      "Álvaro Vieira Pinto (PER)": 6,
+      "Vieira Pinto (PER)": 6,
+      "São Paulo (LOC)": 6,
+      "Rio de Janeiro (LOC)": 5,
+      "BROWN (MISC)": 4,
+      "museu do Louvre (LOC)": 4,
+      "Joyce (PER)": 4,
+      "SILVEIRA (PER)": 4,
+      "Sérgio Amadeu (PER)": 4,
+      "MARX (MISC)": 3,
+      "GRAMSCI (MISC)": 3,
+      "Big Techs (LOC)": 3,
+      "Lei de Moore (MISC)": 3,
+      "Shalf (PER)": 3
+    },
+    "main_concepts": []
+  }
+}

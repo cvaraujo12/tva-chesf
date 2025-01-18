@@ -1,0 +1,46 @@
+{
+  "documento": "64037-Texto do artigo ou resenha-257009-1-10-20241225",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "issn (org)",
+    "revolução verde (misc)",
+    "são paulo (loc)",
+    "salvador (loc)",
+    "henrique (per)",
+    "dossiê (loc)",
+    "ibge (loc)",
+    "união europeia (org)",
+    "afubra (loc)",
+    "terra (loc)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 622,
+    "num_tokens": 14176,
+    "key_entities": {
+      "Brasil (LOC)": 49,
+      "Salvador (LOC)": 23,
+      "p.310- (MISC)": 22,
+      "ISSN (ORG)": 22,
+      "Dossiê (LOC)": 16,
+      "São Paulo (LOC)": 15,
+      "ROSA (MISC)": 10,
+      "OLIVEIRA (ORG)": 10,
+      "União Europeia (ORG)": 7,
+      "Henrique (PER)": 6,
+      "IBGE (LOC)": 6,
+      "terra (LOC)": 5,
+      "Estado (LOC)": 5,
+      "Oliveira (LOC)": 5,
+      "DESER (MISC)": 5,
+      "DESER (LOC)": 5,
+      "Popular (MISC)": 5,
+      "Revolução Verde (MISC)": 4,
+      "BOMBARDI (ORG)": 4,
+      "Afubra (LOC)": 4
+    },
+    "main_concepts": []
+  }
+}

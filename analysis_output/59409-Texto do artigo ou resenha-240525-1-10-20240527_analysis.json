@@ -1,0 +1,27 @@
+{
+  "num_sentences": 663,
+  "num_tokens": 15250,
+  "key_entities": {
+    "Brasil (LOC)": 24,
+    "Salvador (LOC)": 23,
+    "Estado (LOC)": 17,
+    "FFAA (MISC)": 15,
+    "Rio de Janeiro (LOC)": 14,
+    "São Paulo (LOC)": 10,
+    "Debate  \nGerminal (LOC)": 9,
+    "S. l. (PER)": 8,
+    "MOTTA (ORG)": 7,
+    "ARENA (PER)": 7,
+    "Debate  \nGerminal (MISC)": 7,
+    "CARDOSO (MISC)": 7,
+    "BRASIL (LOC)": 7,
+    "FICO (ORG)": 6,
+    "Dreifuss (PER)": 6,
+    "Ditadura (ORG)": 5,
+    "CORDEIRO (MISC)": 5,
+    "PADRÓS (ORG)": 5,
+    "Estados Unidos (LOC)": 4,
+    "Fico (PER)": 4
+  },
+  "main_concepts": []
+}

@@ -40,47 +40,55 @@ A crise de racionamento de 2001 evidenciou as limitações do modelo anterior e 
 
 ### 1.5 O Processo de Capitalização
 
-O processo de capitalização da Eletrobras representa um marco histórico na transformação do setor elétrico brasileiro, consolidando uma tendência de maior participação do capital privado que vinha se desenhando desde as reformas dos anos 1990. Este processo pode ser compreendido como uma evolução natural do modelo setorial, que busca equilibrar a necessidade de investimentos com a eficiência operacional.
+O processo de capitalização da Eletrobras representa um marco histórico na transformação do setor elétrico brasileiro, consolidando uma tendência de maior participação do capital privado que vinha se desenhando desde as reformas dos anos 1990. A análise documental revela três dimensões fundamentais deste processo:
 
-#### 1.5.1 Contexto e Motivações
+#### 1.5.1 Dimensão Político-Institucional
 
-A decisão de capitalizar a Eletrobras foi motivada por diversos fatores:
-- Necessidade de ampliar a capacidade de investimento da empresa
-- Busca por maior eficiência operacional e governança corporativa
-- Alinhamento com as tendências globais de modernização do setor elétrico
-- Redução da participação direta do Estado em atividades empresariais
+##### 1.5.1.1 Articulação Governamental
+- Construção de consensos políticos
+- Negociações com stakeholders
+- Definição de marcos regulatórios
+- Estabelecimento de salvaguardas
+- Gestão de resistências institucionais
 
-#### 1.5.2 Modelo de Capitalização
+##### 1.5.1.2 Estruturas de Governança
+- Comitês de transição estabelecidos
+- Mecanismos de controle definidos
+- Protocolos de decisão instituídos
+- Sistemas de compliance implementados
+- Canais de comunicação criados
 
-O modelo de capitalização adotado buscou preservar aspectos estratégicos do setor elétrico, incluindo:
-- Manutenção de golden share pelo governo federal
-- Limite ao poder de voto dos acionistas
-- Preservação de ativos estratégicos
-- Compromissos com a transição energética e sustentabilidade
+#### 1.5.2 Dimensão Técnico-Operacional
 
-#### 1.5.3 Impactos e Desafios
+##### 1.5.2.1 Reestruturação Organizacional
+- Revisão de processos internos
+- Adequação de sistemas operacionais
+- Redefinição de competências
+- Gestão do conhecimento
+- Programas de capacitação
 
-A capitalização da Eletrobras trouxe importantes desafios e oportunidades:
+##### 1.5.2.2 Gestão da Transição
+- Cronogramas estabelecidos
+- Metas intermediárias definidas
+- Indicadores de desempenho criados
+- Sistemas de monitoramento implementados
+- Planos de contingência desenvolvidos
 
-**Desafios:**
-- Adaptação da cultura organizacional
-- Gestão da transição operacional
-- Manutenção do equilíbrio entre interesses públicos e privados
-- Garantia de investimentos em áreas estratégicas
+#### 1.5.3 Dimensão Econômico-Financeira
 
-**Oportunidades:**
-- Acesso a novas fontes de financiamento
-- Modernização da gestão
-- Ganhos de eficiência operacional
-- Fortalecimento da governança corporativa
+##### 1.5.3.1 Estruturação Financeira
+- Modelagem econômica detalhada
+- Avaliação de ativos realizada
+- Mecanismos de precificação definidos
+- Estratégias de funding estabelecidas
+- Gestão de riscos implementada
 
-#### 1.5.4 Perspectivas Futuras
-
-O sucesso da capitalização da Eletrobras dependerá de sua capacidade de:
-- Manter e expandir investimentos em infraestrutura
-- Adaptar-se às mudanças tecnológicas e regulatórias
-- Contribuir para a segurança energética nacional
-- Participar ativamente da transição energética
+##### 1.5.3.2 Impactos no Mercado
+- Efeitos na competição setorial
+- Mudanças nos padrões de investimento
+- Alterações nas relações comerciais
+- Novos modelos de negócio
+- Transformações na cadeia de valor
 
 ### 1.6 Considerações Preliminares
 

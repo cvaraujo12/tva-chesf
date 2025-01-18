@@ -1,0 +1,46 @@
+{
+  "documento": "60815-Texto do artigo ou resenha-240519-1-10-20240527",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "joão goulart (per)",
+    "bolsonaro (loc)",
+    "ditadura (org)",
+    "daniel aarão reis (per)",
+    "issn (org)",
+    "são paulo (loc)",
+    "germinal (loc)",
+    "salvador (loc)",
+    "argentina (loc)",
+    "rio de janeiro (loc)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 501,
+    "num_tokens": 14128,
+    "key_entities": {
+      "Brasil (LOC)": 49,
+      "Ditadura (ORG)": 24,
+      "Salvador (LOC)": 23,
+      "ISSN (ORG)": 22,
+      "São Paulo (LOC)": 22,
+      "Rio de Janeiro (LOC)": 17,
+      "Debate (LOC)": 16,
+      "Germinal (LOC)": 10,
+      "Toffoli (LOC)": 7,
+      "Daniel Aarão Reis (PER)": 7,
+      "Daniel Aarão (PER)": 7,
+      "Ditadura Militar (ORG)": 6,
+      "Dias Toffoli (PER)": 6,
+      "Argentina (LOC)": 6,
+      "Bolsonaro (LOC)": 6,
+      "Brasiliense (LOC)": 6,
+      "SENA JÚNIOR (PER)": 5,
+      "Constituição (ORG)": 4,
+      "João Goulart (PER)": 4,
+      "Estado (LOC)": 4
+    },
+    "main_concepts": []
+  }
+}

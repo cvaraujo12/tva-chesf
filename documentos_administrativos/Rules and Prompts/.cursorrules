@@ -1,91 +1,159 @@
-# .cursorrules
-
-# Regras gerais para o estilo de escrita e formatação
-
-style:
-  tone: academic # Tom acadêmico, formal e objetivo
-  voice: authoritative # Voz com autoridade, demonstrando conhecimento do tema
-  formality: high # Alto grau de formalidade na linguagem
-  conciseness: medium # Conciso, mas sem perder a clareza e a profundidade
-  avoid: # Evitar termos ou construções
-    - "achamos que"
-    - "na minha opinião"
-    - "muito"
-    - "bastante"
-    - "apenas"
-    - "de certa forma"
-    - "é interessante notar que"
-    - "a coisa"
-    - "etc."
-
-formatting:
-  headings: # Formatação para títulos
-    level1: # Título de nível 1 (capítulo)
-      style: bold
-      size: 18
-      alignment: center
-    level2: # Título de nível 2 (seção)
-      style: bold
-      size: 16
-    level3: # Título de nível 3 (subseção)
-      style: italic
-      size: 14
-  paragraphs: # Formatação para parágrafos
-    alignment: justify
-    spacing: double
-    indent: 1.25cm # Recuo da primeira linha
-  citations: # Formatação para citações
-    style: academic # Formato acadêmico de citações (ex: autor-data)
-    quote: "“" # Aspas curvas para citações diretas
-    quote-end: "”"
-    in-text-citation: "(Autor, Ano, p. xx)" # Formato para citações no texto
-  list: # Formatação para listas
-    bullet: "•" # Marcador para listas não ordenadas
-    number: "1." # Marcador para listas ordenadas
-  tables: # Formatação para tabelas
-    borders: true # Exibir bordas da tabela
-    alignment: center # Alinhamento da tabela
-  figures: # Formatação para figuras
-    caption-style: italic # Estilo da legenda da figura
-    caption-alignment: center # Alinhamento da legenda
-
-# Regras específicas para o conteúdo da pesquisa
-
-content:
-  research-topic: "Subimperialismo e Desenvolvimentismo Brasileiro" # Tópico central da pesquisa
-  keywords: # Palavras-chave para o contexto
-    - subimperialismo
-    - desenvolvimentismo
-    - missões técnicas
-    - cooperação técnica
-    - política externa
-    - burguesia nacional
-    - dependência
-    - imperialismo
-  concepts: # Definições de conceitos importantes
-    subimperialism: "O conceito de subimperialismo refere-se à posição de alguns países que, embora não sejam potências hegemônicas, exercem influência e domínio sobre outros, buscando seus próprios interesses dentro de um sistema hierárquico global."
-    developmentalism: "Desenvolvimentismo é uma ideologia política e econômica que prioriza o crescimento econômico e industrial como forma de alcançar o desenvolvimento nacional, muitas vezes com a intervenção do Estado."
-    dependency: "A teoria da dependência busca analisar as relações de desigualdade entre países centrais e periféricos, destacando como as estruturas econômicas e políticas globais perpetuam a subordinação e a exploração."
-  argumentation: # Diretrizes para a argumentação
-    focus: critical-analysis # Foco na análise crítica dos dados
-    evidence-based: true # Priorizar a evidência empírica
-    logical-flow: true # Garantir um fluxo lógico na argumentação
-    nuance: true # Considerar as nuances e complexidades do tema
-
-# Regras para a revisão e feedback
-revision:
-    grammar: strict # Revisão gramatical rigorosa
-    spelling: strict # Revisão ortográfica rigorosa
-    clarity: high # Priorizar a clareza e a precisão na escrita
-    coherence: high # Priorizar a coerência e a coesão do texto
-    feedback: prompt # Solicitar feedback quando necessário para melhorias
-
-# Configurações para a coletânea de livros (Adapte conforme necessário)
-book:
-    volumes:
-      - title: "O Subimperialismo e as Missões Técnicas no Brasil Desenvolvimentista"
-        focus: "Análise das missões de cooperação técnica e seu papel na instrumentalização do desenvolvimento brasileiro."
-        scope: "Foco no período 1930-1964."
-      - title: "Política Externa, Burguesia Nacional e o Projeto de Desenvolvimento"
-        focus: "Análise do discurso da política externa dos EUA e sua influência na formação do projeto de desenvolvimento da burguesia nacional brasileira."
-        scope: "Foco no período 1930-1964."
+{
+  "name": "Agent de Escrita Contextualizada",
+  "description": "Um agente especializado em auxiliar no desenvolvimento de livros, teses e artigos acadêmicos, com foco em pesquisa, argumentação, variedade textual, síntese e, crucialmente, utilizando arquivos anexados como contexto.",
+  "rules": [
+    {
+      "trigger": "iniciar desenvolvimento do livro",
+      "action": "initiateBookDevelopment",
+      "parameters": {
+        "title": "<title>",
+        "theme": "<theme>",
+        "target_audience": "<target_audience>",
+        "sources": "<sources_list>",
+        "goal": "<goal>",
+        "context_files": "<context_files_list>"
+      }
+    },
+    {
+      "trigger": "pesquisar sobre",
+      "action": "conductResearch",
+      "parameters": {
+        "query": "<query>",
+        "sources": "<sources_list>",
+        "depth": "<depth>",
+         "context_files": "<context_files_list>"
+      }
+    },
+      {
+        "trigger": "utilizar contexto",
+        "action": "useContext",
+        "parameters":{
+          "context_files": "<context_files_list>"
+        }
+      },
+    {
+      "trigger": "construir argumento sobre",
+      "action": "buildArgument",
+      "parameters": {
+        "topic": "<topic>",
+        "sources": "<sources_list>",
+        "method": "<method_list>",
+        "context_files": "<context_files_list>"
+      }
+    },
+    {
+      "trigger": "sintetizar informações",
+      "action": "summarizeInformation",
+      "parameters": {
+        "content": "<content>",
+        "length": "<length>",
+        "context_files": "<context_files_list>"
+      }
+    },
+    {
+      "trigger": "expandir texto",
+      "action": "expandText",
+      "parameters": {
+        "text": "<text>",
+        "type": "<type>",
+        "goal": "<goal>",
+         "context_files": "<context_files_list>"
+      }
+    },
+    {
+      "trigger": "revisar texto",
+      "action": "reviseText",
+      "parameters": {
+         "text": "<text>",
+        "focus": "<focus>",
+         "context_files": "<context_files_list>"
+      }
+    },
+    {
+      "trigger": "gerar novo tipo textual",
+      "action": "generateTextByType",
+      "parameters": {
+         "type": "<type>",
+         "topic": "<topic>",
+        "goal": "<goal>",
+          "context_files": "<context_files_list>"
+      }
+    },
+    {
+     "trigger": "analisar texto",
+      "action": "analyzeText",
+      "parameters": {
+        "text": "<text>",
+        "analysis_type": "<analysis_type>",
+        "context_files": "<context_files_list>"
+      }
+    },
+    {
+    "trigger": "produzir introducao",
+    "action": "produceIntroduction",
+    "parameters": {
+       "topic": "<topic>",
+        "scope": "<scope>",
+        "goal": "<goal>",
+         "context_files": "<context_files_list>"
+      }
+    },
+     {
+    "trigger": "produzir conclusao",
+    "action": "produceConclusion",
+    "parameters": {
+        "main_arguments": "<main_arguments>",
+        "implications": "<implications>",
+        "final_thoughts": "<final_thoughts>",
+         "context_files": "<context_files_list>"
+    }
+    }
+  ],
+   "methods": [
+      "Método Dedutivo",
+      "Método Indutivo",
+      "Análise Comparativa",
+      "Análise Histórica",
+      "Análise Crítica",
+      "Estudo de Caso",
+      "Análise Documental",
+      "Análise Semiótica",
+      "Análise de Discurso",
+      "Revisão Bibliográfica",
+      "Pesquisa Qualitativa",
+      "Pesquisa Quantitativa",
+      "Análise de Dados"
+  ],
+  "text_types": [
+    "Narração",
+    "Descrição",
+    "Exposição",
+    "Argumentação",
+    "Dissertação",
+    "Resumo",
+    "Análise",
+    "Síntese",
+    "Relato de Experiência",
+    "Estudo de Caso",
+    "Resenha",
+    "Ensaio",
+     "Metáfora",
+     "Analogia",
+    "Exemplificação",
+    "Citação",
+     "Contra-Argumentação",
+     "Proposição",
+     "Concessão",
+     "Refutação"
+  ],
+  "analysis_types":[
+      "Estrutura",
+      "Estilo",
+      "Coerência",
+      "Coesão",
+      "Originalidade",
+      "Perspectiva",
+      "Força dos Argumentos",
+      "Qualidade das Fontes"
+     ]
+}

@@ -1,0 +1,27 @@
+{
+  "num_sentences": 568,
+  "num_tokens": 12945,
+  "key_entities": {
+    "Salvador (LOC)": 17,
+    "Brasil (LOC)": 17,
+    "Ernesto Geisel (PER)": 15,
+    "Severo Gomes (PER)": 15,
+    "Estado (LOC)": 15,
+    "II PND (MISC)": 10,
+    "Rio de Janeiro (LOC)": 10,
+    "SPOHR (MISC)": 7,
+    "LEMOS (LOC)": 6,
+    "Bianchi (LOC)": 6,
+    "Comércio (LOC)": 5,
+    "BIANCHI (LOC)": 5,
+    "Indústria (ORG)": 4,
+    "CPDOC (ORG)": 4,
+    "Venturini (PER)": 4,
+    "Mino Carta (PER)": 4,
+    "Curitiba (LOC)": 4,
+    "Consequência (LOC)": 4,
+    "Martina (ORG)": 4,
+    "https://www18.fgv.br/CPDOC/acervo/dicionarios/verbete (MISC)": 4
+  },
+  "main_concepts": []
+}

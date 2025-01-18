@@ -1,0 +1,27 @@
+{
+  "num_sentences": 406,
+  "num_tokens": 16233,
+  "key_entities": {
+    "Salvador (LOC)": 24,
+    "v.16 (LOC)": 24,
+    "ISSN (ORG)": 24,
+    "Laurell (PER)": 19,
+    "Dossiê (LOC)": 17,
+    "LAURELL (MISC)": 14,
+    "Stotz (PER)": 14,
+    "Pina (PER)": 14,
+    "FERRAZ (ORG)": 14,
+    "Marx (PER)": 11,
+    "México (LOC)": 8,
+    "MARX (PER)": 7,
+    "São Paulo (LOC)": 6,
+    "Laurell (MISC)": 5,
+    "BECHARA (MISC)": 5,
+    "Movimento Operário Italiano (ORG)": 4,
+    "Comunidade Científica Ampliada (ORG)": 4,
+    "Cotrim (LOC)": 4,
+    "MARX (MISC)": 4,
+    "DD3P (LOC)": 4
+  },
+  "main_concepts": []
+}

@@ -1,0 +1,47 @@
+{
+  "documento": "58976-Texto do artigo ou resenha-240567-1-10-20240528",
+  "temas_em_comum": [
+    "segurança",
+    "estado"
+  ],
+  "temas_unicos": [
+    "justiça (loc)",
+    "justiça militar (loc)",
+    "judiciário (misc)",
+    "debate  \ngerminal (misc)",
+    "salvador (loc)",
+    "ato institucional (misc)",
+    "rio de janeiro (loc)",
+    "forças armadas (org)",
+    "lei de segurança nacional (misc)",
+    "superior tribunal militar (loc)"
+  ],
+  "score_relevancia": 0.03773584905660377,
+  "analise_original": {
+    "num_sentences": 577,
+    "num_tokens": 14846,
+    "key_entities": {
+      "Constituição (ORG)": 36,
+      "Bevilaqua (PER)": 29,
+      "Estado (LOC)": 29,
+      "Justiça Militar (LOC)": 29,
+      "Salvador (LOC)": 21,
+      "Ato Institucional nº 2 (MISC)": 16,
+      "Brasil (LOC)": 11,
+      "Lei de Segurança Nacional (MISC)": 10,
+      "PESSOA (ORG)": 9,
+      "Debate  \nGerminal (LOC)": 8,
+      "Atos Institucionais (MISC)": 8,
+      "Ato Institucional (MISC)": 8,
+      "Pessoa (PER)": 8,
+      "Rio de Janeiro (LOC)": 8,
+      "Superior Tribunal Militar (LOC)": 7,
+      "Forças Armadas (ORG)": 7,
+      "Justiça Federal (LOC)": 7,
+      "Judiciário (MISC)": 6,
+      "Justiça (LOC)": 5,
+      "Debate  \nGerminal (MISC)": 5
+    },
+    "main_concepts": []
+  }
+}

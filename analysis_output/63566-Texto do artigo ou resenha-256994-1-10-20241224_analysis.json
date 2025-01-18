@@ -1,0 +1,27 @@
+{
+  "num_sentences": 483,
+  "num_tokens": 15981,
+  "key_entities": {
+    "Marx (PER)": 60,
+    "Salvador (LOC)": 23,
+    "p.29- 51 (ORG)": 23,
+    "ISSN (ORG)": 23,
+    "São Paulo (LOC)": 15,
+    "Adorno (PER)": 14,
+    "Dossiê (LOC)": 12,
+    "Horkheimer (PER)": 9,
+    "Benjamin (PER)": 9,
+    "Anders (MISC)": 9,
+    "Capital (LOC)": 8,
+    "MARX (PER)": 8,
+    "Brasiliense (LOC)": 7,
+    "Anders (LOC)": 6,
+    "Safatle (ORG)": 6,
+    "Canettieri (LOC)": 6,
+    "Bernardo (PER)": 5,
+    "Marcuse (PER)": 5,
+    "Günther Anders (PER)": 4,
+    "Fausto (PER)": 4
+  },
+  "main_concepts": []
+}

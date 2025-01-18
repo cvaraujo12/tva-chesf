@@ -1,0 +1,27 @@
+{
+  "num_sentences": 489,
+  "num_tokens": 13654,
+  "key_entities": {
+    "Brasil (LOC)": 41,
+    "Estado (LOC)": 31,
+    "Salvador (LOC)": 21,
+    "Editorial  \nGerminal (MISC)": 17,
+    "Dreifuss (PER)": 13,
+    "Rio de Janeiro (LOC)": 12,
+    "João Goulart (PER)": 6,
+    "Ditadura (ORG)": 6,
+    "Rollemberg (LOC)": 5,
+    "Gramsci (PER)": 5,
+    "Bolsonaro (LOC)": 5,
+    "São Paulo (LOC)": 5,
+    "Quadrat (LOC)": 4,
+    "Rollemberg (PER)": 4,
+    "Cordeiro (LOC)": 4,
+    "IPES (LOC)": 4,
+    "IBAD (ORG)": 4,
+    "Marx (PER)": 4,
+    "História (LOC)": 4,
+    "Consequência (LOC)": 4
+  },
+  "main_concepts": []
+}

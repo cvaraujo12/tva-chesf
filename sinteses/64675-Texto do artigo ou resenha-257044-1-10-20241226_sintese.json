@@ -1,0 +1,47 @@
+{
+  "documento": "64675-Texto do artigo ou resenha-257044-1-10-20241226",
+  "temas_em_comum": [
+    "estado",
+    "bndes"
+  ],
+  "temas_unicos": [
+    "marx (per)",
+    "são paulo (loc)",
+    "bndes (misc)",
+    "chesnais (org)",
+    "salvador (loc)",
+    "chesnais (loc)",
+    "bndespar (org)",
+    "rio de janeiro (loc)",
+    "dossiê (loc)",
+    "estados (loc)"
+  ],
+  "score_relevancia": 0.03773584905660377,
+  "analise_original": {
+    "num_sentences": 536,
+    "num_tokens": 14685,
+    "key_entities": {
+      "Brasil (LOC)": 29,
+      "Estado (LOC)": 26,
+      "Salvador (LOC)": 23,
+      "Marx (PER)": 18,
+      "São Paulo (LOC)": 18,
+      "Dossiê (LOC)": 15,
+      "François (PER)": 7,
+      "Chesnais (LOC)": 6,
+      "D – D (MISC)": 6,
+      "Lenin (PER)": 6,
+      "BNDES (MISC)": 6,
+      "Nova Cultural (LOC)": 6,
+      "BNDESPar (ORG)": 5,
+      "CHESNAIS (ORG)": 5,
+      "MARX (PER)": 5,
+      "Karl (PER)": 5,
+      "Estados (LOC)": 4,
+      "Marini (PER)": 4,
+      "Rio de Janeiro (LOC)": 4,
+      "Ruy Mauro (PER)": 4
+    },
+    "main_concepts": []
+  }
+}

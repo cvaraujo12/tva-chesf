@@ -1,0 +1,27 @@
+{
+  "num_sentences": 649,
+  "num_tokens": 16899,
+  "key_entities": {
+    "Brasil (LOC)": 30,
+    "Rio de Janeiro (LOC)": 25,
+    "Salvador (LOC)": 24,
+    "Gleba (LOC)": 19,
+    "Estado (LOC)": 17,
+    "Ministério da Agricultura (ORG)": 14,
+    "São Paulo (LOC)": 13,
+    "Debate  \nGerminal (MISC)": 11,
+    "Ipes (LOC)": 10,
+    "Deus (PER)": 9,
+    "O Globo (ORG)": 9,
+    "presidente da República (MISC)": 7,
+    "João Goulart (PER)": 7,
+    "Goulart (PER)": 7,
+    "Confederação (MISC)": 7,
+    "A Lavoura (MISC)": 7,
+    "Debate  \nGerminal (LOC)": 6,
+    "Constituição (ORG)": 6,
+    "Nordeste (LOC)": 6,
+    "DREIFUSS (ORG)": 6
+  },
+  "main_concepts": []
+}

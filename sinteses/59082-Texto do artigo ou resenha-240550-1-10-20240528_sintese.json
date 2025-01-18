@@ -1,0 +1,46 @@
+{
+  "documento": "59082-Texto do artigo ou resenha-240550-1-10-20240528",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "joão goulart (per)",
+    "diário de pernambuco (misc)",
+    "camde (misc)",
+    "são paulo (loc)",
+    "debate  \ngerminal (misc)",
+    "salvador (loc)",
+    "marcha da família (misc)",
+    "marcha (org)",
+    "rio de janeiro (loc)",
+    "rosário em família (misc)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 695,
+    "num_tokens": 15987,
+    "key_entities": {
+      "Rio de Janeiro (LOC)": 30,
+      "Brasil (LOC)": 26,
+      "São Paulo (LOC)": 26,
+      "Salvador (LOC)": 25,
+      "João Goulart (PER)": 17,
+      "Deus (PER)": 16,
+      "CAMDE (MISC)": 16,
+      "IPES (LOC)": 15,
+      "Diário de Pernambuco (MISC)": 13,
+      "Debate  \nGerminal (MISC)": 12,
+      "Marcha da Família (MISC)": 11,
+      "padre Peyton (PER)": 11,
+      "Igreja (ORG)": 9,
+      "p.14 (LOC)": 8,
+      "Belo Horizonte (LOC)": 8,
+      "Estado (LOC)": 8,
+      "MARCHA (ORG)": 8,
+      "Rosário em Família (MISC)": 7,
+      "IBAD (ORG)": 7,
+      "Igreja Católica (ORG)": 7
+    },
+    "main_concepts": []
+  }
+}

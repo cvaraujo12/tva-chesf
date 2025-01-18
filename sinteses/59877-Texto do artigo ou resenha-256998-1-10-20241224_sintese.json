@@ -1,0 +1,46 @@
+{
+  "documento": "59877-Texto do artigo ou resenha-256998-1-10-20241224",
+  "temas_em_comum": [
+    "estado"
+  ],
+  "temas_unicos": [
+    "osorio (per)",
+    "marx (per)",
+    "bonente (per)",
+    "issn (org)",
+    "shaikh (loc)",
+    "lênin (per)",
+    "são paulo (loc)",
+    "salvador (loc)",
+    "dossiê (loc)",
+    "estados (loc)"
+  ],
+  "score_relevancia": 0.018867924528301886,
+  "analise_original": {
+    "num_sentences": 329,
+    "num_tokens": 10637,
+    "key_entities": {
+      "Estado (LOC)": 35,
+      "Salvador (LOC)": 17,
+      "ISSN (ORG)": 17,
+      "Dossiê (LOC)": 12,
+      "Marx (PER)": 10,
+      "Osorio (PER)": 9,
+      "Estados (LOC)": 6,
+      "Padrão (LOC)": 5,
+      "Marini (PER)": 5,
+      "São Paulo (LOC)": 5,
+      "Lênin (PER)": 4,
+      "Shaikh (LOC)": 3,
+      "Lessa (LOC)": 3,
+      "Vale (LOC)": 3,
+      "Popular (MISC)": 3,
+      "Ruy Mauro (PER)": 3,
+      "OSORIO (MISC)": 3,
+      "Bonente (PER)": 2,
+      "Shaikh (MISC)": 2,
+      "Hussein (PER)": 2
+    },
+    "main_concepts": []
+  }
+}
