@@ -1,0 +1,1024 @@
+M. Colomer | Economia e energia no Brasil
+
+17
+
+ECONOMIA E ENERGIA NO BRASIL
+Marcelo Colomer1
+1
+
+Universidade Federal do Rio de Janeiro
+
+DOI: 10.47168/rbe.v27i2.634
+
+RESUMO
+A energia, assim como o capital e o trabalho, deveria configurar
+entre os principais fatores de produção nos modelos de crescimento
+econômico. Subestimar a importância dos recursos energéticos como
+fonte de aumento da produtividade é ignorar o efeito que os setores de
+energia têm sobre diversas variáveis socioeconômicas. No Brasil, as
+últimas décadas presenciaram importantes mudanças nas indústrias
+de eletricidade, petróleo, gás natural e de energias renováveis. Tais
+mudanças, tiveram impactos não somente na oferta e demanda de
+energia como também influenciaram outras variáveis econômicas
+como a formação bruta de capital, o saldo da balança comercial e a
+arrecadação fiscal do Estado. Nesse contexto, esse artigo se propõe
+a analisar a correlação existente entre as indústrias de energia e a
+economia.
+Palavras-chave: Crescimento econômico, Desenvolvimento social,
+Planejamento Energético, Investimentos.
+ABSTRACT
+Energy, as well as capital and labor, should be considered one of the main
+production factors in the models of economic growth. Underestimate
+the importance of energy resources as a source of productivity is to
+ignore the effect that the energy sectors have on socioeconomic
+variables. In Brazil, the last few decades have seen major changes in
+the electricity, oil, natural gas and renewable energy industries. Such
+changes impacted not only the supply and demand of energy, but also
+promoted some important modification in some economic variables. In
+this context, this paper proposes an analysis of a correlation between
+the energy industries and the economy.
+Keywords: Economic growth, Social development, Energy Planning,
+Investments.
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+18
+
+1. INTRODUÇÃO
+A falta de um arcabouço teórico capaz de captar todos os
+efeitos multidimensionais da energia sobre o bem-estar econômico,
+social e político dos Estados Nacionais explica, em certa medida, as
+dificuldades da atividade de planejamento energético. O reconhecimento
+da importância das indústrias energéticas, não somente para a tão
+defendida segurança de abastecimento, mas também para estruturação
+de todo um tecido industrial e, consequentemente, para a geração de
+renda e emprego é essencial na avaliação, de forma responsável, do
+efetivo papel do Estado nesses setores. Papel esse que se mostra ainda
+mais relevante quando se analisa o impacto da energia em importantes
+variáveis econômicas como arrecadação fiscal, inflação, balança
+comercial e custos. Ademais, quando se contrapõe a essencialidade
+dos recursos energético, tanto para o sistema produtivo quanto para
+o bem-estar social, com a concentração natural de seus mercados
+fica ainda mais evidente a importância do Estado na conciliação dos
+diferentes interesses existentes nessas indústrias.
+Dessa forma, como exposto por Pinto Junior (2016), devido
+às múltiplas interações existentes entre as diferentes dimensões
+econômicas da energia, as políticas para o setor energético não se
+esgotam nas intervenções setoriais. Para o autor, as soluções dos
+problemas relacionados com o abastecimento de energia de uma
+economia nacional podem ser encontradas na reorganização industrial,
+nas novas relações internacionais ou na gestão e diversificação das
+fontes de energia.
+Dentro do contexto acima, a análise dos impactos das
+mudanças ocorridas nas indústrias de energia nos últimos 20 anos
+sobre algumas importantes variáveis econômicas, como formação
+bruta de capital fixo, balança comercial e pobreza energética nos ajuda
+a entender e avaliar os novos caminhos que estão sendo traçados para
+o setor energético no Brasil. Nesse sentido, esse artigo se propõe,
+primeiramente, a mostrar a importância de se igualar a energia ao
+trabalho e o capital como principais fatores de produção determinantes
+dos ciclos de crescimento econômico. Em um segundo momento, se
+pretende identificar as principais dimensões econômicas da energia
+que devem ser levadas em conta quando se analisa o impacto de
+mudanças na orientação das políticas para os setores energéticos. Por
+fim, serão analisados os efeitos das mudanças recentes na indústria
+de energia sobre algumas importantes variáveis econômicas.
+2. ENERGIA E DESENVOLVIMENTO
+Os modelos neoclássicos de desenvolvimento econômico (SOLOW,
+1956), (MEADE, 1961) assumem que a trajetória de crescimento do
+
+M. Colomer | Economia e energia no Brasil
+
+19
+
+produto depende basicamente de dois fatores de produção: capital e
+trabalho. Essa conclusão decorre da própria definição estilizada de
+produto interno bruto (PIB) que é a soma do total de pagamentos ao
+capital (juros, dividendos e aluguel) com o total dos pagamentos ao
+trabalho (salários e remunerações em geral). Uma vez que o custo
+com energia representa uma pequena fração dos custos totais dos
+fatores de produção, muitos economistas argumentam que esta não
+pode ser vista como uma importante fonte de produtividade e, consequentemente, como um fator determinante do crescimento econômico
+(DENISON, 1979).
+No entanto, é óbvio que nem o capital nem o trabalho podem
+funcionar sem energia. Isso é, a produção de alimentos que nutre a
+força de trabalho depende do uso de energia. As máquinas e os meios
+de transporte que representam o lado produtivo do capital também
+dependem de fontes de energia. A comunicação e a informática, tão
+essenciais para a reprodução do capital financeiro, também dependem
+de energia. Em suma, apesar do reduzido custo energético quando
+comparado ao custo total de produção, não haveria crescimento econômicos sem energia (DENISON, 1979). Assim, não resta dúvida que
+os recursos energéticos, ao lado do trabalho e do capital deveriam ser
+identificados como fatores de produção determinante do ritmo de desenvolvimento econômico das nações.
+Existem duas explicações para o negligente tratamento dado
+aos fatores energéticos pelos economistas neoclássicos. Primeiramente, a importância da energia para o processo de geração de riqueza muitas vezes se esconde em outros fatores de produção, como o
+trabalho. Os fisiocratas franceses do século XVIII, por exemplo, consideravam a agricultura como a base do desenvolvimento econômico
+sendo essa uma função da terra e do trabalho (incluindo o trabalho
+realizado pelos animais). Nesse sentido, a energia do sol e das chuvas
+embutida na produção agrícola não era contabilizada separadamente,
+assim como a energia fóssil contida na lenha e no carvão ficava sempre mascarada no trabalho necessário para sua extração ou na renda
+dos proprietários das minas e dos meios de produção (AYRES; VAN
+DEN BERGH; LINDENBERGER; WARR, 2013).
+A segunda razão para a pouca importância dada pelos modelos econômicos à energia decorre da própria abundância dos recursos energéticos. A ampla disponibilidade de recursos, refletida em
+preços reduzidos (relativo a outros fatores de produção), em conjunto
+com a subnotificação dos usos energéticos explica por que os gastos
+com energia sempre representaram uma pequena parcela dos custos
+produtivos (AYRES; VAN DEN BERGH; LINDENBERGER; WARR,
+2013). Mesmo após a Revolução Industrial, a partir de quando as fontes fósseis (carvão, seguido pelo petróleo e o gás natural) passa-
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+20
+
+ram a ser consideradas como um dos principais fatores de produção,
+a relação energia e crescimento econômico continuou sendo negligenciada nos modelos de desenvolvimento.
+Após a crise econômica que se sucedeu ao choque de preço
+do petróleo na década de 1970, alguns autores Edward & Dale (1974)
+,Allen (1976) e Jorgenson (1978) tentaram estabelecer uma relação
+quantitativa entre os preços da energia e a redução dos níveis de atividade econômica. Em resposta a essa aparente relação, foi introduzida
+a ideia de uma nova função de produção (KLEM1) que pudesse explicar as crises econômicas decorrentes dos choques de preços da energia. No entanto, a reduzida participação dos custos energéticos sobre
+o sistema de contas nacionais (4 a 5% nos países da OCDE naquele
+período) levou ao argumento de que os preços da energia não podiam
+ter um impacto significativo sobre o PIB (DENISON, 1979).
+A crítica feita por Denison (1979), apesar de amplamente aceita, baseia-se em um modelo econômico extremamente simplificado
+(AYRES; VAN DEN BERGH; LINDENBERGER; LINDENBERGER,
+2013). Isto é, uma economia que consiste em muitos pequenos produtores maximizadores de lucro e que produzem um único produto
+servindo tanto como bem de consumo quanto de capital. No entanto,
+quando analisamos o impacto dos custos energéticos em uma economia complexa caracterizada por múltiplos produtos, múltiplos fatores
+de produção e múltiplos setores interconectados, o impacto da escassez de um fator de produção, como a energia, para toda a economia é
+muito maior do que sua participação no custo total (AYRES; VAN DEN
+BERGH; LINDENBERGER; LINDENBERGER, 2013). A observação
+acima não somente ajuda a explicar as crises econômicas que se sucederam às mudanças drásticas na oferta e nos preços das fontes de
+energia como também exige uma análise multidimensional da importância econômica dos fatores de produção energéticos.
+2.1 Dimensões econômicas da energia
+Segundo Pinto Jr. (2016), a importância da energia para o
+crescimento econômico decorre das múltiplas interações entre as diferentes dimensões econômicas que envolvem o setor energético. Segundo o autor, pode-se destacar cinco dimensões principais: macroeconômica, microeconômica, tecnológica, geopolítica e ambiental.
+Em termos macroeconômicos, os setores de energia desempenham inúmeros papéis. O primeiro deles está associado a intensidade
+energética do produto. Desde a Revolução Industrial do século XVIII,
+a relação entre demanda energética e crescimento econômico, ou
+1 Capital (K), Trabalho (L), Energia (E) e Materiais (M) (Hudson & Jorgenson, 1974).
+
+M. Colomer | Economia e energia no Brasil
+
+21
+
+melhor, a renda, tornou-se bastante evidente. Esta interação decorre
+de diversos fatores diretos e indiretos.
+Primeiramente, o aumento da atividade econômica, seja através do crescimento do produto industrial, do produto agrícola ou das
+atividades de serviço, se reflete diretamente em um maior consumo
+energético. O segundo fator é o aumento da renda familiar decorrente
+do processo de crescimento econômico que tende a aumentar o consumo de energia no segmento residencial. Esse seria o efeito indireto
+do processo de desenvolvimento sobre os setores de energia. Níveis
+de salários mais altos levam, geralmente, a gastos mais elevados em
+combustíveis automotivos (carros maiores, maior quilometragem rodada, aumento do número de carros por família), viagens (aumento do
+consumo de combustíveis na aviação e transporte marítimo) e no próprio consumo residencial (aumento do número de aparelhos domésticos).
+A identificação do efeito do aumento da renda sobre a demanda de energia é essencial para o planejamento das políticas públicas.
+A escassez física dos produtos energéticos ou mesmo o aumento dos
+preços decorrente de eventuais desequilíbrios nos mercados de energia, pode trazer inúmeros problemas macroeconômicos como inflação,
+déficit no balanço de pagamento e redução nos níveis de atividade
+econômica.
+Nesse contexto, um indicador muito usado pelas instituições
+de planejamento energético é a relação entre consumo de energia e
+o PIB. No entanto, embora o acompanhamento da evolução desse índice permita ter uma noção da intensividade energética da estrutura
+econômica de um país, ele não permite explicar, adequadamente, as
+grandes diferenças existentes nas estruturas produtivas das diferentes
+nações.
+Para Voigt et al. (2014), mudanças tecnológicas disruptivas
+tendem a reduzir os níveis de intensidade energética dos países. Para
+os autores, mudanças na estrutura industrial decorrentes do progresso
+técnico explicam, em parte, a diminuição da intensidade energética em
+países como Japão, EUA, Austrália, Taiwan e México. Ademais, o desenvolvimento da informática e, posteriormente, da internet, direcionou
+o processo de desenvolvimento econômico para os setores de serviços caracterizados pelo menor nível de intensidade energética1.
+Dentro do contexto acima, a decomposição do indicador de
+intensidade energética mostra-se essencial para se entender a relação
+entre energia e desenvolvimento econômico. Três efeitos podem ser
+identificados no processo de mudança no nível de intensidade energética de um país: efeito estrutura, efeito conteúdo e efeito atividade.
+Martin (1992) e Pinto Jr. et al.(2016) demonstram que a variação do
+1 Quando comparado com o setor industrial.
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+22
+
+consumo final de energia irá depender do crescimento econômico
+(efeito atividade), das mudanças na estrutura produtiva (efeito estrutura) e da evolução do conteúdo energético de cada setor econômico
+(efeito conteúdo).
+Outra importante dimensão macroeconômica está associada
+a importância dos investimentos em energia para a formação bruta
+de capital. Isso porque as indústrias de energia, como a do petróleo e
+gás natural, por exemplo, são altamente intensivas em capital. Mesmo
+em países não-produtores de petróleo, os investimentos nas demais
+infraestruturas energéticas como no parque de refino ou na geração,
+transmissão e distribuição de eletricidade têm impactos significativos
+na formação bruta de capital.
+A terceira dimensão macroeconômica está associada à distribuição desigual dos recursos energéticos (PINTO Jr., 2016). Nesse contexto, o comércio internacional de energia, principalmente de
+petróleo e gás natural, é de suma importância tanto para os países
+exportadores quanto para os importadores. Dessa forma, o equilíbrio
+da balança comercial de muitas nações é muito sensível aos preços internacionais dos energéticos (PINTO Jr., 2016). Esse fato se mostrou
+particularmente importante na década de 1970, quando o choque no
+preço do barril de petróleo levou a elevados desequilíbrios nas contas
+externas de muitos Estados Nacionais.
+O impacto do comércio internacional de energia sobre a balança comercial pode trazer consequências indesejadas tanto para nações importadoras, como mencionado acima, quanto para os países
+exportadores de energia. No caso do segundo grupo, uma redução dos
+preços internacionais pode levar a uma redução dos saldos na balança
+comercial exigindo ajustes no balanço de pagamento. Por sua vez, um
+aumento dos preços pode elevar os saldos positivos no balanço de pagamento criando pressões sobre a valorização cambial. Essa melhoria
+dos termos de troca, por sua vez, reduz a competitividades dos demais
+setores industriais exportadores e não exportadores que no limite pode
+levar a um processo de desindustrialização. Esse efeito é conhecido
+como “doença holandesa”.
+A quarta dimensão macroeconômica da energia está associada a essencialidade dos recursos energéticos. Por fazer parte, em
+maior ou menor grau, da estrutura de custo de todas as atividades
+econômicas, variações bruscas nos preços dos recursos energéticos
+têm efeitos diretos e indiretos sobre a inflação (PINTO Jr., 2016).
+Por fim, a arrecadação tributária dos setores de energia tem
+um elevado peso sobre as finanças públicas, particularmente nos países com elevada produção de petróleo e gás natural. Nesse sentido,
+a queda sustentada dos preços internacionais pode acarretar sérias
+dificuldades fiscais para alguns países, comprometendo inclusive os
+investimentos públicos em obras de infraestrutura e programas sociais.
+
+M. Colomer | Economia e energia no Brasil
+
+23
+
+Em termos microeconômicos, destacam-se o impacto que as
+energias têm sobre a estrutura de custo das empresas e as especificidades do funcionamento dos mercados energéticos. Como vimos
+anteriormente, a energia está na base da estrutura de custo de todas
+as atividades econômicas sendo considerada, muitas vezes, um bem
+essencial. Nesse sentido, embora exista algum grau de substituição
+interenergética, a elasticidade preço da demanda por energia é relativamente baixa. Esse fato traz importantes efeitos distributivos uma vez
+que concede um elevado poder de mercado para os agentes produtores. Ademais, as indústrias de energia tendem a ser bastante concentradas o que torna frequente a adoção de condutas anticompetitivas.
+Por essas razões que, mesmo em mercados liberalizados, o preço final
+dos produtos energéticos costuma apresentar algum tipo de intervenção (administração) estatal.
+Ainda na dimensão microeconômica, é importante destacar
+que as indústrias de energia, principalmente as indústrias de gás natural e de eletricidade, possuem segmentos com características de monopólio natural (transporte e distribuição). Nesse sentido, a atuação do
+governo regulando estas atividades torna-se essencial para conciliar a
+proteção dos consumidores com os incentivos necessários à expansão
+dos investimentos nas redes de transporte e distribuição.
+A terceira dimensão econômica da energia está associada ao
+processo de inovação. Segundo (PINTO Jr., 2016), o aproveitamento
+econômico da energia está vinculado diretamente ao desenvolvimento
+de novas tecnologias de produção e de utilização das diferentes fontes
+energéticas. Segundo o autor, o binômio energia-tecnologia é indissociável.
+O conteúdo tecnológico dos setores energéticos é um aspecto nem sempre adequadamente valorizado. No caso do petróleo, por
+exemplo, a sua classificação como setor extrativo mineral e os diferentes ambientes exploratórios (terra, águas rasas, águas profundas,
+formações não-convencionais) escondem o elevado grau de inovação
+tecnológica associada a esse energético. No caso brasileiro, os desafios oriundos da expansão da fronteira de produção, primeiro para
+águas profundas e depois para o pré-sal, fez com que a Petrobras,
+a partir de seu laboratório de pesquisa (CENPES), se tornasse uma
+das empresas nacionais com maior número de patentes e inovações
+no país. Também nas indústrias elétrica e de biocombustíveis as inovações tecnológicas se apresentam como importantes estratégias de
+expansão das empresas, o que ressalta a relevância das políticas públicas de estímulo a pesquisa e desenvolvimento.
+A quarta dimensão econômica da energia diz respeito as complexas e intrincadas relações comerciais e geopolíticas. Segundo Pinto
+Jr. (2016), não é por acaso que o controle das reservas de petróleo
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+24
+
+e gás natural esteve no centro das relações econômicas, políticas e até
+mesmo militares entre países importadores e exportadores. Mesmo na
+questão nuclear, pontua o autor, a construção de usinas não consegue
+se dissociar das questões políticas e militares.
+Por fim, e talvez a mais importante atualmente, temos a dimensão ambiental. O avanço das mudanças climáticas e a crescente
+preocupação com as questões ambientais têm colocado o conceito de
+transição energética no centro do debate sobre o futuro das indústrias
+de energia. Associado normalmente a transição para uma matriz energética limpa e sustentável, o conceito de transição energética apresenta um espectro mais amplo de mudanças associadas, quase sempre,
+ao nível de desenvolvimento econômico e social das nações.
+Assim, ao lado da eficiência econômica e da segurança de suprimento, os níveis de emissão e o impacto sobre o meio ambiente
+passaram a orientar a trajetória de mudança nas matrizes energéticas
+nacionais. Diferente dos processos anteriores de transição tecnológica, os fatores econômicos não são mais os únicos protagonistas.
+Se antes os reduzidos custos e a disponibilidade das novas fontes de
+energia impulsionavam sua expansão na matriz energética, hoje é a
+contribuição que cada novo energético traz para a redução dos níveis
+de emissão que direciona as mudanças na composição da demanda
+energética.
+As dimensões econômicas acima apresentadas mostram que
+os impactos da energia sobre o processo de crescimento e desenvolvimento econômico são tão relevantes quanto os tradicionais fatores de
+produção (capital e trabalho). Ademais, fica evidente a necessidade de
+uma análise multidimensional dos efeitos econômicos das indústrias
+energéticas. Nesse sentido, as políticas públicas em seus diversos
+níveis e dimensões mostra-se essencial para manter a engrenagem
+energia/economia bem lubrificada. Na próxima seção iremos analisar,
+no caso brasileiro, as mudanças ocorridas nos últimos 20 anos na relação economia e energia. Para isso será analisada a evolução de algumas das dimensões acima descritas durante o período supracitado.
+3. A ENERGIA NO BRASIL NAS DÉCADAS DE 2000 A 2010
+O período recente, que vai de 2000 até os dias de hoje, é marcado por grandes contrastes nos cenários econômico, político e energético brasileiros. Se por um lado a tão desejada autossuficiência na
+produção de Petróleo se transformou em realidade com as descobertas do pré-sal, por outro, a reorientação política do governo, ocorrida
+a partir de 2016, vem ensejando profundas mudanças estruturais e
+patrimoniais nas indústrias de petróleo e eletricidade. Ademais, o acir-
+
+M. Colomer | Economia e energia no Brasil
+
+25
+
+ramento das preocupações ambientais associadas às mudanças climáticas vem incentivando a expansão de fontes de energia renováveis
+o que, no longo prazo, pode trazer grandes mudanças na estrutura das
+indústrias de eletricidade, petróleo e gás natural no Brasil.
+A mudança no status brasileiro de importador para exportador líquido de Petróleo é o reflexo dos investimentos realizados pela
+Petrobras e por seus parceiros privados em pesquisa e desenvolvimento ao longo das últimas décadas. Assim como no setor elétrico,
+os desafios associados à garantia de suprimento fizeram com que a
+Petrobras, da mesma forma que a Eletrobras, se transformasse em
+referência internacional. Entre 2008 e 2012, por exemplo, a Petrobras
+depositou patentes nas áreas química, metalúrgica, de operações de
+processamento e transporte, de construções fixas e engenharia mecânica, de iluminação e de aquecimento (CAMPOS; DA SILVA; FARIA;
+AZEVEDO; ERDMANN, 2015). No entanto, segundo Piquet & Pinto
+Jr. (2018), as oportunidades abertas na indústria de petróleo nacional
+ainda exigem grandes esforços empresariais, tecnológicos, institucionais e regulatórios para que sejam efetivamente aproveitadas.
+No caso do setor elétrico, as crescentes pressões ambientais,
+até então pouco consideradas na definição da política energética nacional, vêm garantindo espaços crescentes para as fontes renováveis.
+Dessa forma, verificou-se nas últimas décadas um crescente aumento
+nos investimentos em energia eólica e, mais recentemente, em energia
+solar distribuída.
+As novas condições de contorno do setor de energia no Brasil
+trazem grandes desafios para os planejadores de política energética.
+Tanto no caso do petróleo quanto no caso do setor elétrico, os novos
+drivers exigem sensíveis mudanças no modelo de organização e nas
+formas de regulação dessas indústrias. Como bem observa (PIQUET;
+PINTOR Jr., 2018), a “condição de exportador” de petróleo bruto ainda não está dada e precisa ser construída. Ademais, diferente do que
+possa sugerir a autossuficiência na produção de petróleo, a segurança
+energética deve continuar sendo o princípio orientador das políticas
+públicas para o setor de energia. Nesse contexto, a manutenção dos
+investimentos em exploração e produção, a modernização do parque
+de refino, a racionalização do uso das rendas petrolíferas, o aproveitamento do gás do pré-sal e a expansão do sistema de transporte de
+gás natural são elementos de segurança de abastecimento que devem
+fazer parte das diretrizes de política energética do setor de petróleo e
+gás natural nos próximos anos (PIQUET; PINTOR Jr., 2018).
+No caso do setor elétrico, o crescimento da participação das
+energias renováveis na matriz elétrica nacional exige, em função do
+perfil de intermitência das energias solar e eólica, que seja repensado
+
+26
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+todo o modelo de operação do sistema integrado nacional. Tais mudanças, no entanto, podem redefinir o tradicional papel desempenhado
+pelas hidroelétricas no Brasil, assim como deixam em aberto qual será
+o futuro do gás natural no setor elétrico.
+Na primeira seção ficou clara a importância da energia para o
+desenvolvimento econômico de um país. Nesse sentido, é de se esperar que as mudanças ocorridas nas últimas duas décadas nas indústrias energéticas brasileiras sejam sentidas em alguns importantes indicadores econômicos, como na Formação Bruta de Capital e no saldo
+da Balança Comercial, por exemplo.
+Como já mencionado, as descobertas do pré-sal ensejaram
+um elevado esforço de investimento por parte da Petrobras e de seus
+parceiros privados, o que se refletiu diretamente no aumento do capital
+fixo no Brasil. Em 2009, por exemplo, os investimentos realizados pela
+Petrobras corresponderam a 11% do total da Formação Bruta de Capital (FBKF) no país, sendo que os investimentos em exploração e produção sozinhos corresponderam a 5% (PETROBRAS, 2017). Entre
+2006 e 2014, os investimentos anuais no segmento de E&P realizados
+pela empresa somaram R$ 319 bilhões, passando de um montante
+anual de R$ 15 bilhões, em 2006, para R$ 56 bilhões, em 2014 (PETROBRAS, 2017). A Figura 1, elaborada a partir dos dados do IBGE
+(2020) e Petrobras (2017), mostra a evolução da relação dos investimentos da Petrobras sobre a Formação Bruta de Capital Fixo no Brasil.
+
+12%
+
+1400
+
+10%
+
+1200
+
+800
+
+6%
+
+600
+
+4%
+
+Bilhões R$
+
+1000
+
+8%
+
+400
+
+2%
+
+200
+
+0%
+
+0
+
+FBK (Bilhões R$)
+
+E&P Petrobras/FBKF
+
+Petrobras/FBKF
+
+Figura 1 – Participação dos investimentos da Petrobras sobre
+a formação bruta de capital no Brasil
+
+M. Colomer | Economia e energia no Brasil
+
+27
+
+Como pode ser visto, a partir de 2014 há uma reversão no
+favorável contexto da indústria brasileira de petróleo. A queda do preço
+do barril, na segunda metade de 2014, associada as dificuldades de
+financiamento encontradas pela Petrobras em função da política de
+preço de combustíveis adotada pela estatal brasileira e dos escândalos de corrupção dentro da empresa comprometeram a manutenção
+do ritmo de investimento no setor (COLOMER; RODRIGUES, 2017).
+Assim, em 2014, verificou-se uma queda de 16% nos investimentos
+da Petrobras que passaram de R$ 104 bilhões, em 2013, para R$ 87
+bilhões (PETROBRAS, 2017).
+É verdade que parte da redução dos investimentos da Petrobras decorreu de uma reorientação da sua estratégia de investimento
+que passou a ser direcionada para a produção offshore de petróleo
+e gás natural. Isso explica por que até 2015, há um aumento nos investimentos em E&P enquanto os investimentos totais da empresa se
+reduziam. No entanto, a partir de 2016, inicia-se um amplo processo de
+restruturação patrimonial da Petrobras trazendo impactos, até mesmo,
+para os investimentos em E&P.
+Com a justificativa de recompor financeiramente a estatal brasileira, de forma que esta mantivesse o ritmo de investimentos na área
+do pré-sal, iniciou-se um agressivo processo de venda de ativos. Assim, ocorreram diversas operações de desinvestimento no segmento
+de distribuição de combustível e na indústria de gás natural. No setor
+de refino, avançam as tentativas de privatização de parte do parque refinador da estatal brasileira, embora até a data deste artigo não tenha
+ocorrido a venda de nenhuma importante refinaria no país.
+A estratégia de reestruturação da empresa avançou inclusive
+para as atividades de E&P, onde a Petrobras vem se desfazendo de
+campos maduros e com acumulações marginais. O reflexo da nova
+orientação estratégica do governo brasileiro para a Petrobras pode ser
+visto na redução acentuada dos investimentos da estatal brasileira, inclusive, como já mencionado, nas atividades de E&P.
+A queda na Formação Bruta de Capital Fixo que acompanhou
+a redução dos investimentos da Petrobras nos anos de 2015 e 2016
+mostra o quão importante é a indústria de petróleo na estruturação do
+produto industrial brasileiro. Além dos impactos sobre a capacidade
+instalada, a redução dos investimentos da Petrobras tem consequências significativas em toda a economia. A redução da arrecadação fiscal, com consequências devastas para alguns estados e municípios, e
+o efeito sistêmico sobre o restante da cadeia produtiva do país, visto
+na redução do emprego e da renda, são alguns exemplos do impacto
+da redução dos níveis de atividade na indústria de petróleo. Segundo
+Kupfer (2008), para cada 1 bilhão de reais investido na atividade de
+exploração e produção de petróleo e gás natural (E&P), têm-se a gera-
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+28
+
+ção direta, indireta e induzida de 1,3 bilhão de renda agregada e 37 mil
+postos de trabalho.
+Apesar da redução dos níveis de investimento da Petrobras
+verificados nos últimos anos, as inversões de capital realizadas entre
+2006 e 2014 começam a dar importantes frutos. O aumento da produção na área do pré-sal vem impactando positivamente a balança
+comercial brasileira. Entre 2000 e 2013, por exemplo, a conta energia1
+representava, em média, 20% do total de importações e 10% do total
+de exportações no Brasil. A partir de 2014, no entanto, a posição relativa dessa conta no saldo da balança comercial iniciou um processo
+de reversão. Assim, em 2018, as importações de energia reduziram
+sua participação no total nacional para 17% enquanto as exportações
+aumentaram seu peso para 16% do total das exportações brasileira.
+De fato, em 2018 a conta energia apresentou um superávit de cerca de
+6 bilhões de dólares, contribuindo positivamente para o saldo positivo
+da balança comercial naquele ano (BANCO CENTRAL DO BRASIL,
+2020).
+A reversão do saldo da conta energia deveu-se basicamente
+ao aumento das exportações líquidas de petróleo. Entre 2000 e 2015,
+a conta petróleo (que inclui petróleo, produtos petrolíferos e materiais
+relacionados) apresentou um déficit anual médio de 5 bilhões de dólares. A partir de 2016 há uma mudança nesse perfil de comportamento
+de forma que em 2018 a conta petróleo apresentou um superavit de
+11 bilhões de dólares (BANCO CENTRAL DO BRASIL, 2020). Em
+outros termos, o aumento da produção nacional contribuiu tanto para
+reduzir as necessidades de importação quanto para a geração de um
+excedente exportável, o que explica a mudança no saldo da conta
+energia. A Figura 2, elaborada a partir dos dados do Banco Central do
+Brasil (2020), mostra a reversão da trajetória do peso das importações
+e exportações de energia no Brasil.
+
+1 Somatório dos saldos comerciais de máquinas e equipamentos para geração de energia, petróleo,
+produtos petrolíferos e materiais relacionados, carvão, coque e briquetes, gás, natural e manufaturado, energia elétrica e etanol.
+
+29
+
+M. Colomer | Economia e energia no Brasil
+
+25%
+20%
+15%
+10%
+5%
+0%
+
+% Importação
+
+% Exportação
+
+Figura 2 – Peso das importações e exportações da
+conta energia sobre o total nacional
+Como mencionado anteriormente, o petróleo e seus derivados
+correspondem aos principais itens de importação da conta energia no
+Brasil. No entanto, é importante destacar o crescimento das importações de gás natural ocorrido entre 2009 e 2015, principalmente na forma de GNL. Isso porque o crescimento da dependência externa em
+relação ao gás natural, embora não apresente um peso significativo no
+saldo da balança comercial, expõe algumas características da relação
+entre a indústria gasífera e de eletricidade no Brasil.
+Até o início da década de 2000, o setor elétrico brasileiro se
+sustentou em seu parque de geração hídrica. Com a crise de abastecimento ocorrida em 2001, ficou claro que a hidroeletricidade sozinha
+não iria satisfazer a crescente demanda por energia elétrica1. A solução encontrada foi o desenvolvimento de uma agressiva política de
+expansão do parque termoelétrico a gás natural no Brasil.
+Inicialmente a ideia era aproveitar o gás proveniente da Bolívia e amplamente acessível após a conclusão das obras do GASBOL.
+Contudo, rapidamente foi percebido que a demanda potencial do setor
+elétrico não iria ser plenamente atendida pelo país vizinho. Ademais,
+restrições na infraestrutura de transporte impediam que o gás boliviano
+conseguisse chegar as regiões norte e nordeste. Mesmo na região sul
+do país, atendida pelo GASBOL, as limitações de capacidade de transporte impediam o pleno atendimento das térmicas da região. Tentativas
+de importação de gás natural da Argentina para a região sul foram feitas, mas sem grandes sucessos.
+1 As restrições ambientais associadas à construção de novas hidroelétricas com grandes reservatórios no Brasil explicam, em parte, as mudanças estruturais ocorridas no setor elétrico a partir de 2000.
+
+30
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+Dentro do contexto acima, a solução encontrada foi a instalação de terminais de regaseificação de GNL ao longo da costa brasileira. No entanto, em função do perfil de despacho das térmicas a gás natural, a contratação do GNL no mercado internacional tem se dado com
+base em contratos de curto prazo. Isto é, em momentos de hidrologia
+desfavorável, verificam-se importantes aumentos nas importações de
+GNL, em momentos em que a hidrologia se mostra mais abundante, há
+uma retração das compras no mercado internacional.
+Além dos problemas associados à ociosidade das infraestruturas de transporte, regaseificação e até mesmo de distribuição de gás
+natural, o modelo de despacho das térmicas a gás no Brasil expõe a
+balança comercial às volatilidades do mercado internacional de GNL. A
+Figura 3, elaborada a partir dos dados do Ministério de Minas e Energia
+- MME (2019), mostra claramente as oscilações ocorridas nos volumes
+de importação de gás natural decorrentes das variações na demanda
+do setor termoelétrico.
+
+60.000.000.000
+
+US$ FOB
+
+50.000.000.000
+40.000.000.000
+30.000.000.000
+20.000.000.000
+10.000.000.000
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+0
+
+Etanol
+Energia elétrica
+Gás, natural e manufaturado
+Carvão, coque e briquetes
+Petróleo, produtos petrolíferos e materiais relacionados
+Máquinas e equipamentos de geração de energia
+
+Figura 3 – Composição das importações da conta energia
+Outro ponto que merece destaque na análise da balança comercial é o aumento das exportações de máquinas e equipamentos. A
+partir de 2015, verificou-se um incremento anual no volume de exportações desse item de forma que, em 2018, sua participação no total das
+exportações da conta energia foi de 18%. A explicação para isso reside
+no regime aduaneiro especial do setor de petróleo, principalmente nas
+exportações ficta.
+
+M. Colomer | Economia e energia no Brasil
+
+31
+
+A exportação ficta é caracterizada pela venda de produtos nacionais a empresas sediadas no exterior para serem entregues no Brasil. Essa operação comercial produz todos os efeitos fiscais e cambiais
+de uma exportação sem que o produto saia efetivamente do país. Em
+2018, por exemplo, o resultado da balança comercial foi inflado pela
+exportação de uma plataforma de petróleo no valor de US$ 1,53 bilhão
+que não saiu do território brasileiro, mas foi comprada por subsidiárias
+brasileiras no exterior e, em seguida, registrada no Brasil como equipamento alugado (EBC, 2020). Na Figura 4, elaborada a partir dos dados
+do MME (2019), é possível ver como o item máquinas equipamentos
+aumentou sua participação nas exportações totais da conta energia a
+partir de 2006.
+
+40.000.000.000
+
+US$ FOB
+
+30.000.000.000
+20.000.000.000
+10.000.000.000
+
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+
+0
+Etanol
+Energia elétrica
+Gás, natural e manufaturado
+Carvão, coque e briquetes
+Petróleo, produtos petrolíferos e materiais relacionados
+Máquinas e equipamentos de geração de energia
+
+Figura 4 - Composição das exportações da conta energia
+A análise da balança comercial brasileira mostra que a conta
+energia, em particular a conta petróleo, possui uma importante influência no comportamento das contas externas brasileiras. Essa relação já era percebida desde a década de 70, quando o aumento do
+preço do barril no mercado internacional expôs as fragilidades da dependência externa. Com o aumento na produção de petróleo, decorrente da exploração das reservas do pré-sal, e o aumento das importações de gás natural, a natureza da relação entre a conta energia
+e a balança comercial vem se alterando nas últimas décadas. A Figura 5, elaborada a partir dos dados do MME (2019), mostra que a
+reversão do déficit comercial em 2014 tem uma estreita relação com
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+32
+
+a melhora no saldo da conta energia, que pode ser explicada pela redução das importações de petróleo e derivados e posteriormente, em
+2018, pelo aumento das exportações líquida desses bens.
+
+80.000.000.000
+60.000.000.000
+
+US$ FOB
+
+40.000.000.000
+20.000.000.000
+
+-20.000.000.000
+
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+
+0
+
+-40.000.000.000
+Balança Comercial
+
+Conta Energia
+
+Figura 5 - Saldo balança comercial e conta energia1
+Outra importante dimensão da energia é o impacto que o acesso às diferentes fontes energéticas tem sobre o bem-estar social. Em
+geral, tem-se a amplitude do acesso da população às modernas fontes
+de energia (eletricidade, GLP e gás natural) como uma medida de desenvolvimento socioeconômico. Segundo a IEA (2020), no mundo, cerca de 770 milhões de pessoas ainda não tem acesso a eletricidade e
+2,6 bilhões não tem acesso a fontes limpas de cocção. Para a Agência,
+esses dados mostram o tamanho da pobreza energética ainda existente e direcionam os esforços de política pública.
+No Brasil, entre 2004 e 2013, verificou-se um processo de
+substituição da biomassa pelo GLP no consumo das famílias, de forma
+que a participação da lenha no consumo final de energia do setor residencial caiu de 38 para 24% (MME, 2019). O GLP, em função da sua
+facilidade de transporte e do seu elevado poder calorífico, é a principal
+fonte de energia utilizada no processo de modernização do consumo
+energético das famílias nos países em desenvolvimento. Diferente do
+gás natural, que exige elevados investimentos em infraestruturas de
+movimentação, o GLP pode ser facilmente convertido para sua forma
+1 Somatório dos saldos comerciais de máquinas e equipamentos para geração de energia, petróleo,
+produtos petrolíferos e materiais relacionados, carvão, coque e briquetes, gás, natural e manufaturado, energia elétrica e etanol.
+
+33
+
+M. Colomer | Economia e energia no Brasil
+
+0,140
+
+0,800
+
+0,120
+
+0,700
+
+0,100
+
+0,600
+0,500
+
+0,080
+
+0,400
+
+0,060
+
+0,300
+
+0,040
+
+MWh/hab
+
+tep/hab
+
+líquida e envasado em recipientes facilmente transportáveis até os
+pontos de consumo. É por essa razão que, segundo o Banco Mundial
+(KOJIMA, 2011), o GLP poder ser visto como um combustível de transição das fontes tradicionais de energia (lenha, biomassa) para o gás
+natural.
+Por ser muito mais eficiente do que a lenha, o aumento do
+consumo de GLP reduz a intensidade energética no setor residencial.
+Esse fato pode ser melhor visualizado na redução do consumo per capita de energia para cocção entre 2004 e 2013, como apresentado na
+Figura 6, elaborada a partir dos dados do MME (2019).
+
+0,200
+0,100
+
+0,000
+
+0,000
+
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+
+0,020
+
+Consumo Per Capita de Energia
+Consumo Per Capita de Energia para Cocção
+Consumo Per Capita de Energia Elétrica
+
+Figura 6 - Consumo de energia per capita no Brasil
+O aumento do poder de compra das famílias de baixa renda
+decorrente das políticas de preços diferenciados e de incentivo ao consumo de GLP é o principal fator que explica o crescimento do consumo
+do energético no Brasil. Se o crescimento econômico tem efeitos positivos na modernização das fontes de energia utilizadas, a perda do
+dinamismo da economia e, consequentemente, a redução da renda
+familiar têm o efeito contrário. Assim, a partir de 2015, verificou-se uma
+reversão na trajetória de substituição da lenha por fontes mais modernas de energia, em grande medida, em função do aumento do preço
+do GLP e da diminuição da renda real verificada a partir daquele ano.
+Na Figura 6, é possível ver como a intensidade energética na
+atividade de cocção sofre um ligeiro aumento a partir de 2016. Essa reversão na trajetória da curva de consumo per capita de energia deve-se,
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+34
+
+em parte, a substituição do GLP pela lenha. O aumento do consumo de
+lenha pelas famílias é um indicador de aumento da pobreza energética
+e, consequentemente, de redução do bem-estar verificado a partir da
+segunda metade da década de 2010.
+No caso do acesso à eletricidade, vemos que de 2002 até 2013
+há um acentuado aumento no consumo per capita de energia elétrica.
+Esse crescimento decorre tanto das políticas de universalização do
+acesso à eletricidade quanto do aumento da renda familiar que permitiu a aquisição de um número maior de eletrodomésticos e dispositivos
+eletrônicos à população de baixa renda. A estagnação econômica e a
+consequente perda de poder aquisitivo da população a partir de 2015,
+no entanto, reduz o ritmo de crescimento do consumo per capita de
+energia elétrica que vem se mantendo relativamente estável desde então, como pode ser visto na Figura 6.
+Por fim, outra importante dimensão de análise da interação entre economia e energia contemplada nesse estudo é a evolução da intensidade energética do produto interno brasileiro. Entre 2000 e 2019,
+verificou-se um aumento de cerca de 5% no consumo de energia por
+produto gerado1. Esse pequeno aumento no nível de intensidade energética, contudo, encortina a perda de eficiência em algumas importantes atividades econômicas. No setor de serviço e no setor energético,
+por exemplo, o aumento do consumo de energia por unidade de produto foi de 13 e 29%, respectivamente. Enquanto no setor agropecuário,
+a intensidade energética do produto caiu, nesse mesmo período, cerca
+de 18%. No caso da indústria, verificou-se um aumento de 10% no
+consumo de energia por produto gerado. É importante destacar que
+em função do peso da indústria (19%) e do setor de serviço (58%)
+sobre o PIB brasileiro, qualquer variação na intensidade energética
+desses dois setores tem efeito significativo sobre o nível de intensidade do PIB nacional. A Figura 7, elaborada a partir dos dados do MME
+(20019), mostra a evolução da intensidade energética verificada nos
+principais setores produtivos da economia brasileira.
+
+1 Consumo Final Energético sem Residencial (MME, 2019).
+
+35
+
+M. Colomer | Economia e energia no Brasil
+
+250,0
+
+tep/10^6 US$
+
+200,0
+150,0
+100,0
+50,0
+0,0
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+SERVIÇOS
+
+AGROPECUÁRIO
+
+INDÚSTRIA
+
+ENERGÉTICO
+
+Figura 7 – Brasil: intensidade energética setorial 2000-2010
+A importância da contribuição do setor de serviço no aumento da intensidade energética do PIB brasileiro reflete dois importantes
+aspectos. Primeiramente verificou-se nas últimas duas décadas uma
+perda relativa da importância da indústria na formação do produto interno bruto (efeito estrutura). O segundo aspecto que chama atenção
+é o aumento da intensidade energética do próprio setor de serviços
+(efeito conteúdo).
+De fato, entre 2000 e 2019, a indústria veio perdendo participação para os setores agropecuário e de serviço. Só na última década, a
+participação da indústria no PIB se reduziu 3% enquanto os setores de
+serviço e agropecuário tiveram um aumento de 1% em suas participações percentuais (MME, 2019).
+De certa forma, a mudança na composição do PIB em direção
+aos setores de serviço e agropecuário tenderia a reduzir a intensidade
+energética do produto, uma vez que o consumo relativo de energia
+em ambos os setores é menor do que no setor industrial. No entanto,
+a queda na participação da indústria verificada nesse período não foi
+suficiente para compensar o aumento da intensidade energética verificada no setor de serviço. É interessante perceber que o aumento da
+intensidade energética nesse setor foi puxado tanto pela redução da
+eficiência no setor de transporte, que viu sua intensidade energética
+passar de 681 para 811 tep/106 US$ de PIB, quanto no setor de comércio e outros que verificou um aumento de 16% na sua demanda
+relativa de energia.
+A análise dos indicadores de intensidade energética mostra
+que, diferente dos países desenvolvidos, o aumento da participação do
+setor de serviço no produto interno bruto não contribuiu para o aumento da eficiência energética. Pelo contrário, o que se verificou na última
+década foi o aumento do índice de intensidade energética do PIB brasi-
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+36
+
+leiro. Esse fato indica que o crescimento verificado no setor de serviço
+vem sendo puxado por atividades com baixo conteúdo tecnológico e
+baixo valor agregado. Segundo o IBGE (2020), os serviços profissionais, administrativos e complementares respondem pela maior parcela
+do pessoal ocupado, da massa salarial e do valor adicionado bruto
+dentre os segmentos de serviços investigados pela PAS. Em 2018,
+suas atividades geraram R$ 319,4 bilhões de valor adicionado (33%)
+e foram responsáveis por 40% das pessoas ocupadas (5.056.294) e
+35% da massa salarial paga no setor (R$ 124 bilhões). Se somarmos o
+item “serviços profissionais, administrativos e complementares” com o
+item “Transportes, serviços auxiliares aos transportes e correio” temos
+aproximadamente 60% do valor agregado no setor de serviço.
+No caso da indústria, o aumento de 10% no nível de intensidade energética foi puxado por uma expressiva redução dos níveis
+de eficiência nos setores que formam a indústria de transformação no
+Brasil. Com exceção do setor metalúrgico, que apresentou um ganho
+de eficiência de 2% entre 2000 e 2019, todos os demais setores industriais1 desse subgrupo apresentaram aumento no indicador de intensidade energética. Dessa forma, enquanto a indústria extrativa viu
+sua demanda relativa de energia se reduzir em 40%, a indústria de
+transformação aumentou sua intensidade energética em 14%, puxada
+principalmente pela redução da eficiência nas indústrias de alimentos
+e bebidas, têxtil e de não-metálicos.
+4. CONCLUSÃO
+Desde 2016, a visão ideológica predominante no governo brasileiro defende uma redução da intervenção do Estado na economia,
+em especial nos setores de energia que historicamente caracterizaram-se por uma forte presença de empresas estatais. A redução dos
+investimentos públicos, no entanto, não vem sendo compensada pela
+expansão do setor privado o que se refletiu claramente na redução das
+inversões de capital nos setores de energia. Isso vem afetando não
+somente a formação bruta de capital fixa no Brasil, como também a organização de toda a cadeia produtiva industrial associada aos setores
+energéticos.
+Ademais, os consideráveis avanços ocorridos na redução da
+pobreza energética nos primeiros ¾ desses últimos 20 anos vem sofrendo alguns retrocessos. A redução da renda familiar e o aumento
+das desigualdades sociais vem tendo impacto diretamente no perfil do
+consumo energético do setor residencial. Assim, verifica-se atualmente
+1 O subgrupo “indústria de transformação” é formado pelas indústrias química, não metálico, siderurgia, papel e celulose, alimentos e bebidas, têxtil e outras.
+
+M. Colomer | Economia e energia no Brasil
+
+37
+
+em algumas cidades brasileiras um retorno gradual das famílias de baixa renda para a lenha. Esse movimento, em função da baixa qualidade
+da biomassa queimada, tende a aumentar os problemas de saúde,
+principalmente de mulheres e crianças, trazendo novas pressões para
+o já pressionado sistema de saúde pública.
+Outra importante conclusão que se pode chegar analisando
+os dados de intensidade energética, é que a economia brasileira está
+ficando menos eficiente energeticamente. Isso ocorre exatamente em
+um período em que o mundo discuti formas de reduzir os níveis de
+emissão de carbono para conter o aquecimento global. De certa forma,
+o aumento da intensidade energética poderia ser justificado por um
+processo de industrialização tardio, já que em termos relativos o setor
+industrial possui níveis de intensidade de consumo de energia maiores
+do que o setor agropecuário. No entanto, o que se tem verificado no
+Brasil é que a redução da eficiência energética do produto interno bruto
+decorre de um processo de desindustrialização precoce em direção a
+um setor de serviço de baixo valor agregado e de uma perda de eficiência nos tradicionais setores industriais.
+Dentro do contexto acima, mostra-se premente que sejam repensadas as estratégias de longo prazo do governo brasileiro para o
+setor de energia. O planejamento energético estruturado e integrado
+mostra-se de extrema importância para a redução dos impactos das
+mudanças em curso nas indústrias de energia sobre a economia brasileira e para o aproveitamento racional e sustentável da nossa imensa
+base de recursos energéticos.
+Como destacado pela IEA (2020), os desafios da transição
+energética não conseguirão ser superados apenas pelo mercado. De
+fato, a precificação das elevadas externalidades positivas geradas pelas fontes de energia renováveis exige o desenvolvimento de amplas
+políticas de incentivo que penalizem o uso de energias fósseis e estimulem energias com baixo teor de carbono. Ademais, a mudança na
+matriz energética em direção às fontes de baixo carbono exige elevados investimentos em infraestrutura e em pesquisa e desenvolvimento
+que só podem ser coordenados a partir dos Estados Nacionais.
+REFERÊNCIAS BIBLIOGRÁFICAS
+ALLEN, E. US energy and economic growth, 1975-2010. Oak Ridge
+TN: Oak Ridge Associated Universities Institute for Energy Analysis.
+1976.
+AYRES, R. U., VAN DEN BERGH, J. J., LINDENBERGER, D., &
+WARR, B. The Underestimated Contribution of Energy to Economic
+Growth. Structural Change and Economic Dynamics. 2013.
+
+Revista Brasileira de Energia | Vol. 27, Nº 2, 2º Trimestre de 2021 - Edição Especial I
+
+38
+
+AYRES, R.; VAN DEN BERGH, J.; LINDENBERGER, D.; LINDENBERGER, B. The Underestimated Contribution of Energy to Economic
+Growth. Structural Change and Economic Dynamics. 2013.
+BANCO CENTRAL DO BRASIL. SGS - Sistema Gerenciador de Séries Temporais. 2020. Disponível em: BC: https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizar
+Series
+CAMPOS, F. L.; DA SILVA, A. S.; FARIA, T. C.; AZEVEDO, B. M.;
+ERDMANN, R. H. Inovação e prospecção tecnológica: estudo de caso
+à Petrobras para períoco 2008-2012. 2015.
+COLOMER, M.; RODRIGUES, N. A Crise na Indústria Petrolífera Brasileira e seus Impactos nos Indicadores Macroeconômicos. RBE. 2017.
+DENISON. E. F. Accounting for slower growth. Washington DC:
+Brookings Institution Press,1979.
+EBC. Balança comercial fecha fevereiro com maior superávit para o
+mês em 30 anos. Disponível em: agenciabrasil: https://agenciabrasil.
+ebc.com.br/economia/noticia/2018-03/balanca-comercial-fecha-fevereiro-com-maior-superavit-para-o-mes-em-30-anos. Acesso em: 20 de
+fev. 2020.
+HUDSON, E.; JORGENSON, W. D. US energy policy and economic
+growth, 1975-2000. Bell Journal of Economics and Management Science, 461-514. 1974.
+IBGE. PAS. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/servicos/9028-pesquisa-anual-de-servicos.
+html?edicao=28672&t=destaques. Acesso em: 19 de fev. 2020.
+IEA. World Energy Outlook. Paris: IEA. 2020.
+JORGENSON, W. D. The role of energy in the US economy. National
+Tax Journal, 209-220, 1978.
+KOJIMA, M. The Role of Liquefied Petroleum Gas in Reducing Energy
+Poverty. World Bank, 2011.
+KUPFER, D. Impactos econômicos da exploração de Petróleo. IPT.,
+2008.
+MARTIN, J. M. Economie et Politique de l’Energie. Paris: Armand Colin, 1992.
+MEADE, J. E. A Neoclassical Theory of Economic Growth. G.Allen &
+Unwin Ltd, 1961.
+
+M. Colomer | Economia e energia no Brasil
+
+39
+
+MINISTÉRIO DE MINAS E ENERGIA - MME. Balanço Energético
+Nacional. Disponível em: Ministério de Minas e Energia: http://www.
+mme.gov.br/web/guest/publicacoes-e-indicadores/balanco-energetico-nacional. Acesso em: 2 fev. 2019.
+MINISTÉRIO DE MINAS E ENERGIA - MME. Balanço Energético
+Nacional, 2019.
+PETROBRAS. Investimentos. Disponível em: Petrobras: http://www.
+investidorpetrobras.com.br/pt/destaques-operacionais/investimentos.
+Acesso em: jul. 2017.
+PINTO JR., H. Q. Economia da Energia: Fundamentos Econômicos,
+Evolução Histórica e Organização Industrial. Rio de Janeiro: Elsevier,
+2016.
+PIQUET, R.; PINTOR Jr., H. Q. Transformações em cursos na Indústria Petrolífera Brasileira. Rio de Janeiro: e-papers, 2018.
+SOLOW, R. A contribution to the theory of economic growth. Quarterly
+Journal of Economics, 65-94, 1956.
+VOIGT, S. et al. Energy Intensity Developments in 40 Major Economies: Structural Change or Technologhy Improvement? . Energy Economics, 47-62, 2014.
+
+

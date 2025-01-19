@@ -1,0 +1,832 @@
+ 
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  29 
+TECNOLOGIA E FETICHISMO NA CRÍTICA DA ECONOMIA POLÍTICA  
+TECNOLOGÍA Y FETISHISMO EN LA CRÍTICA DE LA ECONOMÍA POLÍTICA  
+TECHNOLOGY AND FETISHISM IN THE CRITIQUE OF POLITICAL ECONOMY  
+DOI: http://doi.org/10.9771/gmed.v16i3.63566  
+Gustavo Mello1 
+ 
+Resumo:  O artigo se propõe a analisar o lugar da tecnologia na crítica marxiana da economia política. Para tanto, 
+parte -se de uma discussão sobre a natureza e a forma social da tecnologia, como dimensão distintiva da 
+sociabilidade humana, e sobre a sua conversão, na modernidade, em uma segunda natureza, a partir dos conceitos 
+de trabalho alienado e de fetichismo do capital, e da crítica da ideologia do progresso. No momento seguinte, faz -
+se uma exposição de categorias como a da subsunção formal e real do trabalho a o capital, e dos conceitos de 
+manufatura e grande indústria, que permitem compreender a constituição de um estofo material adequado ao 
+capital por meio da subsunção da ciência e da tecnologia à dinâmica de acumulação. Dessa análise se extrai aportes teóric os para a análise do processo contemporâneo de inovação tecnológica, que servirão para sustentar, por fim, 
+a importância da crítica da economia política para a análise de fenômenos sociais recentes, notadamente a chamada plataformização do trabalho.
+ 
+Palavr as-chave : Marx . Tecnologia . Fetichismo . Subsunção do trabalho ao capital . Plataformização do trabalho.  
+Resumen: El artículo tiene como objetivo analizar el lugar de la tecnología en la crítica marxista de la economía 
+política. Para ello, partimos de una discusión sobre la naturaleza y forma social de la tecnología, como dimensión 
+distintiva de la sociabilidad humana , y sobre su conversión, en la modernidad, en una segunda naturaleza, a partir 
+de los conceptos de trabajo alienado y fetichismo. capital y la crítica de la ideología del progreso. En el siguiente momento se presentan categorías como la subsunción formal y  real del trabajo al capital, y los conceptos de 
+manufactura y gran industria, que permiten comprender la constitución de un material material apto para el capital 
+a través de la subsunción de la ciencia y. De la tecnología a la dinámica de la acumulación.  De este análisis se extraen 
+aportes teóricos para el análisis del proceso contemporáneo de innovación tecnológica, que en última instancia servirán para sustentar la importancia de criticar la economía política para el análisis de fenómenos sociales 
+recientes, en particular la llamada plataformatización del trabajo.
+ 
+Palabras clave:  Marx. Tecnología. Fetichismo. Subsunción del trabajo al capital. Plataform ización  del trabajo .  
+Abstract: The article aims to analyze the place of technology in the Marxian cri tique of political economy. To this 
+end, we start with a discussion on the nature and social form of technology, as a distinctive dimension of human sociability, and on its conversion, in modernity, into a second nature, based on the concepts of alienated labor and 
+fetishism of capital, and the critique of the ideology of progress. In the following moment, categories such as the 
+formal and real subsumption of labor to capital, and the concepts of manufacturing and large industry are 
+presented, which allow u s to understand the constitution of a material basis suitable for capital through the 
+subsumption of science and technology to the dynamics of accumulation. From this analysis, theoretical 
+contributions are extracted for the analysis of the contemporary pr ocess of technological innovation, which will 
+ultimately serve to support the importance of criticizing political economy for the understanding of recent social phenomena, notably the so-called platformization of work.  
+Keywords: Marx. Technology. Fetishism . Subsumption of labor under capital. Platformization of labor.   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  30 
+Introdução  
+Nas últimas décadas, as terceira e quarta revoluções tecnocientíficas , caracterizadas pelo 
+desenvolvimento conjugado da informática, da telemática, da microeletrônica, da robótica, da 
+nanotecnologia, da biotecnologia, da big data, da inteligência artificial, das redes sociais e plataformas 
+digitais, dentre outros, alimentar am intensos debates sobre a natureza e as perspectivas do capitalismo 
+contemporâneo. Porém, tais debates tendem a dissociar as inovações tecnológicas de tendências elementares da dinâmica de acumulação de capital, como o incremento da subsunção real do tra balho 
+ao capital, da intensificação do trabalho, da substituição de força de trabalho por máquina, em termos 
+relativos e mesmo absolutos, e, portanto, da superpopulação relativa, da precarização das condições de 
+existência da população trabalhadora, da ato mização social, da reificação, entre outras.  
+Da perspectiva aqui esposada, essa dissociação explica a predominância de leituras tecnofílicas 
+ou tecnofóbicas, e a tendência a se apartar a descrição dos atuais sistemas tecnológicos da análise de seu 
+process o histórico de constituição, o que dificulta a sua apreensão de modo conceitualmente embasado, 
+e resulta em dispersão e fragmentação do debate acadêmico sobre o tema. Diante desse quadro, 
+considera -se necessário retomar algumas descobertas elementares, por ém frequentemente ignoradas, da 
+crítica marxiana da economia política, e buscar atualizá -las, à luz de fenômenos contemporâneos.  
+Para tanto, o presente artigo procura perfazer um arco expositivo pouco convencional. O 
+ponto de partida do texto será a refle xão sobre a natureza social da tecnologia, e sobre como ela é 
+constitutiva, e em grande medida distintiva, da humanidade, ao mesmo tempo em que se converte, na 
+modernidade, em uma segunda natureza . Para tanto, essa primeira sessão terá como eixos a crítica  marxiana 
+ao trabalho alienado, apresentada nos Manuscritos Econômico -Filosóficos , e a crítica ao fetichismo do capital, 
+a partir de O Capital , em articulação com a crítica da ideologia do progresso, construída por autores como 
+Günther Anders, Theodor Ador no e Walter B enjamin , para citar apenas os que aqui ganharão destaque
+2.  
+Na sessão seguinte, a atenção se voltará para as análises de Marx sobre a subsunção formal e 
+real do trabalho ao capital, e para os conceitos de manufatura e grande indústria, donde se extrairão aportes teóricos para a análise da dinâmica contemporânea de inovação tecnológica. Em particular, 
+cumpre resgatar a análise marxiana da grande indústria, assentada no sistema automático de máquinas, 
+como modo de produção especificamente capita lista, por meio do qual este se ergueu sobre seus próprios 
+pés e tende a se reproduzir. Esse desenvolvimento foi indissociável da subsunção da ciência e da 
+tecnologia ao capital, e da conversão do processo de inovação, ele próprio, em um negócio, baseado n os 
+imperativos da acumulação de riqueza abstrata. Desse modo, compreende -se que as máquinas, 
+tecnologias e técnicas constituem o estofo material do capital , e precisam ser apreendidas a partir de sua 
+forma social e de seu evolver histórico. Por fim, na ter ceira sessão, procura -se salientar a importância da 
+crítica da economia política para a análise de fenômenos sociais recentes, notadamente a chamada 
+plataformização do trabalho.   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  31 
+Da universalidade genérica  ao expurgo das afinidades miméticas  
+O processo de subordinação da tecnologia ao capital por si só indica que novas relações sociais 
+se erguem sobre uma base tecnológica pretérita, que num primeiro momento não lhe é perfeitamente 
+adequada. E se tais relações sociais são contraditórias, o mesm o vale para a tecnologia ( Bernardo , 2014, 
+p. 8). Uma maneira de concebê -la é vê -la como “materialização das relações sociais dominantes” 
+(Bernardo , 2014, p. 9); isso não elimina as vicissitudes da reprodução social, e tampouco a possibilidade 
+de um uso sub versivo de tais tecnologias. Ocorre que tal subversão só pode se dar como parte da 
+construção prática de relações sociais de outro tipo, em contraposição às determinações próprias ao jugo 
+do capital. Uma atitude conformista diante das tecnologias, ao contr ário, tende a referendá -las como 
+meio de exacerbação de tais determinações, independentemente das intenções de seus produtores e 
+usuários.  
+Logo, de uma perspectiva crítica, não faz qualquer sentido discutir as tecnologias fechadas em 
+si próprias, e tampouc o pressupor que se trata de algo inerentemente benéfico ou pernicioso, 
+alimentando veleidades tecnofílicas ou tecnofóbicas. Ao contrário, argumenta Günther Anders (2011b, 
+p. 295),  a “artificialidade é a natureza do homem”, já que a humanidade não existiria  sem estabelecer 
+relações intersubjetivas e com o meio mediadas por instrumentos técnicos de toda sorte. Aliás, talvez 
+resida aí a especificidade dos seres humanos – seu caráter indeterminado -, que deve ser melhor 
+compreendida.  
+Desprovidos de toda proteç ão inata, como que prematuramente nascidos, os humanos 
+padecem de um desamparo e uma dependência radicais, e só logram sobreviver e constituir sua subjetividade estabelecendo relações com o mundo humano e extra -humano. Tais relações são mediadas 
+pela estru tura da linguagem e por toda sorte de artifícios, astúcias e aparatos técnicos e tecnológicos, 
+frutos do engenho humano, que reflexionam sobre os indivíduos, transformando -os ao longo de suas 
+existências individuais e também no curso da história. Dessa maneira, insiste Anders (2011b, p. 295), “o 
+homem carece de uma natureza determinada e vinculativa; dito positivamente: sua incessante 
+autoprodução, sua transformação histórica ininterrupta torna impossível decidir o que se lhe pode ser imputado como ‘natural ’ ou como ‘não natural’”.  
+Tais proposições parecem coadunar -se com reflexões do jovem Marx, que convém evocar. 
+Nos Manuscritos Econômico -Filosóficos , sustenta ele que, enquanto os demais animais se identificam 
+imediatamente com suas atividades vitais, o “h omem faz da sua atividade vital mesma um objeto da sua 
+vontade e da sua consciência. Ele tem atividade vital consciente. Esta não é uma determinidade [Bestimmtheit ] com a qual ele coincide imediatamente” ( Marx , 2004, p. 82). Nesse lapso, que enseja o 
+movim ento de reflexão entre sujeito e objeto, no qual os seres humanos tomam sua atividade vital e 
+mesmo sua consciência como objeto, e como objeto em elaboração, a realidade social se constitui como um incessante devir, carregando incontáveis possíveis , realid ades potenciais que pulsam e expandem o 
+atual. Assim,  “a apropriação da realidade humana, sua relação com o objeto, é a colocação em prática da  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  32 
+realidade humana; é, por isso, tão múltipla quanto são as determinações do ser e das atividades humanas; 
+ação hu mana e paixão humana, visto que a paixão, humanamente concebida, é um autodesfrute do 
+homem”  (Marx , 2004, p.  146).  
+Tal apropriação se dá por meio do que Hegel chamava “trabalho do negativo” ( Safatle, 2 015, 
+p. 26), da inquietude e do inconformismo contra tudo o que nega sua “universalidade genérica”. Remetendo aos Manuscritos de 1844 , Vladimir Safatle (2015, p. 26) propõe que a “atividade como 
+negatividade é a única operação capaz de sustentar a recupera ção de uma imanência que não se deixa 
+confundir com as ilusões do imediato e seus riscos de estaticidade”, que se insurge contra a “limitação do campo atual de determinações”.  
+Tem-se aí uma chave para compreender a concepção do jovem Marx acerca da naturez a genérica  
+da humanidade; diante do infinito campo de possibilidades que constituem o real, o atual se afigura limitado; este nega a universalidade que singulariza a humanidade, que se caracteriza pelo próprio 
+movimento de superação das particularidades. T rata-se, na formulação de Safatle (2015, p. 36), de uma 
+universalidade não -substancial , “fundada na indeterminação que faz de toda essência uma atividade em 
+reinscrição contínua de seus acontecimentos, e não um ser”. É por isso que o ser humano, “um gênero  
+desprovido de archai , sem origem nem destino” (Safatle , 2015, p. 33), agora nos termos de Günther 
+Anders (2011a, p. 296),  “deve produzir a cada momento o esquema de seu mundo e de sua sociedade. 
+Essa produção, ou seja, sua práxis, é sua resposta ao vazio ‘ genérico ’ (‘sociabilidade genérica ’), à 
+indeterminação do dote que lhe foi dado. Ora, o que ela produz é ‘ não natural ’ e, em comparação com 
+isso, ‘ genérico ’, contingente ”. 
+Por outro lado, em sua atividade prática, os seres humanos possuem o dom de confron tar a 
+alienação, a submissão a ditames heterônomos que, ao engolfar o objeto, também enredam o sujeito, que é, ele mesmo, objeto. Isso porque, ao conceder dignidade ao objeto, e mesmo aceitar a sua primazia (Adorno, 1995), o sujeito pretensamente entroniza do numa posição demiúrgica deixa de submeter o 
+existente à sua régua, vê baralhar suas faculdades de intuição e entendimento , e com isso experimenta um 
+estranhamento que é abertura criativa do seu horizonte de existência ( Safatle, 2 015, p. 18).  
+Essa indeterminação distintiva dos seres humanos, que guardam a potência de converter sua 
+atividade, sua existência, a sua história em um processo aberto, pode ser flagrada nas produções artísticas, 
+que permitem infundir ou lançar “mundos no mundo”, como ensina o cancioneiro popular. Como 
+enfatiza Marx (2004, p. 83, grifos nossos),  “o animal forma apenas segundo a medida e necessidade da 
+espécie a qual ele pertence, enquanto o homem sabe produzir segundo a medida de qualquer espécie, e sabe considerar, por toda a part e, a medida inerente ao objeto ; o homem também forma, por isso, segundo as leis 
+da beleza ”.  
+Por meio de produtos que resistem ao jugo totalitário do capital, a produção artística explora 
+brechas que deixam entrever os mundos que se abrem para além daquele  “esvaziamento completo” 
+(Marx , 1993a, p. 162) que o presente não cansa de atualizar. Não surpreende, por conseguinte, que, dessa 
+ótica, a emancipação humana compreenda  “o livre desenvolvimento das individualidades e, por isso, não  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  33 
+a redução do tempo de tr abalho para pôr sobretrabalho; mas antes a redução do trabalho necessário da 
+sociedade a um mínimo, o qual corresponde à formação artística, científica, etc. dos indivíduos no tempo 
+liberado, e com os meios criados para todos eles ” (Marx , 1993a, p. 706).  
+Não obstante, distintas formações sociais no decorrer da história humana se estruturaram, em 
+grande medida, sobre a negação dessa “essência indeterminada” dos seres humanos, buscando fixar a 
+contingência que lhe é inerente, e torná -la obrigatória ( Anders , 2011a, p. 296), coagindo os seus membros 
+à adaptação e a tomarem o atual como natural e necessário. “Por isso, até hoje”, constata ainda Anders 
+(2011a, p. 296), “toda instituição e estabelecimento de um esquema de sociedade exigiu rigor e violência”, 
+contr a os que foram “subjugados como classe, isto é, contra os perdedores”, mas também “contra a 
+natureza do homem em geral, uma vez que se adapta apenas à ‘sociabilidade como tal’: nunca ‘exatamente 
+a este’ esquema da sociedade”.  
+Entre a indeterminação e a ser vidão  
+Em tais condições, todo produto do engenho humano traz o signo da exploração e da 
+opressão, tendo por contraface a “corveia anônima” e os corpos espezinhados da multidão de vencidos, 
+de tal forma que, na célebre formulação de Walter Benjamin (1996a, tese VII), “nunca houve na história 
+um monumento à cultura que não fosse também um monumento à barbárie”. De modo a avançar nessa 
+investigação, convém deixar o universo da “antropologia negativa” ( Fausto , 1987a) proposta nos 
+Manuscritos Econômico -Filosóficos , que compreende que o ser humano se encontra posto  historicamente, mas 
+negado , de tal forma que cumpriria resgatar e recuperar sua universalidade enclausurada. Ao contrário, da 
+perspectiva da madura crítica marxiana à economia política, o ser hu mano encontra -se não constituído, 
+mas negado em seus predicados; trata -se de uma “ontologia negativa” (Fausto , 1987a), que recusa 
+qualquer tipo de fundação primeira, e afirma uma historicidade radical, fincando -se com os dois pés no 
+atual, e tomando a crít ica do capital, a “potência econômica que tudo domina na sociedade burguesa”, 
+como “ponto de partida e de chegada” da análise (Marx , 1993a, p. 107).  
+Quando se diz que alguém é um trabalhador ou um capitalista, formula -se um juízo de reflexão, 
+no qual “o s ujeito é pressuposto e o predicado posto” ( Fausto , 2002, p. 116), ou seja, existe a passagem 
+do sujeito no predicado -  aquele é negado por este, o sujeito se perde no predicado. Em uma passagem 
+de O Capital , lê-se que “onde a necessidade de vestir o obrigo u, o homem costurou durante milênios, 
+antes de um homem tornar -se alfaiate” ( Marx , 1996a, p. 172); quando isso ocorre tem -se um novo tipo 
+de inversão sujeito -predicado, no qual o “homem” passa a ter como principal determinação a atividade 
+laboral que exerc e, e fica preso a ela como Prometeu às correntes de Hefesto. Os seres humanos não 
+valem socialmente enquanto tais – como o conjunto sempre renovado de suas possibilidades de 
+existência -, mas veem essas possibilidades negadas frente à determinação que lhe é atribuída pelo 
+trabalho que realiza ( Fausto , 1987b). Logo, a universalidade do capital se escora nos escombros da 
+indeterminação humana.   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  34 
+Novamente se evidencia a “natureza antipredicativa do reconhecimento proposto por Marx” 
+(Safatle, 2 015, p. 30), e os ecos dessa concepção da natureza genérica do ser humano, desprovido de uma 
+espécie, por assim dizer, fazem -se ouvir na concepção de Marx sobre o proletariado, a classe dos 
+desprovidos de classe ( Safatle, 2 015, p. 33). Convém insistir sobre essa determinaçã o negativa da classe 
+trabalhadora, caracterizada pelo jovem Marx como “uma classe com grilhões radicais”, cujo lema seria 
+“não sou nada e teria de ser tudo” ( Marx , 2005, p. 154), e que possui “um caráter universal mediante 
+seus sofrimentos universais”, que  não reivindica “nenhum direito particular porque contra ela não se 
+comete uma injustiça particular, mas a injustiça por excelência”, e “que não pode se emancipar sem se 
+emancipar de todas as outras esferas da sociedade e, com isso, sem emancipar todas ess as esferas” ( Marx , 
+2005, p. 156). Trata -se, portanto, da construção de um verdadeiro universalismo – o da emancipação 
+universal -, em oposição ao falso universalismo do capital – aquele da exploração, da opressão e do 
+fetichismo.  
+Dessa perspectiva, em cer to sentido a classe trabalhadora é, por conseguinte, uma não -classe, 
+a negação da própria estrutura de classes – e logo do Estado, que se ergue por sobre seus antagonismos -, concretamente forjada pela exploração e pelo conjunto de opressões às quais é sub metida. Nada mais 
+distante de uma concepção identitária de classe, que se oporia às lutas contra as opressões de cunho 
+racial, patriarcal, sexual, entre outras. Ademais, trata -se de uma classe que não possui uma forma 
+automática de constituição, por meio d o Estado e de todos os aparatos materiais e ideológicos de 
+dominação sobre os trabalhadores, como ocorre com a burguesia, mas que só se erige como classe para -
+si (Marx , 1985) por meio da luta organizada. Donde a possibilidade de conceber a classe como um 
+“acontecimento”, como o faz Thompson (2004) em seu incontornável estudo sobre a “formação da 
+classe operária inglesa”, e de determiná -la por sua ação ou por sua práxis revolucionária, conforme 
+Lukács (2003), no seminal História e Consciência de Classe . 
+No â mbito da madura crítica da economia política, Marx destrincha a clivagem interna à forma 
+capital, trabalho morto que só existe ao vampirizar o trabalho vivo, o “trabalho não- objetivado”, cindido 
+de seus meios de trabalho e de subsistência, numa situação de  “completo despojamento”. Que, não 
+obstante, “positivamente apreendido”, como “atividade”, revela -se a “fonte viva do valor” ou da riqueza 
+social oriunda do duplo caráter do trabalho, tanto em sua dimensão concreta, como v alor de uso, posto 
+pelo trabalho c oncreto, quanto do valor, que tem no trabalho abstrato sua substância. Logo, “ não é de 
+modo algum contraditório que o trabalho seja, por um lado, a pobreza absoluta enquanto objeto e, por 
+outro lado, a possibilidade universal de riqueza enquanto sujeito e atividade ” (Marx , 1993a, p. 296) ; 
+dimensões que se condicionam reciprocamente e dimanam da contradição fundamental entre capital e 
+trabalho .  
+Nesse universo conceitual, a classe trabalhadora se constitui em torno da prática 
+revolucionária, nada menos do que a negação determinada do domínio totalitário do capital, cabe insistir. Tal domínio encontra na autonomização da técnica – uma expressão do fetichismo do capital - um de 
+seus sustentáculos, posto que “a técnica efetua a adaptação ao inanimado a serviço d a autoconservação,  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  35 
+não mais como a magia, através da imitação corporal da natureza externa, mas através da automatização 
+dos processos espirituais, isto é, através de sua transformação em processos cegos” (Adorno;  
+Horkheimer , 2014, p. 149). “Com seu triunf o”, prosseguem os autores, “as manifestações humanas 
+tornam -se ao mesmo tempo controláveis e compulsivas. Da assimilação à natureza resta apenas o 
+enrijecimento contra ela” ( Adorno; Horkheimer , 2014, p. 149).  
+É preciso enfatizar o caráter antagônico dessa situação, pois subjacente a ela encontram- se 
+estruturas sociais desiguais e hierárquicas, uma vez que  “o saber que é poder não conhece nenhuma 
+barreira, nem na escravização da criatura, nem da complacência em face aos senhores do mundo [.. .]. A 
+técnica é a essência desse saber, que não visa conceitos e imagem, nem o prazer do discernimento, mas 
+o método, a utilização do trabalho de outros, o capital ” (Adorno; Horkheimer , 2014, p. 17).  
+Parece necessário dar a essas proposições uma melhor ancoragem histórica e , portanto , 
+cumpre compreender mais a fundo as formas de alienação e servidão que emergem sob o domínio das 
+máquinas, o que exige retroceder alguns passos.  
+O triunfo da racionalidade teleológica  
+Há muito, autores como Hebert Mar cuse constataram que “a dominação se perpetua e se 
+estende não apenas através da tecnologia, mas como tecnologia, e esta garante a grande legitimação do 
+crescente poder político que absorve todas as esferas da cultura” ( Marcuse , 1973, p. 154), e que “ proje ta 
+uma totalidade histórica, um “mundo” ( Marcuse , 1973, p. 150), reduzindo o mundo a “material da 
+administração total” ( Marcuse , 1973, p. 162).  
+Não é possível expor, em profundidade, a crítica da razão e do progresso feita pela Teoria 
+Crítica, mas é forço so evocar alguns de seus aspectos, em particular aqueles que marcam a clivagem 
+moderna entre sujeito e objeto. Como se sabe, em Dialética do Iluminismo  Adorno; Horkheimer  localizaram 
+um fundamento comum entre o mito e o Iluminismo; ambos resultariam de uma  tentativa de se livrar 
+do medo, buscando compreender e controlar fenômenos naturais e sociais ameaçadores. Porém, um 
+abismo os separa: as práticas animistas e o mito apelavam a forças suprassensíveis, e ao mesmo tempo 
+que afirmavam a submissão humana a tais forças, admitiam de certo modo o atravessamento dos 
+indivíduos por elas, alterando e ampliando suas capacidades e seu horizonte existencial. Da perspectiva 
+do Iluminismo, por sua vez, esse lugar subalterno e essa porosidade das fronteiras entre o humano e o 
+não-humano se afiguravam como um apavorante triunfo da natureza. Era necessário desencantar o 
+mundo e extirpar os mitos, por meio da razão (Adorno; Horkheimer , 2014, p. 16).  
+Isso implica na criação de um fosso entre o humano e a natureza, e para tanto “as múltiplas 
+afinidades entre os entes são recalcadas pela única relação entre o sujeito doador de sentido e o objeto 
+sem sentido, entre o significado racional e o portador ocasional do significado” (Adorno; Horkheimer , 
+2014, p. 21). A tentativa de esta belecer uma clivagem entre humanidade e natureza, colocando -se acima 
+da natureza e reduzindo -a à matéria de manipulação, ricocheteia e atinge em cheio o sujeito, ele próprio  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  36 
+natureza. O dano é duplo: das múltiplas possibilidades de relação entre seres huma nos e natureza, e entre 
+seres humanos entre si, prevalece apenas o ato de devorar e submeter, apenas dominação e servidão 
+(Adorno; Horkheimer , 2014, p. 23).  
+Ao nada entregar ao objeto, o sujeito se esvazia, e, ironicamente, submete -se ainda mais aos 
+ditam es da natureza : a primeira natureza , que tem se apresentado na forma de eventos climáticos extremos 
+e na perspectiva de um cataclisma ambiental, e a segunda natureza , aquela das formas sociais fetichistas, 
+que tem se apresentado na forma de crises, desigualdade, miséria, guerras e tantas outras. É  por isso que 
+“a terra totalmente esclarecida resplandece sob o signo de uma calamidade triunfal” ( Adorno; 
+Horkheimer , 2014, p. 18), e que “a humanidade, em vez de entrar em um estado verdadeiramente 
+humano, está se afundando em uma nova espécie de barbárie” (Adorno; Horkheimer , 2014. p.  11).  
+O propalado progresso da razão , assim, dá -se às custas do enrijecimento subjetivo e da repressão 
+das afinidades miméticas  próprias a esses seres que, vítimas do descuido de Epimeteu, lograram sobreviver 
+graças ao dote da indeterminação e de sua interação radical com o Outro. A constituição de uma sociedade hierárquica, desigual, e com pre tensões imperiais pressupôs a domesticação do fogo de Héstia 
+e sua conversão em um instrumento de entrincheiramento contra a alteridade. Conforme a argumentação 
+de Elias Canetti (2019, p. 258), uma das características fundamentais do poder, que em sua acep ção se 
+confunde com dominação, é a de que ele, “em seu cerne e seu ápice, despreza a metamorfose. Ele se 
+basta a si mesmo; quer apenas a si mesmo. Sob essa forma, ele pareceu notável aos homens; absoluto e 
+irresponsável, ele não existe em função de coisa o u pessoa alguma”, exercendo sobre todos “seu maior 
+fascínio”.  
+O poder exige, portanto, que as metamorfoses sejam proscritas, sobretudo as de cunho social, 
+posto que “toda e qualquer hierarquia somente se faz possível sob tais proibições” ( Canetti , 2019, p.  
+480). Para ilustrá -lo, Canetti contrapõe o caso do xamã, em que “a metamorfose é intensificada e 
+explorada ao máximo”, ao do rei, em que “ela é proibida e impedida, conduzindo ao seu total enrijecimento. O rei tem de permanecer em tal medida idêntico a si  mesmo que não pode sequer 
+envelhecer” ( Canetti , 2019, p. 482) , assim como as vedetes da indústria cultural. Nesse sentido, o poder 
+possui uma natureza identitária que lhe é inerente.  
+Entretanto, recorda Benjamin (1996b, p. 108) em “A doutrina das semelhan ças”, o homem 
+“tem a capacidade suprema de produzir semelhanças. Na verdade, talvez não haja nenhuma de suas 
+funções superiores que não seja decisivamente codeterminada pela faculdade mimética. Essa faculdade 
+tem uma história, tanto em sentido filogenético como ontogenético”
+3. Isso se revela nos jogos infantis, 
+que “são impregnados de comportamentos miméticos” ( Benjamin , 1996b, p. 108), de tal forma que “a 
+criança não brinca apenas de ser comerciante ou professor, mas também moinho de vento e trem” 
+(Benjam in, 1996b, p. 108).  
+Entende -se, assim, a contundência de Platão quando idealiza um regime político em que 
+“qualquer alteração nos jogos infantis seria proibida: inovando neles, as crianças iriam querer, quando 
+adultas, inovar nas leis e instituições, busc ando um modo de vida distinto ( állon Bíon ) daqueles dos pais”  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  37 
+(Nodari, 2019, p. 14). Ou quando argumenta que “a poesia que mimetiza tanto diálogos elevados quanto 
+baixos, que imita igualmente homens bons e indignos não convém ao nosso governo, porque, em nosso 
+meio, não há homem duplo nem múltiplo e cada um faz somente uma coisa” (P latão apud Nodari , 2019, 
+p. 13). Dessa forma, decreta Platão ( apud Nodari , 2019, p. 13), “em nossa cidade se encontrará o sapateiro 
+sapateiro, e não piloto ao mesmo tempo que sapateiro, o lavrador lavrador, e não juiz ao mesmo tempo 
+que lavrador, o guerreiro guerreiro e não comerciante ao mesmo tempo que guerreiro”.  
+Não poderia haver distância maior entre tais proposições e aquelas que constituem uma 
+arquiconhecida passagem de A Ideologia Alemã , na qual Marx e Engels imaginam uma formação social 
+emancipada, em que as pessoas se constituem ao desempenhar diversas atividades, que não se convertem 
+em predicados aprisionadores, mas sim em abertura existencial4. Como artifício retóric o, Platão irá 
+mobilizar o terror diante da ameaça da húbris  que prevaleceria em todas as dimensões da vida social num 
+contexto em que se despreza a mediação “da opinião de homens melhores”, e em que se recusa “ser 
+súdito dos governantes” (P latão apud Nodari , 2017, p. 14). O antídoto seria “a censura prévia, por juízes 
+nomeados como legisladores da música e supervisores da educação” ( Nodari , 2019, p. 14).  
+Como se sabe, na modernidade a negação da mimesis e da alteridade, em prol da dominação 
+total da n atureza, assume, entre outras, a forma de racionalização . Um pensador como Weber, como “fiel 
+megafone de sua classe” ( Adorno, 1995b, p. 222), em grande medida circunscreveu a racionalidade 
+moderna à concatenação entre meios e fins, e  baniu a avaliação sobr e tais fins do domínio científico, já 
+que este haveria de ser “isento de valores”. Dessa perspectiva, “a finalidade da paz e da eliminação dos antagonismos que a impedem ‘ ad calendas graecas ’ é irracional” ( Adorno , 1995b, p. 222), ao passo que o 
+aprisionamento da humanidade na jaula de ferro da burocracia é racional. Ou seja, Weber “virou de 
+cabeça para baixo a relação de racionalidade e irracionalidade. Como por vingança, a racionalidade de 
+meios para fins inverte -se nele dialeticamente” ( Adorno, 1995b, p.  222).   
+As “lúgubres implicações” desse tipo de inversão não tardariam a se manifestar, em meio às 
+Guerras Mundiais. Seja a indústria do genocídio nazista, seja a produção da bomba atômica por meio do 
+Projeto Manhattan, e mesmo seu uso contra a população c ivil de um país virtualmente derrotado, seriam 
+perfeitamente racionais no sentido weberiano. Ora, tomar por racional uma tecnologia capaz de extinguir 
+a humanidade, e eventualmente de extirpar a vida na terra, é algo “irracionalmente delirante”, o que 
+cond uz a drásticas conclusões, se refletido de modo consequente. Uma delas foi exposta por Walter 
+Benjamin, ao tratar das “teorias do fascismo alemão”, ainda em 1930; segundo ele, “a guerra imperialista 
+é codeterminada, no que ela tem de mais duro e de mais fa tídico, pela distância abissal entre os meios 
+gigantescos de que dispõe a técnica, por um lado, e sua débil capacidade de esclarecer questões morais, por outro” ( Benjamin , 1996c, p. 61). Desse modo, a  guerra total “prova com suas devastações que a 
+realidad e social não está madura para transformar a técnica em seu órgão e que a técnica não é 
+suficientemente forte para dominar as forças elementares da sociedade” ( Benjamin , 1996c, p. 61).  
+Logo, o progresso realmente existente tende a promover a emancipação da técnica, e não da 
+humanidade. Em seu bojo, a técnica emerge como uma segunda natureza que produz o silenciamento  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  38 
+da primeira natureza, e desvela seu rosto apocalíptico ( Benjamin , 1996d). Os nexos entre progresso 
+técnico -material e regressão social, ou melh or, entre civilização e barbárie, revelam -se de modo 
+particularmente agudo nas crises econômicas e nas guerras, inerentes à dinâmica de acumulação de 
+capital.  
+Acumulação de capital, progresso técnico e regressão social  
+A contradição própria à constituiçã o do capital enquanto totalidade - o movimento de inclusão 
+e negação do trabalho, e a conversão do trabalho em carência plena (pelo despojamento dos meios de produção) e em fonte absoluta da riqueza social, na condição de substância do valor -, determinará  todos 
+os momentos de sua conceituação, e marcará processos sociais de grande alcance. Em sua sede insaciável por mais -trabalho, no âmbito da produção imediata, o capital evolve a partir de três impulsos 
+fundamentais: o de aumentar ao máximo a jornada de trabalho e intensificá -lo, o que correspondente à 
+extração de mais -valia absoluta ( Marx , 1996a, cap.8); o de reduzir o tempo de trabalho necessário, 
+barateando os produtos que fazem parte do consumo dos trabalhadores, a mais -valia relativa -  que está 
+na base da tendência ao aumento da composição orgânica do capital, da relação entre capital constante 
+e capital variável ( Marx , 1996a, cap.10 e Marx , 1996b, cap.23); e o de aumentar a base da produção de 
+mais-valia, por meio do emprego da maior quantidade pos sível de trabalho, o que remonta à tendência 
+à concentração e à centralização do capital, e por conseguinte ao processo de produção de uma 
+superpopulação relativa ( Marx , 1996b, cap.23).  
+Nos primórdios do modo de produção capitalista, em meio a múltiplos mecanismos de 
+expropriação e à universalização das formas mercadoria e dinheiro, produziu -se uma população 
+trabalhadora “livre como pássaros”, arrancada da condição de produtores independentes para tornar -se 
+assalariados ( Marx , 1996b, cap.24). Eis que entra em cena a subsunção formal do trabalho ao capital, 
+termo que remete à formalidade do contrato, e à sua indiferença frente ao processo material de trabalho, 
+à atividade concreta dos trabalhadores, cuja “natureza geral” mantém -se por ora intocada  (Marx , 1996a, 
+p. 423). Em meio a esse processo, o capital assume a direção – despótica – do processo produtivo, e 
+todos os ganhos de produtividade que advém da reunião coordenada da força de trabalho em um mesmo 
+espaço – a cooperação simples  – aparecem, d e modo fetichista, como apanágio do próprio capital ( Marx , 
+1996a, cap.11).  
+Logo que estes trabalhadores são postos a trabalhar lado a lado incrementa -se a divisão técnica 
+do trabalho, cujo desenvolvimento é a base e a característica distintiva da manufatur a, que perfaz uma 
+primeira fase histórica do desenvolvimento do capital, cuja forma clássica  predomina entre meados do 
+século XVI até o final do século XVIII ( Marx , 1996a, p. 453). O vigoroso desenvolvimento das forças 
+produtivas que tem aí lugar deve -se, em grande medida, ao aumento da destreza e da eficiência dos 
+trabalhadores, mas também ao fato de que a manufatura permite que as diferentes atividades necessárias 
+à produção das mercadorias ocorram lado a lado, de modo simultâneo e justaposto no espaço.   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  39 
+A base da produção manufatureira é o trabalhador total ou coletivo , a “maquinaria específica do 
+período manufatureiro” (Marx , 1996a, p. 464), resultado da articulação entre um sem -número de 
+trabalhadores parciais . Estes são condenados a exercer atividades cada vez mais especializadas, simplificadas 
+e repetitivas, reduzindo -se à condição de autômatos  e de máquinas , nos termos de Marx (1996a, p. 456). 
+Ou seja, a impossibilidade técnica de automatizar a produção era contornada pela conversão dos 
+produtores dir etos em autômatos. Em todo caso, na manufatura o fundamento segue sendo subjetivo, 
+centrado no processo de trabalho, e predomina aí a extração de mais -valia absoluta.  
+Quanto mais se desenvolve a divisão técnica do trabalho, mais o trabalhador individual é  
+espoliado do conhecimento sobre o conjunto do processo produtivo, que passa a se concentrar em 
+gestores igualmente especializados. Por meio do incremento da exploração, dos ganhos de 
+produtividade, e do controle tecnocrático e coercitivo da produção, o poder fetichista do capital se 
+aprofunda. Não obstante, apesar de todas as revolucionárias inovações que aí se introduz, “o ofício 
+permanece a base [da manufatura – GM]. Essa estreita base técnica exclui uma análise verdadeiramente científica 
+do processo de produção, pois cada processo parcial percorrido pelo produto tem que poder ser realizado como trabalho 
+parcial artesanal ” (Marx , 1996a, p. 455). O impulso expansivo e autorreferenciado do capital, em sua sede 
+desmedida por mais -valia, eventualmente tornou imperativa a criação de um “esqueleto objetivo 
+independente” em relação aos trabalhadores, que garantisse ao processo produtivo uma forma ou uma “existência material adequada” ( Marx , 1996b, p. 52).  
+Assim, enquanto que a fase anterior era caracterizada pel a divisão do trabalho, a grande indústria , 
+que inaugura o modo de produção especificamente capitalista, tem como fator determinante e específico 
+o sistema de máquinas , a automação da produção, e, portanto, a sua autonomização em relação ao 
+trabalhador cole tivo, a negação do processo de trabalho enquanto tal, no interior do -  e pelo próprio - 
+processo produtivo. Para tanto, foi necessário arrancar as ferramentas das mãos dos trabalhadores 
+parciais, e convertê -las em ferramentas de um aparelho mecânico; noutr as palavras, foi necessário, antes 
+de tudo, desenvolver máquinas -ferramenta, o que pressupôs “a análise e aplicação de leis mecânicas e 
+químicas, provenientes diretamente da ciência”, que possibilitou “à maquinaria realizar o mesmo trabalho que era realiza do anteriormente pelo trabalhador” ( Marx , 1993b, p. 704).  
+Foi somente com a realização dessa revolução que o modo de produção “criou sua base técnica 
+adequada e se firmou sobre seus próprios pés” ( Marx , 1996b, p. 19). A partir de então a grande indústria 
+tornou -se “a forma geral, socialmente dominante, do processo de produção” ( Marx , 1996b, p. 139), 
+espalhando- se progressivamente para os distintos ramos produtivos, inclusive na agricultura, a qual é 
+convertida num ramo da indústria como qualquer outro ( Marx, 1996b, p. 132).  
+Entre outros, tratava -se de usurpar os trabalhadores de qualquer controle sobre a produção, 
+minar sua capacidade de luta organizada, e de emancipar o processo produtivo de quaisquer limitações físicas, intelectuais, e morais próprias a eles. Como Marx não se cansa de enfatizar, o ponto fundamental 
+consiste em que a base subjetiva da produção -  o trabalhador total da manufatura - , que tantas 
+dificuldades impunha ao desenvolvimento da produção capitalista, deve ser suprimida, e em seu lugar,  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  40 
+deve surgir uma b ase objetiva, mediante a aplicação sistemática da ciência à produção ( Marx , 1996b, p. 
+15).  
+Com isso, o trabalhador é reduzido à tarefa de vigiar a máquina, zelando para que a produção 
+siga seu curso normal ( Marx , 1996b, p. 67): emerge assim a figura do tr abalhador -apêndice ( Marx , 1996b, 
+p. 55), que se torna escravo da máquina parcial, condenado a assisti -la ao longo de toda a sua jornada. 
+Na medida em que espolia o trabalho de seu conteúdo e, ao trabalhador, “confisca toda a livre atividade 
+corpórea e espi ritual”, o sistema de máquinas, esse “monstro animado”, torna -se um novo “meio de 
+tortura” e de escravidão dos trabalhadores ( Marx , 1996b, p. 55), os quais têm sua participação no 
+processo produtivo tendencialmente reduzida a uma única tarefa, ou a tarefas  de uma mesma natureza. 
+É por isso que enquanto na fase imediatamente anterior da produção capitalista se falava em 
+“trabalhadores parciais”; em “órgãos” ou em “órgão automático unilateral” da produção; em “acessório 
+da oficina”; em “autômatos”; em “máquin as” ou em “maquinaria específica” da manufatura; aqui se fala 
+de “ajudante”; “servente”; “assistente”; “vigia”; “supervisor”; de “meras conexões conscientes” da 
+máquina ou de várias máquinas; ou simplesmente de “apêndices”. Revolucionado em todas as suas 
+dimensões, o processo produtivo sob a grande indústria corresponde à subsunção real do trabalho ao 
+capital, por meio da qual o domínio do trabalho morto sobre o trabalho vivo se torna uma “verdade tecnológica” ( Marx , 1994, p. 109).  
+Novamente, todo esse dese nvolvimento técnico -científico e essas revoluções no processo 
+produtivo aparecem como imanentes ao capital. Objetivado no sistema de máquinas, este adquire uma existência material adequada a seu conceito, e torna -se “autocrata”, de tal modo que o processo de 
+produção, quase que totalmente objetivo, se subjetiva, e rebaixa ainda mais a condição do trabalho vivo. 
+Essa autonomização do capital ensejou a concatenação entre a mais -valia absoluta, lograda por meio da 
+aceleração dos ritmos produtivos e pela possibilidade técnica de uma produção ininterrupta, cada vez 
+mais emancipada dos limites do dia e da noite e dos ritmos sazonais, e a mais -valia relativa, em função 
+dos colossais potenciais produtivos assim liberados. Verifica -se na grande indústria, por consegu inte, o 
+aprofundamento e a generalização do fetichismo próprio ao processo produtivo, que vinha se desenvolvendo desde a cooperação simples, fazendo com que a subjetivação do capital adquira uma 
+realidade palpável e aparentemente absoluta ( Marx , 1996b, p. 56).  
+Com o avanço da autonomização do capital, acirra -se também seu caráter de contradição em 
+processo. Afinal, sob sua égide,  “o meio – desenvolvimento ilimitado das forças produtivas sociais – em 
+caráter permanente conflita com o objetivo limitado, a val orização do capital existente ” (Marx , 1984, p. 
+189, tradução modificada).
+ Em maior ou menor medida, tais relações sociais e a dinâmica da reprodução 
+social como um todo se modificam à medida que o capital evolve. Convém, então, reconhecer que a análise mar xiana sobre a manufatura e a grande indústria fornece importantes aportes para a 
+discriminação e caracterização das fases do desenvolvimento capitalista, a partir das tendências 
+fundamentais da acumulação de capital, que, ao que tudo indica, só fizeram int ensificar nas últimas 
+décadas. Apesar de ser esta uma das grandes tarefas encampadas pela tradição marxista, poucos são os  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  41 
+autores desse campo que atribuem à análise marxiana sobre a subsunção formal e real do trabalho ao 
+capital a relevância que lhe parec e devida. Na última parte desta sessão e na próxima, cumpre destacar 
+essa relevância e sua atualidade a partir da reflexão sobre alguns fenômenos contemporâneos.  
+Transnacionalização do Capital, Automação Produtiva e Revoluções Tecnocientíficas  
+O desenvolvi mento da produção sob a égide do capital exige uma crescente integração e 
+coordenação entre mercados e unidades produtivas, de uma escala local até a mundial, constituindo uma 
+complexa estrutura de produção e circulação que pressupõe o incessante aprimoram ento dos fluxos de 
+capital em suas distintas formas funcionais (capital- mercadoria, capital -dinheiro e capital -produtivo). 
+Para tanto, faz -se necessário aprimorar, por um lado, os sistemas de produção, processamento e 
+transmissão de informações, bem como os instrumentos de cálculo. Por outro, deve -se desenvolver 
+mecanismos estatais e privados de coordenação, de planejamento e de construção das condições gerais 
+de produção, de tal modo que, diferentemente do que sói apregoar o liberalismo, concorrência merca ntil 
+e planejamento são indissociáveis (Bernardo , 2009).  
+No capitalismo contemporâneo, a dinâmica da acumulação se caracteriza pelo 
+desenvolvimento de cadeias produtivas espacialmente dispersas, por vezes entre distintos continentes. 
+As diretrizes dos cen tros gestores são transmitidas em tempo real, a partir do processamento de grandes 
+volumes de informações obtidos das unidades empresariais, a partir de um estrito controle informatizado 
+do processo produtivo. Para tanto, faz -se necessário controla -lo rigo rosamente, o que inclui os fluxos e 
+estoques de mercadorias finais, bem como de matérias -primas, materiais auxiliares, meios de produção 
+e de força de trabalho, o que, por sua vez, envolve o esquadrinhamento da atuação de cada empregado, 
+submetidos a um ri goroso sistema de vigilância e avaliação. O desenvolvimento da telemática, da big data  
+e da inteligência artificial – na forma da cloud manufacturing , da industrial internet of things , e outras inovações 
+imersas em mistificações – é, por conseguinte, ao mesmo tempo uma exigência e um produto da 
+transnacionalização do capital, que ensejam a estruturação de complexas redes de terceirização e 
+subcontratação.  
+Por outro lado, esse sistema de informação e controle não se circunscreve ao espaço produtivo, 
+esprai ando -se para todas as esferas da vida social, e aperfeiçoando as funções disciplinares e de 
+condicionamento e controle de comportamentos e escolhas individuais, próprias à gestão empresarial e 
+à indústria cultural, mas também às estruturas repressivas priv adas e estatais. Ele atua, portanto, nas ruas, 
+lojas, praças, e mesmo no espaço doméstico. Assim, "pela primeira vez na história o processo de trabalho 
+e o período de repouso fundiram- se com o processo de fiscalização, fazendo com que exploração e 
+opressão se juntem num quadro tecnológico único" ( Bernardo , 2018, p. 1372), e que a população 
+trabalhadora seja monitorada e condicionada pelo mesmo arcabouço tecnológico tanto no tempo de trabalho quanto no de não- trabalho.   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  42 
+Como argumenta ainda João Bernardo (20 14), seria possível traçar uma espécie de linha 
+evolutiva, sobretudo a partir de demandas econômicas e bélicas, que atualmente se efetivaria no 
+desenvolvimento de computadores quânticos, tecnologia 5G, e no entrecruzamento entre big data e 
+inteligência art ificial, mas que remontaria, de um lado, aos correios, telégrafos mecânico e elétrico, 
+telefone, rádio, telex, e, de outro, às calculadoras mecânicas do século XVII, às máquinas calculadoras, 
+como o engenho analítico de Charles Babbage e a máquina de Alan Turing, em meio ao desenvolvimento 
+de cada vez mais sofisticados mecanismos de criptografia e descriptografia. Não obstante, essa mirada evolucionista tenderia a dissimular o caráter revolucionário das inovações ora em curso, posto que, 
+“depois da domestic ação do fogo e da invenção da roda, o conjunto formado pelos computadores 
+pessoais e a internet constitui talvez a tecnologia mais versátil criada pela humanidade” ( Bernardo , 2014, 
+p. 2), cujos potenciais estão muito longe de serem esgotados.  
+Em todo caso, como não poderia deixar de ser, também a ossatura material do capital, no 
+espaço produtivo, está imersa nesse processo expansivo. Na condição de principal estofo objetivo do 
+capital, o sistema automático de máquinas também possui a tendência a se reprodu zir em escala ampliada, 
+por meio da transnacionalização produtiva. É essa a tendência que seria apreendida por Günther Anders 
+por meio da figura da “megamáquina”, transpondo para as máquinas as determinações próprias ao 
+capital, enquanto sujeito automático . Assim, propõe ele, “a sede de acumulação das máquinas é 
+insaciável” ( Anders , 2001, p. 29), de tal modo que o planeta “está no caminho de se converter em uma 
+máquina” ( Anders , 2001, p. 29), baseado no “princípio do máximo rendimento”.  
+Nessa acepção, cada máquina “cria seu próprio império colonial de serviços (composto por 
+pessoal auxiliar, pessoal de serviço, consumidores, etc.)”, que são moldados à sua imagem e semelhança. 
+Ness e processo pautado pelo princípio da “conquista total”, os domínios de uma máquina tendem a se 
+imbricar com os das demais, constituindo assim a “megamáquina” (Anders , 2001, p. 30), ela mesma 
+imperialista e insaciável. Ainda nas palavras de Anders (2001, p.  30-1), “o que as máquinas desejam é 
+uma situação na qual já não exista nada que não se conecte a elas, nada que já não seja ‘comaquinal’”.  
+Esse “estado técnico -totalitário” do mundo como máquina “é o império quiliástico com que todas as 
+máquinas sonharam,  desde a primeira delas; e que hoje realmente temos diante de nós, porque há 
+algumas décadas essa evolução entrou em uma aceleração cada vez mais vertiginosa” ( Anders , 2001, p. 
+31-2).  
+Günther Anders (2011b, p. 32) caracteriza a quarta revolução tecnocient ífica pela tendência a 
+tornar a população trabalhadora supérflua, “a substituir seu trabalho pelo automatismo dos aparatos”, 
+enfim, a produzir a obsolescência da humanidade, que se torna puro objeto de manipulação do capital, 
+objetificado na megamáquina. Dessa forma, sua época seria a de um “canibalismo pós -civilizador” 
+(Anders , 2011b, p. 32), marcada pela vergonha  e pela discrepância prometeicas . Diante da inaudita capacidade 
+produtiva das máquinas, que lhes afiguraria superiores, os trabalhadores -apêndice s e a superpopulação 
+relativa deplorariam seus limites naturais e orgânicos. Sua condição reificada expressar -se-ia, 
+subjetivamente, numa espécie de complexo de inferioridade diante dos autômatos aos quais são  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  43 
+submetidos na condição de trabalhadores e cons umidores, e em um  desejo de elevar -se, eles próprios, à 
+condição de autômatos5.  
+Já sobre a discrepância prometeica cabe uma consideração um pouco mais detida, para os 
+propósitos deste artigo. Em sua nona Tese sobre a era atômica , Anders (2013) propõe que  “somos utopistas 
+invertidos”, já que a utopia supõe a capacidade de imaginar uma realidade reconciliada ou de projetar no 
+presente um futuro superior, mas irrealizável nas condições atuais. Na construção de utopias, numa 
+palavra, encontra -se a capacidade de imaginar situações que extrapolam as condições de sua produção, 
+ao passo que, em condições modernas, diante de forças produtivas inauditas “somos incapazes de 
+imaginar o que estamos de fato produzindo” (Anders , 2013). Assim, Aristóteles ( apud Marx , 1996b, p. 
+41) pudera especular que,  
+se cada ferramenta, obedecendo às ordens ou mesmo pressentindo-as, pudesse 
+realizar a obra que lhe coubesse, como os engenhos de Dédalo que se movimentavam por si mesmos, ou as trípodes de Hefesto que iam por si mesmas ao trabalho sagrado, se as lançadeiras tecessem por si mesmas, não seriam, então, necessários auxiliares para o mestre -artesão nem escravos para o senhor .  
+Ao passo que hoje, quando tais elucubrações se afiguram banais diante do sistema de máquinas 
+automático, bloqueou -se a capacidade de conceber uma sociedade sem classes e sem o jugo do capital. 
+Assim, sob a égide do fetichismo do capital, a capacidade humana de imaginar se encontra em razão 
+inversamente proporcional à capacidade de produzir. Ou mel hor, “entre nossa capacidade de fabricação 
+e nossa faculdade de representação abriu -se um abismo, e que cada dia este se faz maior” ( Anders , 2001, 
+p. 17). Mas não só a capacidade de representação se encontra comprometida. Junto com ela se perde a 
+capacidad e de percepção, pois “no momento em que os efeitos de nosso trabalho ou de nossa ação 
+ultrapassam certa magnitude ou certo grau de mediação, começam a se tornar obscuros para nós” 
+(Anders , 2001, p. 17 -8). Numa reação em cadeia, o mesmo vale para a capacidade de sentir, afinal, 
+“quanto maior o possível efeito de nossas ações, menos somos capazes de visualizá -lo, arrepender -nos 
+dele ou sentir -nos responsáveis por ele; quanto maior o hiato, mais fraco o mecanismo de freio” (Anders , 
+2013), e assim, o “sentiment o deixou de estar à altura da responsabilidade” ( Anders , 2013). Diante disso, 
+Anders estabelece a seguinte “regra”: “se aquilo ao que dever -se-ia propriamente reagir torna -se 
+desmedido, também nossa capacidade de sentir desvanece” ( Anders , 2001, p. 19), o que implica em 
+indiferença em relação a qualquer tipo de alteridade, real ou imaginária.  
+As consequências daquele triplo comprometimento das faculdades humanas são mais do que 
+temerárias, pois tornariam inevitáveis a repetição e o incremento daquilo que a humanidade produziu de pior (Anders , 2001, p. 22). Nesse ponto, Anders converge com Adorno quando este assevera que, 
+“estando na civilização do mais alto desenvolvimento tecnológico, as pessoas se encontram atrasadas de 
+um modo peculiarmente disforme em re lação a sua própria civilização” ( Adorno, 1995a, p. 155). Afinal, 
+como assevera o insuspeito Antônio Cândido (2012, p. 13 ), “todos sabemos que a nossa época é 
+profundamente bárbara, embora se trate de uma barbárie ligada ao máximo de civilização”.   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  44 
+Há décadas, escritores de ficção científica e diversos pensadores auspiciam cenários extremos 
+nos quais poderosas máquinas inteligentes adquirem autonomia, com consequências desastrosas para 
+seus criadores. Parte importante do debate sobre a inteligência artificial gira em torno dessa perspectiva, 
+como outrora ocorrera, não sem razão, com as tecnologias genéticas e com o domínio do átomo. Não 
+obstante, outras questões se colocam num horizonte mais imediato: o domínio oligopolístico sobre essas  
+tecnologias e seu papel central no jogo concorrencial contemporâneo, que catapulta os processos de concentração e centralização de capital e ampliam sobremaneira o poder político e econômico das grandes corporações que as detém, fazem com que seus códigos  e sua estrutura sejam ainda mais sigilosos 
+e opacos. Além disso, praticamente inexiste o controle social sobre o uso das informações açambarcadas 
+por meio dos serviços que tais corporações oferecem, e seus sistemas de armazenamento já 
+demonstravam grandes  vulnerabilidades, levando ao vazamento de informações confidenciais. Diante 
+desses riscos de curto prazo, aqueles de médio e longo prazo são reforçados, uma vez que, assim como no caso das tecnologias atômicas, as decisões relevantes permanecem apanágio d e tecnocratas –  
+personificações do capital, premidos pelos ditames da competição -  que deploram qualquer tipo de 
+restrição ao seu poder, ainda mais em nome de preceitos democráticos ou algo que o valha.  
+A atualidade da subsunção real do trabalho ao capital  
+É amplamente reconhecido que no último quarto do século XX o capitalismo adentrou uma 
+nova fase de desenvolvimento, que alimentou vastos debates em torno de temas como o da globalização, 
+da pós -modernidade, da financeirização, do neoliberalismo, bem como o do capitalismo pós -industrial, 
+cognitivo, informacional etc., da sociedade em rede, do trabalho imaterial, ou mais recentemente, do 
+capitalismo de vigilância, da uberização e da plataformização do trabalho, e que tais. A própria 
+multiplicação de termos e  categorias indica uma fragmentação do debate e a carência de marcos teóricos 
+que possibilitem a constituição de um campo comum de intelecção.  
+Na contramão dessa tendência, da perspectiva aqui esposada, a detida consideração sobre a 
+crítica marxiana da eco nomia política, e em particular sobre a sessão de O Capital  dedicada à mais -valia 
+relativa, seria bastante salutar, e evitaria falsas querelas. Mesmo no campo marxista, essa parte da obra 
+de Marx é comumente subestimada: em geral, é interpretada como uma d igressão histórica acerca de 
+uma época há muito superada, ignorando -se assim sua natureza lógico -conceitual, e por conseguinte as 
+tendências seculares da acumulação de capital lá expostas.  
+Por vezes, considera -se que a análise da grande indústria e da sub sunção real do trabalho ao 
+capital é uma descrição da revolução industrial inglesa que seria válida até meados do século XIX, e teria 
+sido superada pelo advento do taylorismo -fordismo, na virada do século XIX para o XX, tornando- se 
+ainda mais anacrônica an te fenômenos como o da reestruturação produtiva de cunho toyotista, no último 
+quartel do século XX, e o da dita plataformização do trabalho, ora em curso (cf. Canettieri , 2023, p. 8). 
+Noutros caso, compreende -se que a análise marxiana se coaduna, ou chega mesmo a ser uma descrição  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  45 
+rigorosa e quase premonitória do taylorismo- fordismo, mas que também teria sido avassalada pelos 
+desenvolvimentos tecnológicos, organizacionais, institucionais etc. introduzidos na segunda metade do 
+século passado (C oriat, 1976). Mesmo dentre os que reconhecem a relevância conceitual de categorias 
+como a da subsunção real do trabalho ao capital, predomina a tendência a tomá -la em sentido 
+excessivamente lato, quase como mero sinônimo de dominação, controle ou gestão do trabalho 
+(Cavalcante, 2014; F ilgueiras ; Dutra, 2021).  
+ Além da tendência a se ignorar as especificidades do método de exposição de O Capital , que 
+favorece a difusão de leituras historicistas, a desventurada recepção dessa importante passagem da obra de Marx se deve à complexa trajetória histórica do modo de produção capitalista. Se por um lado a 
+grande indústria se ergueu sobre bases pretéritas, muitas das quais herdadas da manufatura, mas também 
+de outros modos de produção; por outro, ela sempre conviveu, por vezes de  modo conflituoso, com 
+outras formas de produção, com as quais estabeleceu múltiplas articulações. Nalguns momentos, a grande indústria inclusive produziu ou catalisou tais formas de produção, como é o caso da moderna 
+produção domiciliar , o “departamento externo da fábrica, da manufatura ou da grande loja” ( Marx , 1996b, 
+p. 92),  que alimentou a marcha triunfal do capital com o sobretrabalho extraído de famílias inteiras, que 
+passavam a noite fiando, costurando ou fabricando sapatos em suas casa s. Da mesma forma, o sistema 
+de máquinas estimulou a utilização de máquinas no interior das manufaturas, que nem por isso perderam 
+seus caracteres distintivos ( Marx , 1994, p. 105).  
+Ter isso em vista é decisivo para compreender uma evolução histórica contra intuitiva, que 
+marcou o capitalismo no final do século XIX e em boa parte do século XX. Conforme a argumentação 
+de Benedito de Moraes Neto (1991), alguns dos principais ramos da produção nesse longo período 
+desenvolveram -se sob a base da manufatura heterog ênea, e não da grande indústria. A esteira rolante, 
+símbolo do fordismo, e o esquadrinhamento dos movimentos dos operários, objeto fundamental da dita 
+gerência científica, são meios de controlar e intensificar o processo de trabalho e de reduzir os poros d a 
+jornada de trabalho, em um contexto em que o esteio da produção é o trabalhador coletivo. Dito de outro modo, são esforços para “objetivar o fator subjetivo, o trabalho vivo” (M oraes Neto, 1991, p. 34), 
+desiderato anacrônico da perspectiva do sistema de máquinas.  
+ Nesse sentido, salta à vista a semelhança entre a figura do trabalhador fordista encenado por 
+Chaplin em Tempos Modernos  e a descrição de Marx do trabalhador da manufatura, o trabalhador -máquina 
+que repete incessantemente os mesmos movimentos si mples; o trabalhador mutilado, negado em seus 
+multilaterais impulsos vitais, que mobiliza suas ferramentas também parciais e intervém nos objetos de trabalho com seus músculos, nervos, cérebros, mãos, etc., amoldados e condicionados a realizar a mesma 
+atividade da maneira mais intensa e acelerada possível; o trabalhador virtuosi  em sua função parcial, e 
+incapaz de realizar qualquer outra. Nada a ver com o trabalhador -apêndice, vigia e guardião das 
+máquinas, que lhe teve as ferramentas arrancadas de suas mão s. Foi necessário o desenvolvimento da 
+robótica e da telemática, na esteira da revolução microeletrônica, para que indústrias como a  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  46 
+automobilística e a de eletroeletrônicos, carros -chefes da produção capitalista ao longo de boa parte do 
+século XX, adentra ssem os trilhos da grande indústria.  
+Com o desenvolvimento de tecnologias como a big data, a inteligência artificial, e as 
+plataformas digitais, entre outras, surgem as condições de um novo salto no alcance da subsunção real 
+do trabalho ao capital, que ten de a adentrar domínios outrora indevassáveis, catapultando a composição 
+orgânica e a substituição do trabalho por máquinas em áreas tão diversas como a da educação escolar, 
+da medicina, do direito, do turismo, do transporte, da gestão estatal e privada etc ., incluindo, portanto, 
+atividades que tradicionalmente exigem elevado nível de qualificação e que até há pouco eram inatingíveis 
+pelos algoritmos e pela automação. Não obstante, também aqui se está diante de fenômenos 
+aparentemente paradoxais, cuja anális e exige uma adequada fundamentação categorial, que só tem a se 
+beneficiar com os aportes da crítica da economia política. Se não, vejamos.  
+Nos últimos anos, as plataformas digitais promoveram uma atualização da indústria domiciliar 
+moderna. Se outrora o ca pital movimentava, “por fios invisíveis”, um “exército de trabalhadores 
+domiciliares espalhados pelas grandes cidades e pela zona rural” ( Marx , 1996b, p. 92), agora esses fios se 
+materializam em smartphones e aplicativos, que permitem a exploração centrali zada de miríades de 
+pessoas dispersas pelos quatro cantos do mundo, em atividades de transporte, de microtrabalho, e toda 
+sorte de “freelas” e “bicos”, em geral detentoras de todos os meios de produção, exceto um: o algoritmo 
+da plataforma em questão. Com isso, catapulta -se a centralização de capital e o domínio das grandes 
+corporações produtoras de tecnologia sobre grandes massas de trabalhadores, muitas vezes atomizados 
+e submetidos a uma concorrência atroz, e a um estrito e incessante controle de suas at ividades por meio 
+de verdadeiros panópticos digitais.  
+Predomina, nesse universo, a “forma de salário mais adequada ao modo de produção 
+capitalista” ( Marx , 1996b, p. 186), o salário por peças e por tarefas, que, como se sabe, estimula o 
+engajamento desmedi do e a internalização da disciplina por parte da população trabalhadora, com 
+ganhos de produtividade que eventualmente elevam o tempo de trabalho socialmente necessário a um novo patamar, dando ao capital uma margem para rebaixar as remunerações, num conte xto altamente 
+concorrencial. Além disso, essa forma de assalariamento dá ao capital espaço para toda sorte de fraudes 
+e de arbítrio, pois são as corporações que definem unilateralmente e por critérios obscuros e sempre 
+mutáveis os níveis de remuneração, os  padrões de qualidade, as punições e assim por diante.  
+Porém, há de se notar que a dita plataformização do trabalho incide, principalmente, sobre 
+ramos da produção de base artesanal ou manufatureira. O motorista por aplicativo em busca de corridas 
+e de bo as avaliações, o “educador de máquinas”, aplicando etiquetas a incontáveis imagens diante de um 
+computador, a enfermeira por aplicativo, ávida por auxiliar procedimentos cirúrgicos de maior 
+complexidade, e maior remuneração; a despeito da mediação tecnológ ica, em nenhum desses casos 
+vigora a subsunção real do trabalho ao capital, nem remotamente. Não obstante, a mesma base 
+tecnológica tem sido mobilizada em sentido muito distinto; não para subsumir formalmente o trabalho, 
+e para automatizá- lo ao máximo e controlá -lo em tempo integral, mas também para automatizar  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  47 
+processos outrora dominados pelo trabalho vivo. Desse modo, não deve surpreender o fato de que a 
+mesma empresa que emprestou seu nome ao fenômeno da platamorfização do trabalho investe 
+pesadamente em  carros autônomos. Também nesses casos, vê -se atuar a tendência à universalização do 
+modo de produção especificamente capitalista, tal como proposto por Marx numa etapa em que este 
+vigorava em pouquíssimos ramos.  
+Algumas dessas tendências foram recentement e reconhecidas por autores como Tiago 
+Canettieri (2023), mas sua abordagem comporta problemas que ilustram bem o argumento que se tenta aqui desenvolver. Não convém considerar esse artigo de forma exaustiva, mas apenas considerar algumas 
+passagens dedicadas à distinção marxiana entre cooperação simples, manufatura e grande indústria. 
+Segundo o autor, sob o domínio da subsunção formal do trabalho ao capital parte dos meios de produção 
+permanecem como propriedade dos produtores diretos, que seriam “ self-emplo yed” [autoempregados] 
+(Canettieri , 2023, p. 11) - termo que ele atribui a Marx, mas que em O Capital  só aparece no capítulo 
+sobre a acumulação primitiva, que como se sabe não tematiza a subsunção formal, e que no manuscrito 
+Capítulo Sexto:  Resultados do Processo Imediato de Produção , publicado no Brasil sob o título Capítulo Sexto 
+(inédito) , aparece numa passagem dedicada a relações sociais não -capitalistas ( Marx , 1993b, p. 446). E mais, 
+ainda segundo Canettieri (2023, p. 11), no âmbito da subsunção formal do trabalho ao capital a coerção para a extração de mais -valia dependeria de mecanismos que estariam fora do processo produtivo. Isso 
+apesar dele mesmo recordar que Marx (1 993b, p.429) toma a “mais -valia absoluta como a expressão 
+material da subsunção formal do trabalho ao capital”, e a mais -valia relativa como expressão da 
+subsunção real do trabalho ao capital.  
+Na sequência do texto ora em vista, a subsunção real é apresent ada como a conversão dos 
+trabalhadores em apêndices do aparato produtivo, o que de fato corresponde à análise marxiana. O problema é que, nessa síntese, desconsidera -se o principal, que é justamente a forma como isso se dá. A 
+incompreensão salta à vista qu ando ele sustenta que é algo similar ao que ocorre em plataformas digitais 
+como a da Uber, que exercem “um poder alienado sobre os usuários e colaboradores” (Canettieri , 2023, 
+p. 11), e quando introduz a noção de “subsunção algorítmica da viração”, que ser ia uma combinação da 
+subsunção formal e real do trabalho ao capital. Ou seja, as pessoas aí subordinadas possuiriam parte dos 
+meios de produção, empregariam a si próprias, ao mesmo tempo em que estariam submetidas a estritos 
+critérios de produtividade -  que seriam impostos pelo desenvolvimento tecnológico ( Canettieri , 2023, p. 
+12), e não pela dinâmica da acumulação.  
+Por ter exposto erroneamente as categorias marxianas, Canettieri (2023, p.15) é levado a 
+identificar uma nova forma de subsunção, a algorítmic a, que seria “não apenas formal ou real, mas total” 
+- estranhamente opondo real a total, sem precisar o sentido do termo - , ao invés de compreender as mais 
+recentes revoluções tecnocientíficas como meios de desdobrar e generalizar a subsunção real do traba lho 
+ao capital. Reside justamente aí um fundamento de fenômenos contemporâneos decisivos, que tanto 
+interessam o autor, como o incremento da composição orgânica do capital, a ampliação da 
+superpopulação relativa, a expansão do pauperismo, a precarização do  trabalho, a queda das taxas médias  
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  48 
+de lucro, e consequentemente das taxas de acumulação de capital, que engendram a tendência estagnante 
+da economia mundial, a primazia da busca por apropriação de mais -valia na forma de juros, dividendos, 
+ganhos de capita l, e das distintas modalidades de renda, que explicam a proeminência assumida pela 
+dimensão fictícia da acumulação e pela centralização de capital, bem como as crescentes vicissitudes da 
+reprodução ampliada do capital.  
+Considerações finais  
+É imperiosa a compreensão sobre a natureza, as tendências evolutivas e os impactos sociais 
+do atual padrão de desenvolvimento tecnológico. Não obstante, predomina no debate contemporâneo, 
+mesmo o acadêmico, os traços impressionistas, apologéticos ou escatológicos, por vezes infundidos pelas 
+próprias corporações que buscam açambarcar a produção tecnológica.  
+A crítica da economia política milita contra essa tendência, ao afirmar o caráter historicamente 
+determinado e buscar os fundamentos sociais da tecnolog ia, em articulação com as determinações e 
+tendências elementares da acumulação de capital, o sujeito automático que tende a tudo dominar e a se 
+entronizar como totalidade social, em todos os lugares onde predomina o modo de produção capitalista. 
+Nessa sear a, como se buscou demonstrar, as proposições marxianas sobre a grande indústria e sobre a 
+subsunção real do trabalho ao capital possuem particular relevância, o que é pouco reconhecido mesmo 
+no campo marxista.  
+Atualmente  com frequência se tem afirmado que a ação antrópica, tecnologicamente mediada, 
+converteu -se em uma força geológica, catalisando, num horizonte de poucas décadas, transformações 
+em âmbito planetário que outrora se davam em uma escala temporal de milhões de anos  (cf. MOORE, 
+2016) . Diante das  mudanças climáticas, da acidificação dos oceanos, da produção de nuvens radioativas, 
+entre outros, somados aos dispositivos tecnológicos capazes de exterminar, num átimo, a humanidade e 
+tantas outras espécies, a crítica da economia política afirma como ta refa de primeira ordem a construção 
+de meios que permitam extirpar o caráter fetichista e os efeitos catastróficos dos sistemas tecnológicos 
+hoje dominantes. Ao mesmo tempo, ela permite compreender que tal objetivo não poderá ser alcançado 
+contra ou a despeito da tecnologia, mas por meio da efetivação de seus potenciais criativos e 
+emancipadores. Ou seja, em meio à produção de novas relações sociais, cumpre arrancar a tecnologia da 
+condição de estofo objetivo do capital, e, portanto, de instrumento de explo ração e espoliação, 
+libertando -se da finalidade sem fim da acumulação em favor de objetivos propriamente humanos.  
+Referências:  
+ADORNO, T. Sobre sujeito e objeto. In: ADORNO, T. Palavras e Sinais. Modelos críticos 2. 
+Petrópolis: Vozes, 1995a.  
+ADORNO, T. Notas marginais sobre teoria e práxis. In: ADORNO, T. Palavras e Sinais. Modelos 
+críticos 2. Petrópolis: Vozes, 1995b.   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  49 
+ADORNO, T.; HORKHEIMER, M. Dialética do Esclarecimento  [recurso eletrônico]. São Paulo: 
+Zahar, 2014.  
+ANDERS, G. Teses para a Era Atômica. Sopro, n.87, 2013. Disponível em: 
+http://culturaebarbarie.org/sopro/outros/anders.html#.XyWskOdv_IU . Acesso em: 12/12/2023.  
+ANDERS, G. La obsolescencia del h ombre (vol.I) . Sobre el alma en la época de la segunda revolución 
+industrial. Valência: Pré -Textos, 2011a.  
+ANDERS, G. La obsolescencia del hombre (volI.I). Sobre la destrucción de la vida en la época de la 
+tercera revolución industrial. Valência: Pré -Texto s, 2011b.  
+ANDERS, G. Nosotros los hijos de Eichmann . Buenos Aires: Paidós, 2001.  
+BENJAMIN, W. Sobre o conceito de história. In: Benjamin, W. Magia e técnica, arte e política: 
+ensaios sobre literatura e história da cultura. São Paulo: Brasiliense, 1996a.  
+BENJAMIN, W. Doutrina das semelhanças. In: Benjamin, W. Magia e técnica, arte e política: ensaios 
+sobre literatura e história da cultura.  São Paulo: Brasiliense, 1996b.  
+BENJAMIN, W. Teorias do fascismo alemão. In: Benjamin, W. Magia e técnica, arte e polític a: 
+ensaios sobre literatura e história da cultura.  São Paulo: Brasiliense, 1996c.  
+BENJAMIN, W. A obra de arte na era de sua reprodutibilidade técnica. In: Benjamin, W. Magia e 
+técnica, arte e política: ensaios sobre literatura e história da cultura. São Paulo: Brasiliense, 1996d.  
+BERNARDO , J. Labirintos do Fascismo [recurso digital], 2018. Disponível em: 
+https://bityli.com/AkAr3 . Acesso em: 10/11/2023.  
+BERNARDO , J. A complexa arquitectura da futilidade. IN: TAVARES, R.H.; GOMES, S.S (orgs.). 
+Sociedade, educação e redes : desafios à formação crítica. Araraquara, SP: Junqueira & Marin, 2014. 
+pp. 57 -77. 
+BERNARDO , J. Epílogo e prefácio (um testemunho presencial). História Social, Campinas, v.13, n.17, 
+p. 243 -262, 2009.  
+CÂNDIDO, A. O direito à literatura. IN: Lima, A. et.al (orgs). O direito à literatura . Recife: Ed. 
+Universitária da UFPE, 2012.  
+CANETTI, E. Massa e poder . São Paulo: Companhia das Letras, 2019.  
+CANETTIERI, T. Ornitorrinco reloaded: uberização e virações co ntemporâneas na crise do capital . 
+Caderno CRH  (Online) , Bahia, v.36, p.1 -20, 2023 . 
+CAVALCANTE, S.M. Valor, renda e “imaterialidade” no capitalismo contemporâneo. Caderno CRH , 
+Bahia, v. 27, n.70, p. 115 -130, 2014.  
+CORIAT, B. Ciencia, técnica y capital . Madrid: H.Blume, 1976.  
+FAUSTO, R. Marx: Lógica e Política – Investigações para uma Reconstituição do Sentido da Dialética. 
+Tomo III. São Paulo: Ed.34, 2002.  
+FAUSTO, R. Sobre o jovem Marx. In: FAUSTO, R. Marx: Lógica e Política – Investigações para uma 
+Reconstituição do Sentido da Dialética. Tomo I. São Paulo: Brasiliense, 1987a.  
+FAUSTO, R. Sobre o Estado. In: FAUSTO, R. Marx: Lógica e Política – Investigações para uma 
+Reconstituição do Sentido da Dialética. Tomo II. São Paulo: Brasiliense, 1987b.  
+FILGUEIR AS, V. A., DUTRA, R. Q. Distinções e aproximações entre terceirização e uberização: os 
+conceitos como palco de disputas. Caderno CRH , Bahia, v. 34, e021033 , 2021 . 
+LÚKACS, G. História e consciência de classe : Estudos sobre a dialética marxista. São Paulo: Ma rtins 
+Fontes, 2003.  
+MARCUSE, H. A ideologia da sociedade industrial : o homem unidimensional. Rio de Janeiro: Zahar 
+Editores, 1973.   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  50 
+MARX, K. Crítica da Filosofia do Direito de Hegel. São Paulo: Boitempo, 2005.  
+MARX, K. Manuscritos Econômico- Filosóficos . São Paulo : Boitempo, 2004.  
+MARX, K. O Capital : crítica da economia política. Livro I, Tomo I. São Paulo: Nova Cultural, 1996a.  
+MARX, K. O Capital : crítica da economia política. Livro I, Tomo II. São Paulo: Nova Cultural, 1996b.  
+MARX, K. Maquinaria e Trabalho Vivo (Os efeitos da mecanização sobre o trabalhador). In: Crítica 
+Marxista . v.1, n.1, 1994.  
+MARX, K. Grundrisse : foundations of the critique of political economy. London; New York Penguin 
+Books associada à New Left Review, 19 93a. 
+MARX, K. Draft Chapter VI of Capital. In: Marx/Engels Collected Works , vol.34. New York: 
+International Publishers, 1993b.  
+MARX, K. O Capital:  crítica da economia política . São Paulo: Nova Cultural: Livro II, 1984.  
+MARX, K.; ENGELS, F. A ideologia alem ã: crítica da mais recente filosofia alemã em seus 
+representantes Feuerbach, B. Bauer e Stirner, e do socialismo alemão em seus diferentes profetas. São 
+Paulo: Boitempo, 2007.  
+MEYER, T. Entre a autodestruição e a ilusão de viabilidade tecnocrática: o trans umanismo é a higiene 
+racial actual. Exit! Crise e crítica da sociedade das mercadorias , 2021. http://www.obeco -
+online.org/thomas_meyer12.htm . Acesso em: 15/11/2023.  
+MOORE, J. W. (ed.) Anthropocene or Capitalocene? Nature, History and the Crisis of Capitalism. 
+PM Press, 2016.  
+MORAES NETO, B.R. Marx, Taylor, Ford : as forças produtivas em discussão. São Paulo: Brasiliense, 
+1991.  
+NODARI, A. Alterocupar -se: obliquação e tr ansicionalidade na experiência literária. Estudos Literários 
+Brasileiros Contemporâneos , Brasília, n. 57, p. 1 -17, 2019.  
+NOVAES, H. T. O fetiche da tecnologia : a experiência das fábricas recuperadas. São Paulo: Expressão 
+Popular, 2010.  
+PARANÁ, E. Racionalidade e técnica em Marcuse e Habermas: saídas para o dilema da jaula de ferro?. Revista Brasiliense de Pós -Graduação em Ciências Sociais , Brasília, v.13, n. 2, p.151 -168, 2014.  
+SAFATLE , V. O trabalho do impróprio e os afetos da flexibili zação. Veritas , Porto Alegra, v. 60, n. 1, 
+p.12-49, 2015 . 
+THOMPSON, E.P. A Formação da Classe Operária Inglesa: a árvore da liberdade. Rio de Janeiro: 
+Paz e Terra, 2004.  
+ 
+ 
+Notas  
+1 Doutor em Sociologia e Pós- Doutor em Economia pela Universidade de São Paulo (USP) e Pós-Doutor em 
+Sociologia pela Universidade de Campinas (Unicamp). Professor do Departamento de Economia e do Programa 
+de Pós-Graduação em Política Social da Universidade Federal do Espírito Santo (Ufes). Membro do Grupo 
+Estudos Críticos em Processos Sociais, e Pesquisador do CNPq. Currículo Lattes: 
+http://lattes.cnpq.br/8149571973918042. Orcid:  https://orcid.org/0000 -0002-4281 -995X . E -mail: 
+gustavo.m.mello@ufes.br . 
+2 Ainda que em outros termos, o tema do fetichismo tecnológico possui uma longa história no interior da tradição 
+marxista. À guisa de exemplo, poder -se-ia evocar os enfrentamentos, na esteira da Revolução Russa, entre figuras 
+como Lenin, Trotsky, defensores da “militarização do trabalho”, e os críticos Bogadov e Kollontai. Ou a discussão no interior da chamada teoria crítica da sociedade sobre a “ciência e técnica como ideologia”, em particular as 
+posições conflitantes de Marcuse e Habermas ; ou ainda as obras de autores como David Noble  e Andrew Feenberg   
+Dossiê  
+Germinal: marxismo e e ducação em d ebate, Salvador, v.1 6, n.3, p.29- 51, dez. 2024. ISSN: 2175- 5604  51 
+ 
+(de modo a evitar um número excessiv o de referências, cf. N ovaes , 2010, e P araná , 2014). Sem menoscabar a sua 
+importância, busca -se estabelecer neste texto uma estratégica argumentativa e expositiva que dispensa a retomada 
+criteriosa desses debates.  
+3 “Ao longo do gigantesco lapso de tempo e m que viveu em pequenos grupos”, argumenta Canetti (2019, p. 136), 
+“o homem de certa maneira incorporou, pela metamorfose, todos os animais que conhecia. Foi somente a partir 
+desse seu aprendizado da metamorfose que o homem fez -se homem: a metamorfose era seu dom e prazer 
+característicos”.  
+4 “Logo que o trabalho começa a ser distribuído, cada um passa a ter um campo de atividade exclusivo e 
+determinado, que lhe é imposto e ao qual não pode escapar; o indivíduo é caçador, pescador, pastor ou crítico crítico,  e assim deve permanecer se não quiser perder seu meio de vida –  ao passo que, na sociedade comunista, 
+onde cada um não tem um campo de atividade exclusivo, mas pode aperfeiçoar -se em todos os ramos que lhe 
+agradam, a sociedade regula a produção geral e me  confere, assim, a possibilidade de hoje fazer isto, amanhã aquilo, 
+de caçar pela manhã, pescar à tarde, à noite dedicar -me à criação de gado, criticar após o jantar, exatamente de 
+acordo com a minha vontade, sem que eu jamais me torne caçador, pescador, p astor ou crítico” ( Marx; Engels , 
+2007, p. 37-8).  
+5 Uma das expressões contemporâneas da vergonha prometeica é a ideologia transumanista (cf. Meyer, 2021).  
+ 
+Recebido em:  20 de set. 2024 
+Aprovado em:  14 de dez. 2024 
