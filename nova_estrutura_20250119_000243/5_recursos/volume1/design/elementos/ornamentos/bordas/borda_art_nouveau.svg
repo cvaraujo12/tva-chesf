@@ -1,1 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" width="180mm" height="20mm" viewBox="0 0 180 20"><defs><style>.ornamento{fill:none;stroke:#C4A962;stroke-width:0.5;}</style><pattern id="padrao-art-nouveau" x="0" y="0" width="40" height="20" patternUnits="userSpaceOnUse"><path class="ornamento" d="M0,10 C5,5 10,0 20,0 C30,0 35,5 40,10 C35,15 30,20 20,20 C10,20 5,15 0,10 Z M20,0 C15,5 15,15 20,20 M0,10 C10,10 30,10 40,10"/></pattern></defs><rect width="180" height="20" fill="url(#padrao-art-nouveau)"/></svg>
+version https://git-lfs.github.com/spec/v1
+oid sha256:956553637d08e3504f08f26ae834851580b9e5cecaf08292cf89ded55ca1901f
+size 557

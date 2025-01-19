@@ -1,1 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" width="40mm" height="40mm" viewBox="0 0 40 40"><defs><style>.ornamento{fill:none;stroke:#00FF00;stroke-width:0.5;}</style></defs><path class="ornamento" d="M0,0 L40,0 L40,40 L0,40 Z M5,5 L35,5 L35,35 L5,35 Z M10,10 L15,10 L15,15 L10,15 Z M25,10 L30,10 L30,15 L25,15 Z M10,25 L15,25 L15,30 L10,30 Z M25,25 L30,25 L30,30 L25,30 Z"/></svg>
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f72f9ad11eefca33fb94b5dba21ea506d3c3eaff248ba50f1f571a9a686cc1
+size 431
