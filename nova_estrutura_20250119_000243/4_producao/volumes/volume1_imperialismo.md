@@ -2,13 +2,18 @@
 
 ## Apresentação
 
-O desenvolvimento do capitalismo brasileiro é marcado por complexas relações de dependência e subordinação que se manifestam de forma particularmente evidente no setor elétrico. Este setor, longe de constituir apenas uma infraestrutura técnica, representa um prisma privilegiado para compreender as transformações nas formas de dominação imperial e seus impactos na organização territorial do país.
+O desenvolvimento do capitalismo brasileiro caracteriza-se por relações estruturais de dependência e subordinação. Estas relações manifestam-se de maneira paradigmática no setor elétrico, onde a presença do capital estrangeiro tem sido uma constante histórica. Este setor constitui um objeto privilegiado de análise por duas razões principais. Primeiro, permite compreender as transformações históricas nas modalidades de dominação imperial, desde o controle direto do capital estrangeiro no início do século XX até as configurações contemporâneas de dominação via mercado financeiro. Segundo, revela como estas transformações impactam concretamente a organização territorial do país através de grandes projetos de infraestrutura.
 
-A análise aqui proposta parte das contribuições seminais de pensadores brasileiros que se dedicaram a compreender as especificidades do desenvolvimento capitalista em contextos periféricos. De Caio Prado Júnior, incorporamos a perspectiva histórica de longa duração e a atenção às formas específicas de inserção do Brasil na economia mundial. De Celso Furtado, resgatamos a análise das estruturas de dependência e o papel do Estado no desenvolvimento. De Florestan Fernandes, retomamos a compreensão da modernização conservadora e das articulações entre burguesia nacional e internacional.
+O arcabouço teórico que fundamenta esta análise deriva de três vertentes fundamentais do pensamento social brasileiro:
+- A perspectiva histórico-estrutural de Caio Prado Júnior, que evidencia as especificidades da inserção brasileira na economia-mundo capitalista
+- A análise das estruturas de dependência tecnológica e financeira desenvolvida por Celso Furtado no contexto da industrialização periférica
+- A teorização de Florestan Fernandes sobre o padrão de desenvolvimento capitalista dependente-associado e suas implicações socioterritoriais
 
-Este primeiro volume da coletânea "Desenvolvimento, Território e Dependência: Perspectivas Críticas do Brasil" estabelece as bases conceituais e históricas necessárias para compreender como as transformações do imperialismo contemporâneo impactam a organização territorial brasileira, com foco no setor elétrico. Em um momento em que as formas de dominação se tornam cada vez mais sofisticadas e mediadas pelo capital financeiro, é fundamental revisitar e atualizar as análises sobre as relações entre imperialismo, desenvolvimento territorial e setor energético.
+Este primeiro volume da coletânea "Desenvolvimento, Território e Dependência: Perspectivas Críticas do Brasil" examina as transformações nas modalidades de controle sobre o setor elétrico brasileiro e suas implicações para a organização territorial. A análise adquire particular relevância no contexto contemporâneo, caracterizado pela predominância de mecanismos financeiros de controle, como evidenciado no processo recente de desestatização da Eletrobras.
 
-A escolha do setor elétrico como objeto de análise não é fortuita. Como demonstram os documentos históricos, desde o Relatório da Missão Cooke (1942) até os debates contemporâneos sobre a privatização da Eletrobras, o controle da energia elétrica tem sido central nas disputas sobre os rumos do desenvolvimento nacional. Como observava o próprio relatório: "mais de 80% da produção de energia elétrica no Brasil provavelmente se deve às usinas de propriedade estrangeira", evidenciando o papel histórico do setor na reprodução das relações de dependência.
+A escolha do setor elétrico como objeto de análise se justifica por três razões fundamentais. Primeiro, sua centralidade histórica nas disputas sobre desenvolvimento nacional, evidenciada desde o Relatório da Missão Cooke (1942). Segundo, sua capacidade de revelar as transformações nas formas de dominação imperial, desde o controle direto por concessionárias estrangeiras até as formas contemporâneas de dominação financeira. Terceiro, seu papel na reorganização territorial do país, materializado em grandes projetos de infraestrutura que redefinem relações sociais e espaciais.
+
+Como demonstram os documentos históricos, desde o Relatório da Missão Cooke até os debates contemporâneos sobre a privatização da Eletrobras, o controle da energia elétrica tem sido central nas disputas sobre os rumos do desenvolvimento nacional. O próprio relatório evidenciava esta centralidade ao apontar que "mais de 80% da produção de energia elétrica no Brasil provavelmente se deve às usinas de propriedade estrangeira".
 
 [BOX 1: Estrutura da Coletânea]
 1. Volume 1: Imperialismo e Desenvolvimento Territorial
@@ -79,48 +84,48 @@ Esta obra representa um esforço coletivo de pesquisadores comprometidos com a a
 
 ## Capítulo 1: Transformações do Imperialismo e suas Manifestações Territoriais
 
-A análise das transformações do imperialismo e suas manifestações territoriais no Brasil encontra no setor elétrico um caso paradigmático. Como observou Caio Prado Júnior em sua análise sobre a formação econômica do Brasil, o padrão de inserção do país na economia mundial moderna foi marcado por uma dupla subordinação: técnica e financeira. Esta característica se manifesta de forma particularmente evidente no desenvolvimento do setor elétrico brasileiro ao longo do século XX e início do XXI.
+O setor elétrico brasileiro constitui um caso exemplar das transformações do imperialismo e suas manifestações territoriais. Esta afirmação fundamenta-se na análise histórica do setor, que revela padrões persistentes de subordinação técnica e financeira. Como observou Caio Prado Júnior em sua análise sobre a formação econômica do Brasil, o padrão de inserção do país na economia mundial moderna caracterizou-se por uma dupla subordinação: técnica e financeira. No setor elétrico, esta dupla subordinação manifesta-se de forma particularmente evidente ao longo do século XX e início do XXI, como demonstram os documentos históricos e a evolução das formas de controle sobre o setor.
 
-O caso do Vale do São Francisco durante o período desenvolvimentista clássico (1941-1953) oferece um exemplo privilegiado para compreender estas transformações. A implementação do complexo hidrelétrico de Paulo Afonso, inspirado no modelo da Tennessee Valley Authority (TVA), revela as complexas articulações entre capital internacional, Estado nacional e interesses regionais na produção do território. Como evidenciado nos documentos da Missão Cooke, a disparidade entre o potencial e o desenvolvimento efetivo da energia elétrica no Brasil era significativa: "a capacidade instalada de energia elétrica eleva-se, no Brasil, a 1.187.000 kilowatts, atingindo a menos de 0,03 kw per capita contra os 0,35 kw que são a média para a totalidade dos Estados Unidos."
+O caso do Vale do São Francisco durante o período desenvolvimentista clássico (1941-1953) ilustra concretamente estas transformações. A implementação do complexo hidrelétrico de Paulo Afonso, inspirado no modelo da Tennessee Valley Authority (TVA), revela as complexas articulações entre capital internacional, Estado nacional e interesses regionais na produção do território. Os documentos da Missão Cooke evidenciam a dimensão desta subordinação: "a capacidade instalada de energia elétrica eleva-se, no Brasil, a 1.187.000 kilowatts, atingindo a menos de 0,03 kw per capita contra os 0,35 kw que são a média para a totalidade dos Estados Unidos."
 
 [BOX 2: Periodização Histórica do Setor Elétrico]
 
-1. **1880-1930: Dominação Direta**
-   - Controle por concessionárias estrangeiras (Light e AMFORP)
-   - Exportação direta de capitais
-   - Territorialização seletiva nas áreas mais dinâmicas
-   - Regulação mínima e autonomia empresarial
+1. **1880-1930: Era das Concessionárias Estrangeiras**
+   - Empresas como Light e AMFORP eram donas diretas das usinas e redes
+   - Capital vinha diretamente do exterior para construir infraestrutura
+   - Foco em áreas mais lucrativas (principais cidades e regiões industriais)
+   - Governo tinha pouco controle sobre as empresas
 
-2. **1930-1980: Transição Desenvolvimentista**
-   - Estatização progressiva do setor
-   - Papel central das missões técnicas internacionais
-   - Financiamento multilateral (BIRD, BID)
-   - Planejamento territorial integrado
-   - Formação de quadros técnicos nacionais
+2. **1930-1980: Era da Estatização**
+   - Governo assume gradualmente o controle do setor
+   - Missões técnicas dos EUA (como Missão Cooke) definem modelos a seguir
+   - Financiamento vem de bancos internacionais (BIRD, BID)
+   - Planejamento busca integrar todo o território nacional
+   - Formação de técnicos brasileiros para gerir o setor
 
-3. **1980-presente: Financeirização**
-   - Privatizações e desestatização parcial
-   - Novos marcos regulatórios
-   - Mercados de energia e derivativos
-   - Governança corporativa internacional
-   - Fundos de investimento setoriais
+3. **1980-presente: Era do Mercado Financeiro**
+   - Privatização parcial das empresas estatais
+   - Novas regras para o setor (criação de mercados de energia)
+   - Controle através de ações e títulos negociados globalmente
+   - Decisões sobre investimentos seguem lógica financeira
+   - Fundos internacionais como principais acionistas
 
-Esta periodização, longe de representar uma simples sucessão cronológica, revela transformações qualitativas nas formas de dominação imperial e seus impactos territoriais. Como demonstra a documentação histórica, cada período corresponde a diferentes:
+Esta periodização mostra três formas diferentes de controle estrangeiro sobre o setor:
 
 1. **Formas de Controle**
-- Do controle direto das infraestruturas
-- Para mediações institucionais complexas
-- Até dominação via mercados financeiros
+- Primeiro: propriedade direta das empresas
+- Depois: empréstimos e assistência técnica
+- Hoje: controle via mercado financeiro
 
-2. **Padrões Territoriais**
-- Da concentração em polos dinâmicos
-- Para integração territorial planejada
-- Até fragmentação seletiva contemporânea
+2. **Impactos no Território**
+- Primeiro: desenvolvimento só nas áreas lucrativas
+- Depois: tentativa de integrar todo o país
+- Hoje: investimentos seletivos seguindo lógica financeira
 
-3. **Mediações Institucionais**
-- De regulação mínima estatal
-- Para planejamento centralizado
-- Até governança corporativa global
+3. **Papel do Estado**
+- Primeiro: regulação mínima
+- Depois: planejamento centralizado
+- Hoje: regulação através de agências independentes
 
 > "A produção de energia é uma das indústrias de maior atratividade ao capital que procura investimento seguro, se bem que obtendo somente lucros razoáveis. O capital, entretanto, é escasso neste país, por isso que procura, de preferência, investimentos especulativos"
 > (Relatório CMBEU, 1954)
@@ -156,7 +161,7 @@ A análise das transformações do imperialismo no contexto brasileiro revela um
 
 O período clássico do imperialismo (1880-1930) foi caracterizado pelo controle direto das infraestruturas por concessionárias estrangeiras. Como evidenciado nos documentos da CMBEU:
 
-> "Durante as três primeiras décadas do século, a companhia canadense contou com o mercado de capitais europeu, particularmente o inglês, enquanto que as subsidiárias da 'American Foreign Power', na década 1920/1930, obtiveram financiamento nos Estados Unidos"
+> "Durante as três primeiras décadas do século, a companhia canadense contou com o mercado de capitais europeus, particularmente o inglês, enquanto que as subsidiárias da 'American Foreign Power', na década 1920/1930, obtiveram financiamento nos Estados Unidos"
 
 Esta fase inicial estabeleceu um padrão de desenvolvimento territorial altamente seletivo, concentrado nas áreas mais dinâmicas do país. Como demonstra o relatório:
 
@@ -206,6 +211,8 @@ A evolução histórica do imperialismo no setor elétrico brasileiro revela tr�
 
 Esta observação da Missão Cooke evidencia como o setor elétrico foi historicamente percebido como estratégico para o desenvolvimento nacional. No entanto, as formas de sua organização e controle refletem as transformações mais amplas nas relações entre centro e periferia do sistema capitalista mundial.
 
+### 1.1.1 Fundamentos Teóricos da Análise do Imperialismo no Setor Elétrico
+
 A transição do imperialismo clássico para suas formas contemporâneas pode ser compreendida através de três processos fundamentais:
 
 1. **Desterritorialização do Controle**
@@ -222,6 +229,251 @@ A transição do imperialismo clássico para suas formas contemporâneas pode se
 - Subordinação à lógica financeira
 - Novos critérios de investimento
 - Fragmentação espacial seletiva
+
+### 1.1.2 Marco Teórico-Conceitual
+
+A análise das transformações do imperialismo no setor elétrico brasileiro requer um marco teórico-conceitual que articule diferentes níveis de análise:
+
+1. **Dimensão Estrutural**
+- **Acumulação Ampliada**: O setor elétrico como elemento central da reprodução ampliada do capital
+- **Divisão Internacional do Trabalho**: Especialização tecnológica desigual e transferência de valor
+- **Padrões de Dependência**: Subordinação técnica, financeira e decisória
+
+2. **Mediações Históricas**
+- **Ciclos de Acumulação**: Articulação entre fases do capitalismo e formas de controle setorial
+- **Padrões Tecnológicos**: Evolução das bases técnicas e implicações territoriais
+- **Arranjos Institucionais**: Transformação das formas de regulação e governança
+
+[BOX: Mediações Históricas no Setor Elétrico]
+
+1. **Ciclos de Acumulação e Controle Setorial**
+   - **Fase do Capital Comercial (1880-1930)**
+     * Controle direto por concessionárias estrangeiras
+     * Investimento em infraestrutura básica
+     * Foco em áreas economicamente dinâmicas
+   - **Fase do Capital Industrial (1930-1980)**
+     * Estatização progressiva do setor
+     * Planejamento centralizado
+     * Integração territorial nacional
+   - **Fase do Capital Financeiro (1980-presente)**
+     * Privatizações e mercantilização
+     * Governança corporativa global
+     * Fragmentação territorial seletiva
+
+2. **Evolução dos Padrões Tecnológicos**
+   - **Primeira Geração (1880-1930)**
+     * Tecnologia importada diretamente
+     * Dependência total de equipamentos estrangeiros
+     * Capacitação técnica mínima nacional
+   - **Segunda Geração (1930-1980)**
+     * Transferência tecnológica controlada
+     * Desenvolvimento de capacidades locais
+     * Formação de quadros técnicos nacionais
+   - **Terceira Geração (1980-presente)**
+     * Integração em cadeias globais de valor
+     * Inovação tecnológica subordinada
+     * Novos padrões de dependência técnica
+
+3. **Transformação dos Arranjos Institucionais**
+   - **Período Liberal-Oligárquico**
+     * Regulação mínima estatal
+     * Contratos de concessão diretos
+     * Autonomia das empresas estrangeiras
+   - **Período Nacional-Desenvolvimentista**
+     * Criação de empresas estatais
+     * Planejamento setorial integrado
+     * Regulação técnica centralizada
+   - **Período Neoliberal**
+     * Agências reguladoras independentes
+     * Mercados competitivos de energia
+     * Governança corporativa internacional
+
+4. **Articulações entre Períodos**
+   - **Transição 1930-1950**
+     * Da propriedade estrangeira ao controle estatal
+     * Das concessões privadas ao planejamento público
+     * Da regulação mínima à intervenção direta
+   - **Transição 1980-2000**
+     * Do controle estatal à regulação de mercado
+     * Do planejamento central à governança corporativa
+     * Da integração nacional à fragmentação territorial
+
+[BOX: Transições Críticas no Setor Elétrico]
+
+1. **Primeira Transição (1930-1950): Da Dominação Direta ao Controle Estatal**
+   - **Fatores Desencadeadores**
+     * Crise de 1929 e restrições ao capital internacional
+     * Projeto nacional-desenvolvimentista
+     * Demandas da industrialização nascente
+   - **Processos de Transformação**
+     * Nacionalização progressiva dos ativos
+     * Criação de empresas estatais
+     * Desenvolvimento de expertise nacional
+   - **Contradições Emergentes**
+     * Tensões com capital estrangeiro
+     * Disputas sobre modelos de desenvolvimento
+     * Conflitos federativos
+
+2. **Segunda Transição (1980-2000): Do Estado ao Mercado**
+   - **Fatores Desencadeadores**
+     * Crise da dívida externa
+     * Pressões dos organismos multilaterais
+     * Hegemonia do pensamento neoliberal
+   - **Processos de Transformação**
+     * Privatizações e desestatização
+     * Criação de mercados de energia
+     * Novos marcos regulatórios
+   - **Contradições Emergentes**
+     * Tensões entre mercado e planejamento
+     * Conflitos sobre tarifas e acesso
+     * Fragmentação territorial
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das transições evidencia:
+- A complexidade dos processos de transformação
+- A persistência de certas estruturas de dependência
+- A emergência de novas contradições
+- A reconfiguração das relações de poder
+
+5. **Impactos nas Relações de Poder**
+   - **Dimensão Política**
+     * Reconfiguração do papel do Estado
+     * Novos atores e interesses
+     * Transformação das relações federativas
+   - **Dimensão Econômica**
+     * Mudanças nos padrões de financiamento
+     * Novas formas de valorização
+     * Reestruturação patrimonial
+   - **Dimensão Territorial**
+     * Reorganização espacial da produção
+     * Novos critérios de localização
+     * Reconfiguração das redes técnicas
+
+Esta periodização evidencia como as mediações históricas articulam:
+- Diferentes regimes de acumulação
+- Padrões tecnológicos específicos
+- Formas institucionais próprias
+- Configurações territoriais distintas
+
+3. **Manifestações Concretas**
+- **Configurações Territoriais**: Produção do espaço e reorganização regional
+- **Relações de Poder**: Articulações entre diferentes escalas e agentes
+- **Contradições Emergentes**: Tensões entre diferentes projetos de desenvolvimento
+
+[BOX 5: Níveis de Análise do Imperialismo no Setor Elétrico]
+
+1. **Nível Global**
+   - **Ciclos sistêmicos de acumulação**
+     * Fases de expansão material e financeira
+     * Transições hegemônicas
+     * Reconfiguração das cadeias globais de valor
+   - **Padrões tecnológicos dominantes**
+     * Transferência seletiva de tecnologia
+     * Dependência tecnológica estrutural
+     * Controle sobre patentes e inovação
+   - **Divisão internacional do trabalho**
+     * Especialização produtiva desigual
+     * Hierarquias tecnológicas
+     * Assimetrias nas cadeias de valor
+   - **Fluxos financeiros globais**
+     * Mercados de capitais internacionais
+     * Fundos de investimento globais
+     * Sistemas de financiamento multilateral
+   - **Estratégias imperiais**
+     * Geopolítica da energia
+     * Controle sobre recursos estratégicos
+     * Disputas territoriais globais
+
+2. **Nível Nacional**
+   - **Padrões de desenvolvimento**
+     * Modelos de industrialização
+     * Estratégias setoriais
+     * Políticas energéticas nacionais
+   - **Estruturas de dependência**
+     * Subordinação tecnológica
+     * Dependência financeira
+     * Vulnerabilidade externa
+   - **Arranjos institucionais**
+     * Marcos regulatórios
+     * Estruturas de governança
+     * Sistemas de planejamento
+   - **Projetos territoriais**
+     * Planos de integração nacional
+     * Políticas regionais
+     * Ordenamento territorial
+   - **Conflitos políticos**
+     * Disputas intersetoriais
+     * Tensões federativas
+     * Conflitos de interesse
+
+3. **Nível Regional/Local**
+   - **Impactos territoriais**
+     * Transformações na estrutura produtiva
+     * Reorganização do espaço regional
+     * Mudanças nos padrões de uso do solo
+   - **Reorganização espacial**
+     * Novos fluxos e centralidades
+     * Reconfiguração das redes urbanas
+     * Alterações nas dinâmicas territoriais
+   - **Conflitos socioambientais**
+     * Disputas por recursos naturais
+     * Impactos sobre comunidades tradicionais
+     * Questões ambientais emergentes
+   - **Resistências locais**
+     * Movimentos sociais
+     * Articulações territoriais
+     * Estratégias de resistência
+   - **Alternativas emergentes**
+     * Iniciativas locais de desenvolvimento
+     * Projetos alternativos de energia
+     * Novas formas de organização territorial
+
+Esta estrutura multinível permite compreender como as transformações do imperialismo:
+- Articulam diferentes escalas espaciais
+- Produzem impactos territoriais diferenciados
+- Geram respostas e resistências específicas
+- Abrem possibilidades para alternativas locais
 
 ### 1.2 Manifestações Territoriais do Imperialismo
 
@@ -243,7 +495,7 @@ A reorganização espacial promovida pelo imperialismo contemporâneo produz nov
 
 ## Capítulo 2: Mediações Institucionais e Formas de Governança
 
-A reconfiguração do imperialismo contemporâneo se materializa através de complexas redes institucionais que mediam as relações entre países centrais e periféricos. O setor elétrico brasileiro oferece um exemplo privilegiado dessas mediações.
+A análise das transformações do imperialismo desenvolvida no capítulo anterior demonstrou como as formas de dominação evoluíram de um controle direto para mecanismos mais complexos e mediados. Este capítulo examina em detalhe como essa reconfiguração do imperialismo contemporâneo se materializa através de complexas redes institucionais que mediam as relações entre países centrais e periféricos. O setor elétrico brasileiro oferece um exemplo privilegiado dessas mediações, permitindo compreender como as transformações nas formas de dominação se traduzem em arranjos institucionais concretos.
 
 ### 2.1 Instituições Multilaterais e Missões Técnicas
 
@@ -299,42 +551,45 @@ A análise histórica revela três dimensões principais das mediações institu
 
 ## Capítulo 3: Capital Financeiro e Reorganização Territorial
 
-O papel do capital financeiro na reorganização territorial brasileira, particularmente no setor elétrico, representa uma das manifestações mais significativas do imperialismo contemporâneo. Como observa Celso Furtado:
+A hegemonia do capital financeiro sobre o setor elétrico brasileiro representa uma nova fase nas relações de dependência. Esta hegemonia manifesta-se através de três mecanismos principais de controle e governança. Primeiro, a predominância de investidores institucionais transnacionais na estrutura acionária das empresas setoriais, que determina as estratégias corporativas. Segundo, a subordinação das decisões de investimento aos critérios e métricas dos mercados financeiros globais, que condiciona a expansão do setor. Terceiro, a implementação de padrões internacionais de governança corporativa, que padroniza as práticas de gestão segundo modelos globais.
 
+Como observa Celso Furtado em sua análise das transformações do capitalismo periférico:
 > "A internacionalização dos circuitos financeiros criou novas formas de dependência, mais sutis e complexas que as anteriores"
 
-### 3.1 Financeirização e Território
+Esta observação de Furtado sintetiza um processo histórico que transformou profundamente as relações de poder no setor elétrico, como veremos a seguir.
 
-[BOX 7: Evolução do Financiamento Setorial]
-1. Fase Estatal (1950-1980)
-   - BNDES como agente central
-   - Empréstimos multilaterais
-   - Planejamento integrado
-2. Transição (1980-2000)
-   - Crise fiscal do Estado
-   - Privatizações parciais
-   - Novos modelos de gestão
-3. Financeirização (2000-presente)
-   - Project Finance
-   - Mercado de capitais
-   - Fundos setoriais
+### 3.1 Dimensões Territoriais da Financeirização
 
-A financeirização produz três tipos principais de transformações territoriais:
+[BOX 7: Periodização do Financiamento Setorial]
+1. Fase Estatal-Desenvolvimentista (1950-1980)
+   - Centralidade do BNDES no financiamento setorial
+   - Complementaridade dos empréstimos multilaterais
+   - Planejamento territorial integrado
+2. Fase de Transição Estrutural (1980-2000)
+   - Crise fiscal e restrição do investimento estatal
+   - Desestatização seletiva
+   - Reestruturação dos modelos de gestão
+3. Fase da Financeirização (2000-presente)
+   - Predominância do Project Finance
+   - Captação via mercado de capitais
+   - Fundos setoriais especializados
 
-1. **Reorganização Espacial**
-- Novos critérios locacionais
-- Fragmentação territorial
-- Hierarquias espaciais
+A financeirização reconfigura o território através de três processos fundamentais:
 
-2. **Controle Corporativo**
-- Centros de comando
-- Redes técnicas
-- Fluxos informacionais
+1. **Seletividade Espacial dos Investimentos**
+- Hierarquização territorial segundo critérios de rentabilidade financeira
+- Fragmentação espacial dos projetos de infraestrutura
+- Estabelecimento de gradientes de atratividade ao capital
+
+2. **Centros de Comando e Controle**
+- Centralização decisória em praças financeiras globais
+- Integração entre redes técnicas e informacionais
+- Subordinação às métricas financeiras globais
 
 3. **Impactos Socioambientais**
-- Conflitos territoriais
-- Questões ambientais
-- Justiça energética
+- Conflitos territoriais com comunidades impactadas
+- Externalização dos custos ambientais
+- Assimetrias na distribuição dos ônus e benefícios
 
 ### 3.2 Casos Emblemáticos
 
@@ -354,9 +609,11 @@ A financeirização produz três tipos principais de transformações territoria
 
 ## Capítulo 4: Políticas Territoriais sob o Neoliberalismo
 
-A análise das políticas territoriais no contexto neoliberal revela as contradições entre o discurso da eficiência de mercado e as necessidades de planejamento do setor elétrico. Como observa Leônidas de Santana Marques:
+Os processos de financeirização e reorganização territorial analisados no capítulo anterior têm profundas implicações para as políticas territoriais. A análise dessas políticas no contexto neoliberal revela as contradições entre o discurso da eficiência de mercado e as necessidades de planejamento do setor elétrico. Como observa Leônidas de Santana Marques:
 
 > "O caráter neoliberal das políticas territoriais não elimina, mas reconfigura o papel do Estado no desenvolvimento setorial"
+
+Esta reconfiguração do papel do Estado se manifesta de forma particularmente evidente nas transformações das políticas territoriais, que precisam responder tanto às pressões do capital financeiro quanto às demandas por planejamento e regulação setorial.
 
 ### 4.1 Transformações nas Políticas Territoriais
 
@@ -409,40 +666,32 @@ As transformações nas políticas territoriais se manifestam em três dimensõe
 
 ## Considerações Finais
 
-Este volume analisou as transformações do imperialismo contemporâneo e suas manifestações territoriais no Brasil, com foco especial no setor elétrico. A análise desenvolvida permite algumas conclusões importantes:
-
-[BOX 11: Principais Contribuições]
-1. Teórico-Conceituais
-   - Atualização do imperialismo
-   - Mediações institucionais
-   - Financeirização territorial
-2. Empírico-Históricas
-   - Missões técnicas
-   - Casos emblemáticos
-   - Transformações setoriais
-3. Político-Práticas
-   - Contradições neoliberais
-   - Alternativas emergentes
-   - Desafios futuros
+A análise desenvolvida neste volume evidencia como o setor elétrico brasileiro constitui um caso paradigmático para a compreensão das transformações nas modalidades de dominação imperial e suas manifestações territoriais contemporâneas. A investigação, estruturada a partir da periodização histórica estabelecida no primeiro capítulo, passando pela análise das mediações institucionais no segundo, pela centralidade do capital financeiro no terceiro, até as contradições das políticas territoriais no quarto capítulo, permitiu construir uma interpretação teoricamente fundamentada sobre as reconfigurações nas formas de dominação imperial e seus impactos socioterritoriais.
 
 ### Síntese das Transformações
 
-A análise revelou três processos fundamentais:
+A investigação revelou três processos estruturais que se articulam dialeticamente na configuração contemporânea do setor elétrico brasileiro:
 
-1. **Imperialismo Contemporâneo**
-- Novas formas de dominação
-- Mediações complexas
-- Papel do capital financeiro
+1. **Reconfiguração do Imperialismo**
+- Transição das formas diretas de controle às mediações financeiras
+- Complexificação dos mecanismos institucionais e técnicos de dominação
+- Centralidade crescente do capital financeiro na reorganização setorial
 
-2. **Reorganização Territorial**
-- Transformações espaciais
-- Impactos socioambientais
-- Conflitos e resistências
+Esta reconfiguração nas modalidades de dominação imperial condiciona estruturalmente o segundo processo:
 
-3. **Políticas Territoriais**
-- Limites do neoliberalismo
-- Contradições estruturais
-- Alternativas emergentes
+2. **Reestruturação Territorial**
+- Transformações espaciais subordinadas aos novos padrões de acumulação
+- Impactos socioambientais como expressão das contradições do desenvolvimento
+- Emergência de conflitos e resistências territoriais
+
+A interação dialética entre estes dois processos engendra, por sua vez:
+
+3. **Reorientação das Políticas Territoriais**
+- Limites estruturais da agenda neoliberal no setor elétrico
+- Contradições entre racionalidade mercantil e planejamento setorial
+- Emergência de paradigmas alternativos de desenvolvimento territorial
+
+Esta articulação entre os processos estruturais identificados aponta para um conjunto de desafios teóricos e práticos que serão objeto de aprofundamento nos volumes subsequentes.
 
 ### Perspectivas Futuras
 
@@ -484,4 +733,1638 @@ Esta análise estabelece bases importantes para os próximos volumes:
 - Métodos de análise
 - Novos instrumentos
 
-A continuidade da análise nos próximos volumes permitirá aprofundar questões fundamentais para a construção de alternativas ao modelo atual de desenvolvimento territorial no Brasil. 
+A continuidade da análise nos próximos volumes permitirá aprofundar questões fundamentais para a construção de alternativas ao modelo atual de desenvolvimento territorial no Brasil.
+
+[BOX: Contradições Emergentes nas Transições do Setor Elétrico]
+
+1. **Contradições da Primeira Transição (1930-1950)**
+   - **Contradições Econômicas**
+     * Tensão entre capital nacional e estrangeiro
+     * Conflito entre estatização e interesses privados
+     * Disputas sobre modelos de financiamento
+     * Custos da nacionalização vs capacidade fiscal
+     * Demandas de industrialização vs infraestrutura disponível
+
+   - **Contradições Políticas**
+     * Centralização federal vs autonomias estaduais
+     * Interesses regionais vs projeto nacional
+     * Resistências das concessionárias estrangeiras
+     * Disputas sobre marcos regulatórios
+     * Conflitos sobre controle tarifário
+
+   - **Contradições Territoriais**
+     * Desenvolvimento desigual entre regiões
+     * Concentração vs dispersão de investimentos
+     * Conflitos sobre localização de projetos
+     * Impactos socioambientais emergentes
+     * Disputas sobre uso dos recursos hídricos
+
+2. **Contradições da Segunda Transição (1980-2000)**
+   - **Contradições Econômicas**
+     * Mercado vs planejamento setorial
+     * Rentabilidade financeira vs universalização
+     * Tarifas de mercado vs função social
+     * Eficiência privada vs interesse público
+     * Competição vs integração sistêmica
+
+   - **Contradições Políticas**
+     * Estado regulador vs Estado produtor
+     * Interesses nacionais vs capital global
+     * Soberania energética vs abertura externa
+     * Controle social vs governança corporativa
+     * Regulação técnica vs pressões políticas
+
+   - **Contradições Territoriais**
+     * Fragmentação vs integração territorial
+     * Seletividade espacial dos investimentos
+     * Exclusão de áreas não rentáveis
+     * Conflitos socioambientais intensificados
+     * Resistências territoriais organizadas
+
+3. **Contradições Estruturais Persistentes**
+   - **Dimensão Tecnológica**
+     * Dependência vs autonomia técnica
+     * Importação vs desenvolvimento local
+     * Inovação subordinada vs soberania
+     * Padrões globais vs necessidades locais
+     * Transferência vs apropriação tecnológica
+
+   - **Dimensão Financeira**
+     * Capital nacional vs internacional
+     * Investimento público vs privado
+     * Rentabilidade vs universalização
+     * Mercado vs planejamento
+     * Curto vs longo prazo
+
+   - **Dimensão Territorial**
+     * Concentração vs dispersão
+     * Integração vs fragmentação
+     * Global vs local
+     * Ambiental vs econômico
+     * Público vs privado
+
+4. **Novas Contradições Emergentes**
+   - **Transição Energética**
+     * Matriz tradicional vs renovável
+     * Centralização vs descentralização
+     * Grandes vs pequenos projetos
+     * Redes antigas vs smart grids
+     * Monopólio vs prosumidores
+
+   - **Questão Ambiental**
+     * Desenvolvimento vs preservação
+     * Mitigação vs adaptação
+     * Global vs local
+     * Técnico vs social
+     * Econômico vs ecológico
+
+   - **Governança Territorial**
+     * Regulação vs mercado
+     * Público vs privado
+     * Nacional vs global
+     * Técnico vs político
+     * Setorial vs territorial
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continuidade**
+   - **Padrões de Dependência**
+     * Subordinação tecnológica persistente
+     * Vulnerabilidade financeira externa
+     * Assimetrias decisórias
+   - **Estruturas Territoriais**
+     * Desigualdades regionais
+     * Concentração de investimentos
+     * Seletividade espacial
+   - **Relações de Poder**
+     * Articulações público-privadas
+     * Mediações institucionais
+     * Conflitos federativos
+
+4. **Elementos de Ruptura**
+   - **Formas de Propriedade**
+     * Da propriedade direta ao controle acionário
+     * Das empresas estatais às corporações globais
+     * Dos ativos físicos aos ativos financeiros
+   - **Mecanismos de Controle**
+     * Do controle direto às mediações institucionais
+     * Da regulação estatal à governança corporativa
+     * Do planejamento central aos sinais de mercado
+   - **Lógicas Territoriais**
+     * Da integração nacional à fragmentação seletiva
+     * Do desenvolvimento regional à competitividade local
+     * Do planejamento territorial à lógica de mercado
+
+5. **Implicações Contemporâneas**
+   - **Dimensão Institucional**
+     * Novos arranjos regulatórios
+     * Complexificação das mediações
+     * Hibridização público-privada
+   - **Dimensão Territorial**
+     * Novas hierarquias espaciais
+     * Reconfiguração das redes técnicas
+     * Seletividade dos investimentos
+   - **Dimensão Social**
+     * Novos padrões de exclusão
+     * Conflitos socioambientais
+     * Resistências territoriais
+
+Esta análise das contradições evidencia:
+- A complexidade das transformações setoriais
+- A persistência de certas contradições estruturais
+- A emergência de novos conflitos e tensões
+- A necessidade de novas formas de mediação
+
+3. **Elementos de Continu
