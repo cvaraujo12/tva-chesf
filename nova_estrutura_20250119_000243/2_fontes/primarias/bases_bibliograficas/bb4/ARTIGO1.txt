@@ -1,0 +1,38 @@
+==============================================
+DOCUMENTO: ARTIGO1
+CATEGORIA: Fontes Primárias
+BASE BIBLIOGRÁFICA: BB4
+==============================================
+
+1. METADATA
+-----------
+Tipo: Artigo
+Período: [período histórico]
+Origem: [instituição/fonte]
+Classificação: Documento Primário
+
+2. CONTEXTO HISTÓRICO
+--------------------
+2.1 Período Econômico
+2.2 Contexto do Setor Elétrico
+2.3 Relação com a CHESF
+
+3. CONTEÚDO TÉCNICO
+------------------
+3.1 Aspectos Técnicos Principais
+3.2 Dados e Estatísticas
+3.3 Infraestrutura Mencionada
+
+4. ANÁLISE DOCUMENTAL
+-------------------
+4.1 Relevância para o Estudo
+4.2 Conexões com Outras Fontes
+4.3 Observações Metodológicas
+
+5. NOTAS E REFERÊNCIAS
+--------------------
+5.1 Citações Importantes
+5.2 Referências Cruzadas
+5.3 Material Complementar
+
+==============================================

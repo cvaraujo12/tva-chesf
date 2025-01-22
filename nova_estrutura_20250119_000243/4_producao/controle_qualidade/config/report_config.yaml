@@ -1,0 +1,135 @@
+metricas:
+  palavras:
+    contar_stopwords: false
+    ignorar_referencias: true
+    ignorar_anexos: true
+  
+  paragrafos:
+    min_palavras: 3
+    max_palavras: 200
+    ignorar_titulos: true
+  
+  citacoes:
+    tipos:
+      - direta
+      - indireta
+      - apud
+    contagem_por_tipo: true
+  
+  referencias:
+    verificar_duplicatas: true
+    ordenacao: alfabetica
+  
+  legibilidade:
+    metodo: flesch
+    idioma: pt-br
+    niveis:
+      muito_facil: 75-100
+      facil: 50-75
+      medio: 25-50
+      dificil: 0-25
+
+relatorios:
+  formato: json
+  compressao: false
+  backup: true
+  
+  estrutura:
+    - metadados
+    - metricas
+    - conformidade
+    - problemas
+    - sugestoes
+  
+  metadados:
+    incluir:
+      - data
+      - autor
+      - versao
+      - tipo_documento
+  
+  logs:
+    nivel: INFO
+    rotacao: daily
+    retencao: 30
+    formato: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+analise:
+  problemas:
+    categorias:
+      estrutura:
+        - elementos_obrigatorios
+        - ordem_elementos
+        - numeracao
+      
+      formatacao:
+        - margens
+        - fonte
+        - espacamento
+        - alinhamento
+      
+      referencias:
+        - padrao_abnt
+        - completude
+        - links
+      
+      citacoes:
+        - formato
+        - correspondencia
+        - ordenacao
+  
+  sugestoes:
+    max_sugestoes: 5
+    prioridade:
+      - critico
+      - importante
+      - sugestao
+    
+    templates:
+      estrutura: "Considere adicionar/ajustar o elemento [elemento]"
+      formatacao: "Ajuste a formatação de [item] para [padrao]"
+      referencias: "Verifique a referência [ref] quanto a [aspecto]"
+      citacoes: "Revise a citação em [local] para [padrao]"
+
+visualizacao:
+  graficos:
+    - distribuicao_palavras
+    - citacoes_por_tipo
+    - problemas_por_categoria
+    - indice_legibilidade
+  
+  tabelas:
+    - metricas_gerais
+    - conformidade_abnt
+    - problemas_encontrados
+  
+  exportacao:
+    formatos:
+      - pdf
+      - html
+      - xlsx
+    incluir_graficos: true
+    estilo: "academico"
+
+integracao:
+  validador_abnt:
+    usar: true
+    config_path: "config/abnt_rules.yaml"
+  
+  gestores_bibliografia:
+    mendeley:
+      verificar_referencias: true
+      atualizar_automatico: false
+    
+    zotero:
+      verificar_referencias: true
+      atualizar_automatico: false
+  
+  editores:
+    word:
+      verificar_formatacao: true
+      extrair_metricas: true
+    
+    latex:
+      verificar_formatacao: true
+      extrair_metricas: true 

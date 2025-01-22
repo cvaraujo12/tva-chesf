@@ -1,0 +1,139 @@
+regras:
+  estrutura:
+    artigo:
+      obrigatorios:
+        - titulo
+        - autor
+        - resumo
+        - palavras_chave
+        - introducao
+        - desenvolvimento
+        - conclusao
+        - referencias
+      opcionais:
+        - agradecimentos
+        - anexos
+        - apendices
+    
+    tese:
+      obrigatorios:
+        - capa
+        - folha_rosto
+        - ficha_catalografica
+        - folha_aprovacao
+        - resumo
+        - abstract
+        - sumario
+        - introducao
+        - desenvolvimento
+        - conclusao
+        - referencias
+      opcionais:
+        - dedicatoria
+        - agradecimentos
+        - epigrafe
+        - lista_ilustracoes
+        - lista_tabelas
+        - lista_abreviaturas
+        - anexos
+        - apendices
+  
+  formatacao:
+    margens:
+      superior: 3
+      inferior: 2
+      esquerda: 3
+      direita: 2
+      unidade: "cm"
+    
+    fonte:
+      familia: "Times New Roman"
+      tamanho_padrao: 12
+      tamanhos_especiais:
+        titulo_1: 14
+        titulo_2: 13
+        titulo_3: 12
+        nota_rodape: 10
+        citacao_longa: 10
+    
+    espacamento:
+      entre_linhas: 1.5
+      entre_paragrafos: 1.5
+      recuo_primeira_linha: 1.25
+      unidade: "cm"
+    
+    citacoes:
+      direta_curta:
+        max_linhas: 3
+        aspas: true
+        recuo: 0
+      direta_longa:
+        min_linhas: 4
+        recuo: 4
+        espacamento: 1
+        fonte_tamanho: 10
+    
+    numeracao:
+      paginas:
+        inicio_contagem: "folha_rosto"
+        inicio_exibicao: "introducao"
+        posicao: "superior_direita"
+      capitulos:
+        formato: "numerico"
+        alinhamento: "esquerda"
+        espacamento_titulo: 1.5
+
+padroes:
+  referencias:
+    livro:
+      padrao: "SOBRENOME, Nome. Título: subtítulo. Edição. Local: Editora, Ano."
+      exemplo: "SILVA, João. Metodologia Científica: um guia prático. 2. ed. São Paulo: Atlas, 2020."
+    
+    artigo:
+      padrao: "SOBRENOME, Nome. Título do artigo. Nome do periódico, Local, v. X, n. Y, p. inicial-final, mês ano."
+      exemplo: "SANTOS, Maria. Pesquisa qualitativa em educação. Revista Brasileira de Educação, Rio de Janeiro, v. 15, n. 2, p. 24-35, maio 2019."
+    
+    website:
+      padrao: "SOBRENOME, Nome. Título. Ano. Disponível em: URL. Acesso em: dia mês. ano."
+      exemplo: "PEREIRA, Ana. Educação a distância. 2021. Disponível em: http://www.exemplo.com.br. Acesso em: 22 jan. 2024."
+  
+  citacoes:
+    no_texto:
+      um_autor: "Segundo Silva (2020)..."
+      dois_autores: "Conforme Silva e Santos (2020)..."
+      tres_mais_autores: "De acordo com Silva et al. (2020)..."
+    
+    parenteses:
+      um_autor: "(SILVA, 2020)"
+      dois_autores: "(SILVA; SANTOS, 2020)"
+      tres_mais_autores: "(SILVA et al., 2020)"
+
+validacao:
+  referencias:
+    campos_obrigatorios:
+      - autor
+      - titulo
+      - ano
+    verificacoes:
+      - ordem_alfabetica
+      - consistencia_dados
+      - links_ativos
+  
+  citacoes:
+    verificacoes:
+      - correspondencia_referencias
+      - formato_correto
+      - ordem_cronologica
+  
+  elementos_graficos:
+    tabelas:
+      titulo: "superior"
+      fonte: "inferior"
+      numeracao: "sequencial"
+    
+    figuras:
+      titulo: "inferior"
+      fonte: "inferior"
+      numeracao: "sequencial"
+      fonte: "inferior"
+      numeracao: "sequencial" 

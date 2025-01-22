@@ -1,0 +1,32 @@
+TÍTULO: Análise Histórica do Desenvolvimento da CHESF no Contexto do Setor Elétrico Brasileiro
+
+1. INTRODUÇÃO
+- Contextualização histórica do período
+- Objetivos do estudo
+- Relevância da análise
+
+2. METODOLOGIA
+- Análise documental primária e secundária
+- Abordagem histórico-comparativa
+- Fontes consultadas:
+  * Documentos CHESF
+  * Relatórios técnicos internacionais
+  * Estudos acadêmicos prévios
+
+3. DESENVOLVIMENTO HISTÓRICO
+3.1 Contexto Econômico
+3.2 Missões Internacionais
+3.3 Implementação Técnica
+
+4. ANÁLISE SETORIAL
+4.1 Desenvolvimento do Setor Elétrico
+4.2 Impactos Regionais
+4.3 Aspectos Técnicos
+
+5. CONSIDERAÇÕES FINAIS
+- Síntese das análises
+- Contribuições históricas
+- Perspectivas futuras
+
+6. REFERÊNCIAS BIBLIOGRÁFICAS
+// ... espaço para referências ...

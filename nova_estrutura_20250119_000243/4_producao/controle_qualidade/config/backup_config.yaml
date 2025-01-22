@@ -1,0 +1,123 @@
+backup:
+  diretorios:
+    fonte:
+      - "conteudo/"
+      - "documentos/"
+      - "templates/"
+    destino: "backups/"
+    logs: "logs/"
+  
+  versoes:
+    max_versoes: 30
+    retencao_dias: 90
+    backup_completo: "domingo"
+    backup_incremental: "diario"
+  
+  compressao:
+    ativar: true
+    algoritmo: "zip"
+    nivel: 9
+    excluir_original: true
+  
+  criptografia:
+    ativar: false
+    algoritmo: "AES-256"
+    chave_path: "config/backup.key"
+    salt_size: 32
+  
+  exclusoes:
+    extensoes:
+      - ".tmp"
+      - ".log"
+      - ".bak"
+    diretorios:
+      - "__pycache__"
+      - "node_modules"
+      - ".git"
+    padroes:
+      - "~*"
+      - "*.swp"
+      - ".DS_Store"
+
+logs:
+  nivel: "INFO"
+  formato: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  arquivo: "backup.log"
+  rotacao:
+    quando: "D"
+    intervalo: 1
+    backup_count: 30
+  
+  metricas:
+    coletar: true
+    formato: "json"
+    destino: "logs/metricas/"
+
+notificacoes:
+  email:
+    ativar: false
+    servidor: "smtp.exemplo.com"
+    porta: 587
+    ssl: true
+    usuario: "backup@exemplo.com"
+    senha: "senha_segura"
+    destinatarios:
+      - "admin@exemplo.com"
+  
+  slack:
+    ativar: false
+    webhook_url: "https://hooks.slack.com/services/xxx/yyy/zzz"
+    canal: "#backups"
+  
+  telegram:
+    ativar: false
+    token: "seu_token_bot"
+    chat_id: "seu_chat_id"
+
+monitoramento:
+  verificar_integridade: true
+  intervalo_verificacao: 24
+  
+  alertas:
+    espaco_disco:
+      limite_aviso: 80
+      limite_critico: 90
+    
+    tempo_execucao:
+      limite_aviso: 3600
+      limite_critico: 7200
+    
+    falhas_consecutivas:
+      limite_aviso: 2
+      limite_critico: 5
+
+recuperacao:
+  testar_backup: true
+  intervalo_teste: 7
+  diretorio_teste: "testes/recuperacao/"
+  
+  verificacoes:
+    - integridade_arquivos
+    - estrutura_diretorios
+    - permissoes
+    - metadados
+  
+  relatorio:
+    gerar: true
+    formato: "pdf"
+    destino: "relatorios/testes/"
+
+performance:
+  threads: 4
+  buffer_size: 8192
+  timeout: 3600
+  
+  limites:
+    cpu: 80
+    memoria: 70
+    disco: 90
+  
+  otimizacao:
+    compressao_paralela: true
+    deduplicacao: true
+    cache: true 

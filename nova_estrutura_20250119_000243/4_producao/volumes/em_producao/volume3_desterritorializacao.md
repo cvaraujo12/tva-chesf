@@ -6,11 +6,12 @@ Este terceiro volume da coleção analisa os processos de desterritorialização
 
 ### Objetivos do Volume
 
-1. Analisar o processo histórico de desterritorialização no Vale do São Francisco
-2. Examinar o papel dos militares na organização territorial brasileira
-3. Compreender as continuidades e rupturas nas formas de intervenção militar
-4. Investigar processos contemporâneos de desterritorialização
-5. Avaliar as articulações entre poder militar e Estado burguês
+O volume busca desenvolver uma análise crítica das relações entre poder militar e processos de desterritorialização no Brasil, articulando:
+- A construção histórica do território como espaço de poder militar
+- As contradições entre desenvolvimento e militarização
+- Os impactos socioambientais dos processos de desterritorialização
+- As resistências e reconfigurações territoriais
+- As permanências históricas nas formas de controle territorial
 
 ### Estrutura do Volume
 
@@ -18,7 +19,30 @@ Este terceiro volume da coleção analisa os processos de desterritorialização
 
 ### 1.1 Contexto Histórico da Intervenção Militar (1945-1955)
 
-O período pós-Segunda Guerra Mundial marca uma inflexão significativa na política de defesa nacional brasileira, caracterizada pela aproximação estratégica com os Estados Unidos e pela busca de autonomia energética como elemento de segurança nacional. Como evidenciado nas análises documentais e nos estudos de caso, este período foi marcado por três dimensões fundamentais:
+A militarização do Vale do São Francisco representa um momento paradigmático na história territorial brasileira, articulando três dimensões fundamentais:
+
+**Dimensão Geopolítica**
+A reorganização territorial pós-guerra estabeleceu novas formas de controle baseadas na:
+- Articulação entre desenvolvimento e segurança nacional
+- Transferência seletiva de tecnologia militar-energética
+- Formação de quadros técnico-militares especializados
+- Definição estratégica de áreas prioritárias
+
+**Dimensão Técnico-Institucional**
+O aparato institucional criado materializou:
+- A fusão entre expertise militar e gestão territorial
+- O desenvolvimento de protocolos técnico-militares específicos
+- A formação de redes de poder territorial
+- A militarização do conhecimento técnico
+
+**Dimensão Territorial**
+Os impactos territoriais manifestaram-se através:
+- Da reconfiguração espacial planejada
+- Do controle populacional militarizado
+- Da gestão militarizada dos recursos naturais
+- Da criação de novas hierarquias territoriais
+
+O período pós-guerra foi marcado por três dimensões fundamentais:
 
 1. **Dimensão Geopolítica**
 - Alinhamento estratégico Brasil-EUA no contexto da Guerra Fria
@@ -65,6 +89,29 @@ Como evidenciado nos documentos analisados, o Vale do São Francisco emerge nest
 - Militarização do cotidiano
 
 #### 1.1.1 Política de Defesa Nacional no Pós-Guerra
+
+A política de defesa nacional foi reformulada considerando:
+
+1. **Cooperação Internacional**
+- Acordo Militar Brasil-EUA de 1952
+- Missão Naval Americana (1942-1977)
+- Programa de reequipamento militar
+- Treinamento de oficiais nos EUA
+- Padronização de doutrinas militares
+
+2. **Reorganização Institucional**
+- Criação da Escola Superior de Guerra (1949)
+- Reformulação do Estado-Maior das Forças Armadas
+- Estabelecimento da doutrina de segurança nacional
+- Integração com planejamento econômico
+- Novos conceitos estratégicos
+
+3. **Dimensão Tecnológica**
+- Desenvolvimento de tecnologias próprias
+- Adaptação de tecnologias importadas
+- Formação de centros de pesquisa
+- Inovações em engenharia militar
+- Sistemas de monitoramento territorial
 
 A política de defesa nacional no período foi caracterizada por:
 
@@ -251,6 +298,22 @@ Esta seção final do capítulo evidencia como a experiência do Vale do São Fr
 - Projetos de recuperação ambiental
 - Preservação do patrimônio cultural
 - Apoio às comunidades afetadas
+
+### 1.6 Resistências e Adaptações Sociais
+
+#### 1.6.1 Movimentos de Resistência
+- Organizações comunitárias
+- Lutas territoriais
+- Manifestações culturais
+- Redes de solidariedade
+- Estratégias de permanência
+
+#### 1.6.2 Adaptações Socioculturais
+- Novos modos de vida
+- Reconfigurações familiares
+- Práticas econômicas alternativas
+- Reorganização comunitária
+- Preservação de tradições
 
 ### Considerações Parciais
 O capítulo demonstra como o Vale do São Francisco serviu de laboratório para práticas de desterritorialização militar, estabelecendo padrões de intervenção que seriam posteriormente reproduzidos em escala nacional. A articulação entre desenvolvimento e segurança, materializada nas instalações da CHESF e estruturas militares associadas, criou um modelo de gestão territorial que influenciaria decisivamente a atuação militar no Brasil.
@@ -634,4 +697,4 @@ Este volume analisou a trajetória histórica dos processos de desterritorializa
 
 ### Considerações Prospectivas
 
-A análise desenvolvida neste volume evidencia a necessidade de aprofundar os estudos sobre as relações entre poder militar e território no Brasil, considerando tanto as permanências históricas quanto as novas configurações emergentes. O entendimento desses processos é fundamental para a construção de alternativas democráticas de gestão territorial que superem o paradigma da militarização e promovam formas mais justas e sustentáveis de organização espacial. 
+A análise desenvolvida neste volume evidencia a necessidade de aprofundar os estudos sobre as relações entre poder militar e território no Brasil, considerando tanto as permanências históricas quanto as novas configurações emergentes. O entendimento desses processos é fundamental para a construção de alternativas democráticas de gestão territorial que superem o paradigma da militarização e promovam formas mais justas e sustentáveis de organização espacial.

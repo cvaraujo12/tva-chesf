@@ -1,0 +1,35 @@
+REFERÊNCIA BIBLIOGRÁFICA
+------------------------
+Título: [Título do Artigo]
+Autor(es): [Nome dos Autores]
+Ano: [Ano de Publicação]
+Fonte: [Periódico/Publicação]
+
+CONTEXTUALIZAÇÃO HISTÓRICA
+-------------------------
+Período: [Período histórico abordado]
+Contexto econômico: [Descrição do cenário econômico]
+Relação com CHESF: [Conexão com a história da CHESF]
+
+ANÁLISE DO CONTEÚDO
+------------------
+Principais temas:
+- [Tema 1]
+- [Tema 2]
+- [Tema 3]
+
+Aspectos técnicos relevantes:
+- [Aspecto 1]
+- [Aspecto 2]
+
+RELAÇÃO COM OUTRAS FONTES
+------------------------
+Documentos relacionados:
+- [Documento 1]
+- [Documento 2]
+
+OBSERVAÇÕES ADICIONAIS
+---------------------
+[Espaço para notas e observações complementares]
+
+// ... existing code ...
