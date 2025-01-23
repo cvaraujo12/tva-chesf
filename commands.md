@@ -1,151 +1,281 @@
-# Comandos Disponíveis
+# Comandos do Sistema Integrado de Pesquisa e Produção Acadêmica
 
-## /update-resume
-**Descrição**: Atualiza o resumo geral de todas as fontes consultadas na sessão atual.
+## Visão Geral
+Este documento descreve os comandos disponíveis no Sistema Integrado de Pesquisa e Produção Acadêmica, que segue as regras definidas no arquivo .cursorrules. O sistema combina gestão documental, produção de conteúdo e validação acadêmica.
 
-### Funcionalidades
-- Gera/atualiza arquivo `resumo_geral_pesquisa.md`
-- Incorpora novas fontes identificadas
-- Atualiza status de análises
-- Registra novas conexões descobertas
-- Mantém histórico de alterações
+## Configuração do Sistema
+- **Versão**: 2.0
+- **Formato Padrão**: Markdown
+- **Validação**: ABNT
+- **Backup**: Automático
+- **Controle de Versão**: Ativo
 
-### Estrutura do Resumo
-1. **Fontes Analisadas**
-   - Nome e localização
-   - Status da análise
-   - Descobertas principais
-   - Relevância para pesquisa
+## 1. Comandos de Gestão de Fontes e Documentos
 
-2. **Fontes Pendentes**
-   - Identificação
-   - Prioridade
-   - Prazo estimado
-   - Requisitos de acesso
+### /adicionar-fonte
+- **Dificuldade**: Média
+- **Descrição**: Adiciona uma nova fonte bibliográfica ao sistema
+- **Parâmetros**:
+  - titulo: Título da fonte
+  - autores: Lista de autores
+  - data_publicacao: Data de publicação
+  - palavras_chave: Palavras-chave
+  - resumo: Resumo do conteúdo
+  - localizacao_arquivo: Localização do arquivo
+  - citacao: Citação formatada
+  - link_fonte: Link para a fonte
+  - anotacoes: Anotações sobre a fonte
 
-3. **Conexões Estabelecidas**
-   - Entre documentos
-   - Entre instituições
-   - Validações cruzadas
+### /update-resume
+- **Descrição**: Atualiza o resumo geral de todas as fontes consultadas
+- **Funcionalidades**:
+  - Gera/atualiza arquivo `resumo_geral_pesquisa.md`
+  - Incorpora novas fontes identificadas
+  - Atualiza status de análises
+  - Registra novas conexões descobertas
+- **Uso**:
+  ```bash
+  /update-resume                    # Atualização básica
+  /update-resume --full            # Atualização completa com metadados
+  /update-resume --section=fontes  # Atualiza seção específica
+  ```
 
-4. **Próximos Passos**
-   - Análises prioritárias
-   - Documentos pendentes
-   - Cruzamentos necessários
+### /buscar-fontes
+- **Dificuldade**: Fácil
+- **Descrição**: Busca fontes por termo específico
+- **Parâmetros**:
+  - termo_busca: Termo para busca
+  - tipo_fonte: Tipo de fonte
+  - periodo: Período de busca
 
-5. **Recomendações**
-   - Ações imediatas
-   - Preparação documental
-   - Expansão da pesquisa
+## 2. Comandos de Validação e Qualidade
 
-### Uso
-```bash
-/update-resume                    # Atualização básica
-/update-resume --full            # Atualização completa com metadados
-/update-resume --section=fontes  # Atualiza seção específica
-```
-
-### Metadados Incluídos
-- Data da última atualização
-- Número de fontes analisadas
-- Estatísticas de progresso
-- Validações pendentes
-
-### Observações
-- Executa backup automático antes da atualização
-- Mantém histórico de versões
-- Notifica sobre alterações significativas
-- Preserva formatação markdown
-
-### Integração
-- Respeita regras do .cursorrules
-- Mantém padrões de documentação
-- Permite exportação em múltiplos formatos
-- Facilita citações e referências
-
-# Comandos de Produção e Revisão
-
-## Comandos de Análise e Verificação
+### /validar-citacoes
+- **Dificuldade**: Difícil
+- **Descrição**: Valida citações conforme ABNT NBR 10520
+- **Parâmetros**:
+  - citation_style: Estilo de citação
+  - document_type: Tipo de documento
+  - fix_suggestions: Sugestões de correção
 
 ### /check-consistency
-Verifica a consistência do conteúdo em diferentes níveis (volume, capítulo, seção).
+- **Descrição**: Verifica consistência do conteúdo
 - **Escopo**: Define o nível de análise (volume, capítulo ou seção)
-- **Verificações**: Cronologia, referências cruzadas, citações e narrativa
-- **Saída**: Relatório em formato markdown com inconsistências encontradas
-
-### /generate-timeline
-Gera linha do tempo visual dos eventos documentados.
-- **Formatos**: Mermaid, markdown ou visual
-- **Ordenação**: Automática por data
-- **Detecção**: Identifica lacunas temporais na narrativa
-
-### /review-citations
-Analisa e valida as citações utilizadas.
-- **Estilos**: Chicago, APA ou personalizado
-- **Verificações**: Formato, completude e duplicatas
-- **Correções**: Sugestões de ajustes necessários
-
-### /analyze-gaps
-Identifica lacunas na documentação e narrativa.
-- **Tipos**: Documentação, linha do tempo, evidências e narrativa
-- **Sugestões**: Fontes potenciais para preencher lacunas
-- **Relatório**: Lista detalhada de áreas que precisam complementação
-
-## Comandos de Geração e Exportação
-
-### /generate-summary
-Gera resumos automáticos em diferentes níveis.
-- **Níveis**: Capítulo, seção ou descobertas
-- **Metadados**: Inclui informações sobre fontes e classificação
-- **Formato**: Markdown estruturado com seções definidas
-
-### /validate-sources
-Valida as fontes utilizadas na pesquisa.
-- **Validação**: Autenticidade, referências cruzadas e classificação
-- **Rastreamento**: Mantém histórico de alterações
-- **Relatório**: Status de validação de cada fonte
-
-### /track-revisions
-Gerencia versões e alterações no conteúdo.
-- **Rastreamento**: Mudanças, versões e conflitos
-- **Backup**: Mantém cópias de segurança automáticas
-- **Histórico**: Log detalhado de alterações
-
-### /export-findings
-Exporta descobertas em diferentes formatos.
-- **Formatos**: PDF, markdown, HTML e DOCX
-- **Evidências**: Inclui documentação comprobatória
-- **Personalização**: Opções de formatação por formato
-
-## Comandos de Análise Avançada
-
-### /check-narrative
-Analisa a qualidade e coerência da narrativa.
-- **Aspectos**: Fluxo, consistência, lógica e transições
-- **Sugestões**: Melhorias na estrutura narrativa
-- **Relatório**: Pontos fortes e áreas para melhoria
-
-### /generate-visualization
-Cria visualizações das conexões e relacionamentos.
-- **Tipos**: Redes, linhas do tempo, hierarquias e conexões
-- **Formatos**: Mermaid, DOT e SVG
-- **Interativo**: Permite exploração visual dos dados
-
-### /semantic-analysis
-Realiza análise semântica do conteúdo.
-- **Análises**: Temas, padrões, contextos e relacionamentos
-- **Conexões**: Sugere ligações entre diferentes elementos
-- **Insights**: Identifica padrões e tendências
+- **Verificações**:
+  - Cronologia
+  - Referências cruzadas
+  - Citações
+  - Narrativa
 
 ### /quality-check
-Verifica a qualidade geral do conteúdo.
-- **Verificações**: Linguagem, estrutura, referências e formatação
-- **Correções**: Sugestões de melhorias
-- **Relatório**: Avaliação detalhada da qualidade
+- **Verificações**:
+  - Linguagem
+  - Estrutura
+  - Referências
+  - Formatação
+- **Saída**: Relatório detalhado com sugestões
+
+### /validate-evidence
+- **Dificuldade**: Alta
+- **Descrição**: Valida evidências documentais conforme regras estabelecidas
+- **Níveis de Validação**:
+  - primary_source
+  - secondary_source
+  - cross_reference
+  - contextual
+- **Tipos de Conexão**:
+  - direct
+  - indirect
+  - contextual
+  - comparative
+- **Saída**: Relatório de validação com ranking de prioridade
+
+### /analyze-structure
+- **Dificuldade**: Média
+- **Componentes**:
+  - contexto_historico
+  - evidencia_documental
+  - analise_critica
+  - implicacoes
+  - conclusoes
+- **Elementos Obrigatórios**:
+  - fonte_primaria
+  - metodologia
+  - argumentacao
+  - conclusao
+
+## 3. Comandos de Análise e Visualização
+
+### /generate-timeline
+- **Formatos**: Mermaid, markdown, visual
+- **Funcionalidades**:
+  - Ordenação automática por data
+  - Detecção de lacunas temporais
+  - Visualização interativa
+
+### /semantic-analysis
+- **Análises**:
+  - Temas e padrões
+  - Contextos
+  - Relacionamentos
+  - Tendências
+- **Saída**: Relatório de insights e conexões
+
+### /generate-visualization
+- **Tipos**:
+  - Redes
+  - Linhas do tempo
+  - Hierarquias
+  - Conexões
+- **Formatos**: Mermaid, DOT, SVG
+
+### /research-automation
+- **Dificuldade**: Alta
+- **Bases de Dados**:
+  - CIA_FOIA
+  - NARA_Archives
+  - Wilson_Center
+  - Digital_Archives
+- **Funcionalidades**:
+  - Atualização diária
+  - Alertas de novos documentos
+  - Rastreamento de fontes
+
+### /knowledge-management
+- **Dificuldade**: Média
+- **Categorização**:
+  - militar
+  - tecnico
+  - diplomatico
+  - estrategico
+- **Funcionalidades**:
+  - Rastreamento de relações
+  - Visualização de conexões
+  - Gestão taxonômica
+
+## 4. Comandos de Integração
+
+### /sincronizar-referencias
+- **Dificuldade**: Difícil
+- **Plataformas**:
+  - Mendeley
+  - Zotero
+- **Parâmetros**:
+  - api_key: Chave API
+  - sync_options: Opções de sincronização
+  - collection_id: ID da coleção
+
+### /exportar-bibliografia
+- **Formatos**:
+  - PDF
+  - Markdown
+  - HTML
+  - DOCX
+- **Opções**:
+  - Incluir anotações
+  - Preservar metadados
+  - Manter formatação
+
+## 5. Comandos de Produção Textual
+
+### /produzir-introducao
+- **Dificuldade**: Média
+- **Parâmetros**:
+  - topic: Tópico
+  - scope: Escopo
+  - goal: Objetivo
+  - context_files: Arquivos de contexto
+
+### /produzir-conclusao
+- **Dificuldade**: Média
+- **Parâmetros**:
+  - main_arguments: Argumentos principais
+  - implications: Implicações
+  - final_thoughts: Pensamentos finais
+  - context_files: Arquivos de contexto
+
+### /revisar-texto
+- **Dificuldade**: Média
+- **Verificações**:
+  - Coesão textual
+  - Fluidez argumentativa
+  - Padronização
+  - Formatação ABNT
+
+## 6. Comandos de Segurança e Backup
+
+### /gerenciar-credenciais
+- **Dificuldade**: Difícil
+- **Funcionalidades**:
+  - Gerenciamento de acessos
+  - Criptografia de dados
+  - Backup de credenciais
+
+### /track-revisions
+- **Rastreamento**:
+  - Mudanças
+  - Versões
+  - Conflitos
+- **Backup**: Automático e manual
+
+## 7. Comandos de Resumo e Atualização
+
+### /auto-summary
+- **Dificuldade**: Média
+- **Arquivo de Saída**: resumo_geral_pesquisa.md
+- **Seções**:
+  - fontes_analisadas
+  - fontes_pendentes
+  - conexoes_estabelecidas
+  - proximos_passos
+  - recomendacoes
+- **Campos Obrigatórios**:
+  - status
+  - relevancia
+  - descobertas_principais
+  - pendencias
+- **Metadados**:
+  - track_dates: true
+  - track_progress: true
+  - track_connections: true
+- **Gatilhos de Atualização**:
+  - nova_fonte
+  - nova_analise
+  - nova_conexao
+  - novo_documento
+
+### /update-rules
+- **Dificuldade**: Média
+- **Frequência**: on_demand
+- **Funcionalidades**:
+  - Backup automático
+  - Controle de versão
+  - Notificações
+- **Seções de Resumo**:
+  - Fontes Analisadas
+    - nome_arquivo
+    - tipo_documento
+    - data_analise
+    - descobertas_principais
+  - Fontes Pendentes
+    - nome_arquivo
+    - status
+    - prioridade
+    - prazo_estimado
+  - Conexões
+    - fonte_origem
+    - fonte_destino
+    - tipo_conexao
+    - relevancia
 
 ## Notas de Uso
-1. Todos os comandos podem ser executados em qualquer nível do projeto
-2. Os relatórios são gerados em markdown por padrão
-3. As configurações podem ser ajustadas no arquivo .cursorrules
-4. Backups automáticos são realizados antes de alterações significativas
-5. Logs detalhados são mantidos para todas as operações 
+1. Todos os comandos respeitam as regras definidas no .cursorrules
+2. Backups automáticos são realizados antes de alterações significativas
+3. Logs detalhados são mantidos para todas as operações
+4. A formatação markdown é preservada em todas as operações
+5. Metadados são mantidos em todas as exportações
+6. Validações ABNT são aplicadas automaticamente
+7. Integrações com ferramentas externas requerem configuração prévia
+8. Comandos podem ser executados em qualquer nível do projeto
+9. Evidências devem ser validadas por múltiplas fontes
+10. Referências cruzadas são obrigatórias 

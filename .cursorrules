@@ -2,6 +2,10 @@
 
 ## 1. Configuração de Busca Documental
 {
+    "name": "Sistema Integrado de Pesquisa e Produção Acadêmica",
+    "version": "2.0",
+    "description": "Sistema integrado para desenvolvimento de pesquisa acadêmica, combinando gestão documental e produção de conteúdo",
+    
     "document_search": {
         "priority": "high",
         "search_patterns": [
@@ -365,6 +369,351 @@
                 "formatting"
             ],
             "auto_fix": false
+        }
+    }
+}
+
+## 14. Comandos de Produtividade
+{
+    "productivity_commands": {
+        "book_development": {
+            "trigger": "iniciar desenvolvimento do livro",
+            "action": "initiateBookDevelopment",
+            "difficulty": "media",
+            "token_estimate": 150,
+            "steps": [
+                "Coletar informações iniciais",
+                "Definir título e tema",
+                "Definir público-alvo",
+                "Definir fontes",
+                "Definir objetivo geral"
+            ],
+            "parameters": {
+                "title": "<title>",
+                "theme": "<theme>",
+                "target_audience": "<target_audience>",
+                "sources": "<sources_list>",
+                "goal": "<goal>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "research": {
+            "trigger": "pesquisar sobre",
+            "action": "conductResearch",
+            "difficulty": "media",
+            "token_estimate": 100,
+            "steps": [
+                "Buscar informações sobre o tópico",
+                "Analisar fontes",
+                "Analisar arquivos anexados",
+                "Organizar informações"
+            ],
+            "parameters": {
+                "query": "<query>",
+                "sources": "<sources_list>",
+                "depth": "<depth>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "context_usage": {
+            "trigger": "utilizar contexto",
+            "action": "useContext",
+            "difficulty": "facil",
+            "token_estimate": 50,
+            "steps": [
+                "Analisar arquivos anexados",
+                "Utilizar informações como referência"
+            ],
+            "parameters": {
+                "context_files": "<context_files_list>"
+            }
+        },
+        "argument_building": {
+            "trigger": "construir argumento sobre",
+            "action": "buildArgument",
+            "difficulty": "media",
+            "token_estimate": 200,
+            "steps": [
+                "Buscar informações",
+                "Analisar fontes",
+                "Construir argumentos",
+                "Utilizar contexto",
+                "Apresentar argumento"
+            ],
+            "parameters": {
+                "topic": "<topic>",
+                "sources": "<sources_list>",
+                "method": "<method_list>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "information_synthesis": {
+            "trigger": "sintetizar informações",
+            "action": "summarizeInformation",
+            "difficulty": "facil",
+            "token_estimate": 80,
+            "steps": [
+                "Analisar texto",
+                "Criar resumo",
+                "Utilizar contexto",
+                "Apresentar resumo"
+            ],
+            "parameters": {
+                "content": "<content>",
+                "length": "<length>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "text_expansion": {
+            "trigger": "expandir texto",
+            "action": "expandText",
+            "difficulty": "media",
+            "token_estimate": 150,
+            "steps": [
+                "Analisar texto",
+                "Expandir texto",
+                "Aplicar objetivo",
+                "Utilizar contexto",
+                "Apresentar texto expandido"
+            ],
+            "parameters": {
+                "text": "<text>",
+                "type": "<type>",
+                "goal": "<goal>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "text_revision": {
+            "trigger": "revisar texto",
+            "action": "reviseText",
+            "difficulty": "media",
+            "token_estimate": 150,
+            "steps": [
+                "Analisar texto",
+                "Verificar pontos específicos",
+                "Utilizar contexto",
+                "Apresentar revisão"
+            ],
+            "parameters": {
+                "text": "<text>",
+                "focus": "<focus>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "thesis_revision": {
+            "trigger": "revisar tese",
+            "action": "reviseTextThesis",
+            "difficulty": "dificil",
+            "token_estimate": 400,
+            "steps": [
+                "Analisar arquivo",
+                "Identificar padrões de coesão",
+                "Identificar fluidez argumentativa",
+                "Identificar padronização textual",
+                "Apresentar padrões encontrados"
+            ],
+            "parameters": {
+                "arquivo": "<arquivo>",
+                "padroes": "<padroes_list>"
+            }
+        },
+        "new_text_generation": {
+            "trigger": "gerar novo tipo textual",
+            "action": "generateTextByType",
+            "difficulty": "media",
+            "token_estimate": 200,
+            "steps": [
+                "Criar texto do tipo especificado",
+                "Utilizar tópico definido",
+                "Aplicar objetivo",
+                "Utilizar contexto",
+                "Apresentar texto"
+            ],
+            "parameters": {
+                "type": "<type>",
+                "topic": "<topic>",
+                "goal": "<goal>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "text_analysis": {
+            "trigger": "analisar texto",
+            "action": "analyzeText",
+            "difficulty": "media",
+            "token_estimate": 150,
+            "steps": [
+                "Analisar texto",
+                "Aplicar tipo de análise",
+                "Utilizar contexto",
+                "Apresentar análise"
+            ],
+            "parameters": {
+                "text": "<text>",
+                "analysis_type": "<analysis_type>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "introduction_production": {
+            "trigger": "produzir introducao",
+            "action": "produceIntroduction",
+            "difficulty": "media",
+            "token_estimate": 100,
+            "steps": [
+                "Criar introdução",
+                "Definir escopo",
+                "Aplicar objetivo",
+                "Utilizar contexto",
+                "Apresentar introdução"
+            ],
+            "parameters": {
+                "topic": "<topic>",
+                "scope": "<scope>",
+                "goal": "<goal>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "conclusion_production": {
+            "trigger": "produzir conclusao",
+            "action": "produceConclusion",
+            "difficulty": "media",
+            "token_estimate": 100,
+            "steps": [
+                "Criar conclusão",
+                "Utilizar argumentos principais",
+                "Aplicar implicações",
+                "Utilizar contexto",
+                "Apresentar conclusão"
+            ],
+            "parameters": {
+                "main_arguments": "<main_arguments>",
+                "implications": "<implications>",
+                "final_thoughts": "<final_thoughts>",
+                "context_files": "<context_files_list>"
+            }
+        },
+        "source_management": {
+            "add_source": {
+                "trigger": "adicionar-fonte",
+                "difficulty": "media",
+                "parameters": {
+                    "titulo": "<title>",
+                    "autores": "<authors_list>",
+                    "data_publicacao": "<date>",
+                    "palavras_chave": "<keywords>",
+                    "resumo": "<summary>",
+                    "localizacao_arquivo": "<file_location>",
+                    "citacao": "<citation>",
+                    "link_fonte": "<source_link>",
+                    "anotacoes": "<notes>"
+                }
+            },
+            "search_sources": {
+                "trigger": "buscar-fontes",
+                "difficulty": "facil",
+                "parameters": {
+                    "termo_busca": "<search_term>",
+                    "tipo_fonte": "<source_type>",
+                    "periodo": "<period>"
+                }
+            }
+        },
+        "validation_commands": {
+            "validate_citations": {
+                "trigger": "validar-citacoes",
+                "difficulty": "dificil",
+                "parameters": {
+                    "citation_style": "<style>",
+                    "document_type": "<type>",
+                    "fix_suggestions": "<suggestions>"
+                }
+            },
+            "check_consistency": {
+                "trigger": "check-consistency",
+                "enabled": true,
+                "scopes": ["volume", "chapter", "section"],
+                "checks": [
+                    "chronology",
+                    "cross_references",
+                    "citations",
+                    "narrative"
+                ]
+            }
+        },
+        "integration_commands": {
+            "sync_references": {
+                "trigger": "sincronizar-referencias",
+                "difficulty": "dificil",
+                "platforms": ["mendeley", "zotero"],
+                "parameters": {
+                    "api_key": "<key>",
+                    "sync_options": "<options>",
+                    "collection_id": "<id>"
+                }
+            },
+            "export_bibliography": {
+                "trigger": "exportar-bibliografia",
+                "formats": ["pdf", "markdown", "html", "docx"],
+                "options": {
+                    "include_annotations": true,
+                    "preserve_metadata": true,
+                    "keep_formatting": true
+                }
+            }
+        },
+        "text_production": {
+            "introduction": {
+                "trigger": "produzir-introducao",
+                "difficulty": "media",
+                "parameters": {
+                    "topic": "<topic>",
+                    "scope": "<scope>",
+                    "goal": "<goal>",
+                    "context_files": "<files>"
+                }
+            },
+            "conclusion": {
+                "trigger": "produzir-conclusao",
+                "difficulty": "media",
+                "parameters": {
+                    "main_arguments": "<arguments>",
+                    "implications": "<implications>",
+                    "final_thoughts": "<thoughts>",
+                    "context_files": "<files>"
+                }
+            },
+            "text_revision": {
+                "trigger": "revisar-texto",
+                "difficulty": "media",
+                "checks": [
+                    "coesao_textual",
+                    "fluidez_argumentativa",
+                    "padronizacao",
+                    "formatacao_abnt"
+                ]
+            }
+        },
+        "security_commands": {
+            "credentials": {
+                "trigger": "gerenciar-credenciais",
+                "difficulty": "dificil",
+                "features": [
+                    "access_management",
+                    "data_encryption",
+                    "credentials_backup"
+                ]
+            },
+            "revision_tracking": {
+                "trigger": "track-revisions",
+                "tracking": [
+                    "changes",
+                    "versions",
+                    "conflicts"
+                ],
+                "backup": {
+                    "auto": true,
+                    "manual": true
+                }
+            }
         }
     }
 }
