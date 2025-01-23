@@ -1,0 +1,7 @@
+Data: qui 23 jan 2025 20:46:28 -03
+Verificando: 1_documentacao/README.md
+-------------------
+Verificando: 2_fontes/itamaraty/instrucoes_acesso.md
+-------------------
+Verificando: 2_fontes/chesf/instrucoes_acesso_chesf.md
+-------------------
